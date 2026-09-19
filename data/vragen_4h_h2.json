@@ -1,0 +1,1796 @@
+{
+  "vak": "Aardrijkskunde",
+  "hoofdstuk": "4 havo H2 - Wereldbeeld",
+  "methode": "buiteNLand",
+  "scope": "buiteNLand 4 havo, H2 Wereld: Wereldbeeld (par. 2.1 t/m 2.9)",
+  "totaal_vragen": 119,
+  "leerdoelen": [
+    {
+      "leerdoel_id": 1,
+      "paragraaf": "2.1",
+      "leerdoel_titel": "Patronen: welvaart en welzijn",
+      "uitleg_tekst": "Materiële welvaart meet je met het bruto binnenlands product (bbp): de totale waarde van alle goederen en diensten die in één jaar in een land geproduceerd worden. Deel je dat door het aantal inwoners, dan krijg je het bbp/hoofd. Bij het bruto nationaal product (bnp) tel je de productie van alle mensen met dezelfde nationaliteit mee, ook die in het buitenland. Ook de samenstelling van de beroepsbevolking zegt iets over welvaart: hoe rijker een land, hoe meer mensen in de dienstensector werken. Aan het bbp/hoofd kleven vier nadelen: het is een gemiddelde (sociale ongelijkheid blijft onzichtbaar), de dollar is niet overal evenveel waard (koopkracht), de informele sector telt niet mee en regionale verschillen (brp/hoofd) blijven verborgen. Welzijn gaat over de werkelijke levensomstandigheden en meet je met inkomen, analfabetisme en levensverwachting, samengevat in de VN-ontwikkelingsindex (HDI) die loopt van 0 tot 1.",
+      "subdoelen": [
+        {
+          "subdoel_id": "1.1",
+          "subdoel_titel": "Welvaart meten met bbp, bnp en beroepsbevolking",
+          "uitleg_tekst": "Het bbp is de productiewaarde binnen een land, het bnp de productiewaarde van alle staatsburgers, ook in het buitenland. Gedeeld door het aantal inwoners krijg je het bbp/hoofd of bnp/hoofd.",
+          "vragen": [
+            {
+              "id": 1,
+              "type": "multiple_choice",
+              "vraag": "Wat is het bruto binnenlands product (bbp) van een land?",
+              "opties": [
+                "De totale waarde van alle goederen en diensten die in één jaar in dat land geproduceerd worden",
+                "De totale waarde van alles wat staatsburgers van dat land produceren, ook in het buitenland",
+                "Het gemiddelde inkomen per inwoner van een regio binnen dat land",
+                "De totale waarde van alle goederen die een land in één jaar exporteert"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het bbp kijkt naar het grondgebied: alles wat inwoners én bedrijven bínnen het land produceren. Bij het bnp kijk je naar nationaliteit (ook Nederlanders in het buitenland), en het brp gaat over een regio."
+            },
+            {
+              "id": 2,
+              "type": "multiple_choice",
+              "vraag": "Een Nederlands bedrijf laat schoenen maken in een fabriek in Vietnam. In welk cijfer telt de productiewaarde van die Nederlandse werknemers in Vietnam mee?",
+              "opties": [
+                "In het bbp van Nederland",
+                "In het bnp van Nederland",
+                "In het brp van Nederland",
+                "In geen enkel cijfer, want het gebeurt buiten de EU"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het bnp telt de productie van alle personen met dezelfde nationaliteit, dus ook van werkenden in het buitenland. Het bbp zou alleen meetellen wat bínnen Nederland geproduceerd wordt."
+            },
+            {
+              "id": 3,
+              "type": "invullen",
+              "vraag": "Hoe noem je het gemiddelde inkomen per inwoner van een regio, waarmee je regionale ongelijkheid zichtbaar maakt? Geef de afkorting.",
+              "juiste_antwoord": "brp",
+              "uitleg": "Het bruto regionaal product per hoofd (brp/hoofd) laat verschillen binnen een land zien. In Noord-Holland ligt het brp/hoofd bijna twee keer zo hoog als in Drenthe."
+            },
+            {
+              "id": 4,
+              "type": "multiple_choice",
+              "vraag": "In Nederland werkt 84 procent van de mensen in de dienstensector, in Tsjaad werkt 69 procent in de landbouw. Welke algemene regel blijkt hieruit?",
+              "opties": [
+                "Hoe armer een land, hoe gelijkmatiger de sectoren verdeeld zijn",
+                "Hoe rijker een land, hoe meer mensen in de industrie werken",
+                "Hoe rijker een land, hoe meer mensen in de dienstensector werken",
+                "Hoe armer een land, hoe groter de dienstensector wordt"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Als een land rijker wordt, schuift de beroepsbevolking op van de landbouw via de industrie naar de dienstensector. De samenstelling van de beroepsbevolking is daarom een maat voor welvaart."
+            },
+            {
+              "id": 5,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke gegevens gebruik je om de materiële welvaart van een land te meten?",
+              "opties": [
+                "Het bbp per hoofd van de bevolking",
+                "De samenstelling van de beroepsbevolking",
+                "Het bnp per hoofd van de bevolking",
+                "De levensverwachting bij de geboorte",
+                "Het percentage analfabeten"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Welvaart is materieel: bbp/hoofd, bnp/hoofd en de verdeling van de beroepsbevolking. Levensverwachting en analfabetisme horen bij welzijn, dus bij de levensomstandigheden."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.2",
+          "subdoel_titel": "De vier nadelen van het bbp per hoofd",
+          "uitleg_tekst": "Het bbp/hoofd is een gemiddelde en verbergt sociale ongelijkheid, houdt geen rekening met koopkracht, laat de informele sector buiten beschouwing en maakt regionale ongelijkheid onzichtbaar.",
+          "vragen": [
+            {
+              "id": 6,
+              "type": "multiple_choice",
+              "vraag": "In Zuid-Afrika bezit de rijkste tien procent van de bevolking de helft van het nationale inkomen, terwijl de armste tien procent het met minder dan één procent moet doen. Welk nadeel van het bbp/hoofd blijkt hieruit?",
+              "opties": [
+                "Het bbp/hoofd laat geen verschillen tussen regio's zien",
+                "Het bbp/hoofd houdt geen rekening met verschillen in koopkracht",
+                "Het bbp/hoofd telt de inkomsten uit de informele sector niet mee",
+                "Het bbp/hoofd is een gemiddelde en laat sociale ongelijkheid niet zien"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Een gemiddelde zegt niets over de verdeling. Verschillen in welvaart en kansen tússen bevolkingsgroepen heet sociale ongelijkheid; die zie je niet terug in één landelijk cijfer."
+            },
+            {
+              "id": 7,
+              "type": "multiple_choice",
+              "vraag": "Waarom zijn Indiërs volgens het boek in feite minder arm dan het bbp/hoofd van India aangeeft?",
+              "opties": [
+                "Omdat je in India voor één dollar veel meer kunt kopen dan in een rijk land",
+                "Omdat het bnp/hoofd van India veel hoger ligt dan het bbp/hoofd",
+                "Omdat India veel ontwikkelingshulp ontvangt die niet in het bbp zit",
+                "Omdat de Indiase overheid de inkomens van de armste groepen aanvult"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De koopkracht laat zien hoeveel goederen of diensten je in een land voor één dollar kunt kopen. De prijzen liggen in India veel lager, dus komt de bevolking met minder dollars verder. De Big Mac-index maakt dat zichtbaar."
+            },
+            {
+              "id": 8,
+              "type": "multiple_choice",
+              "vraag": "Ronaldo verkoopt frisdrank op het strand van Copacabana en geeft zijn inkomsten niet op bij de belastingdienst. Waarom staan zijn inkomsten niet in de officiële cijfers van Brazilië?",
+              "opties": [
+                "Straathandel telt in Brazilië niet mee als een economische activiteit",
+                "Zijn werk hoort bij de informele sector en wordt niet geregistreerd",
+                "Zijn inkomen ligt onder de armoedegrens en telt daarom niet mee",
+                "Hij is zijn eigen baas, en zelfstandigen vallen buiten het bbp"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Inkomsten uit de informele sector, ruilhandel en zelfvoorzienende landbouw worden niet geregistreerd. Juist in arme landen werken veel mensen in die sector, dus wordt er meer verdiend dan de officiële cijfers laten zien."
+            },
+            {
+              "id": 9,
+              "type": "multiple_choice",
+              "vraag": "Welke uitspraak gaat over regionale ongelijkheid?",
+              "opties": [
+                "De rijkste groep in de Verenigde Staten bezit een steeds groter deel van de welvaart",
+                "In dit land verdient tien procent van de bevolking de helft van het nationaal inkomen",
+                "In Noord-Brazilië is de VN-ontwikkelingsindex 0,69 en in het zuidoosten 0,81",
+                "Vrouwen in dit land verdienen gemiddeld minder dan mannen met hetzelfde werk"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Regionale ongelijkheid gaat over verschillen tussen gebieden, sociale ongelijkheid over verschillen tussen bevolkingsgroepen. De andere drie uitspraken vergelijken groepen, niet gebieden."
+            },
+            {
+              "id": 10,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de Big Mac-index. In welk van deze landen is een Big Mac het goedkoopst?",
+              "afbeelding": "images/bron8_bigmac_index.jpg",
+              "opties": [
+                "Zuid-Afrika",
+                "Hongarije",
+                "Vietnam",
+                "India"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In India kost een Big Mac $ 2,53, het laagste bedrag in de tabel. Voor één dollar krijg je in India dus veel meer dan in de VS, waar dezelfde burger $ 5,15 kost. Dat verschil in prijsniveau is precies wat koopkracht betekent."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.3",
+          "subdoel_titel": "Welzijn en de VN-ontwikkelingsindex",
+          "uitleg_tekst": "Welzijn laat zien hoe de levensomstandigheden echt zijn. Je meet het met inkomen, analfabetisme en levensverwachting; samen vormen die de VN-ontwikkelingsindex (HDI), die van 0 tot 1 loopt.",
+          "vragen": [
+            {
+              "id": 11,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke drie zaken meet de VN-ontwikkelingsindex (HDI)?",
+              "opties": [
+                "De koopkracht van het inkomen",
+                "Het analfabetisme",
+                "De levensverwachting",
+                "De omvang van de industrie",
+                "Het aantal inwoners per vierkante kilometer"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "De HDI combineert inkomen (koopkracht), alfabetisering en levensverwachting tot één getal tussen 0 en 1. Zo meet je welzijn in plaats van alleen materiële welvaart."
+            },
+            {
+              "id": 12,
+              "type": "invullen",
+              "vraag": "Hoe noem je het verwachte gemiddelde aantal jaren dat een pasgeboren baby zal leven?",
+              "juiste_antwoord": "levensverwachting",
+              "uitleg": "De levensverwachting is een belangrijke welzijnsindicator. In Nederland lag die in 2021 op 81 jaar, in Tsjaad op 53 jaar."
+            },
+            {
+              "id": 13,
+              "type": "multiple_choice",
+              "vraag": "Nederland staat met een score van 0,94 op de tiende plaats van de VN-ontwikkelingsindex. Wat betekent zo'n score?",
+              "opties": [
+                "Het welzijn is hoog, want de index loopt van 0 tot 1",
+                "Het bbp/hoofd is hoog, want de index meet materiële welvaart",
+                "Negen landen hebben een hoger bbp/hoofd dan Nederland",
+                "Nederland scoort 94 procent van het EU-gemiddelde"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De ontwikkelingsindex loopt van 0 tot 1; hoe dichter bij 1, hoe beter het welzijn. Zuid-Sudan staat met 0,38 onderaan. De index meet welzijn, niet alleen welvaart."
+            },
+            {
+              "id": 14,
+              "type": "multiple_choice",
+              "vraag": "Waarom geeft de VN-ontwikkelingsindex een beter beeld van de levensomstandigheden dan het bbp/hoofd?",
+              "opties": [
+                "Omdat de index per regio binnen een land wordt berekend",
+                "Omdat er naast inkomen ook naar scholing en gezondheid gekeken wordt",
+                "Omdat de index ook de inkomsten uit de informele sector meetelt",
+                "Omdat de index alleen naar de armste tien procent van de bevolking kijkt"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het bbp/hoofd meet alleen gemiddelde materiële welvaart. Welzijn kijkt ook naar of kinderen naar school kunnen en of er voldoende artsen zijn — dus naar hoe mensen werkelijk leven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 2,
+      "paragraaf": "2.2",
+      "leerdoel_titel": "Patronen: bevolkingsspreiding",
+      "uitleg_tekst": "De bevolkingsspreiding over de wereld is zeer ongelijk: bijna 95 procent van de wereldbevolking woont op slechts tien procent van het landoppervlak. De gemiddelde bevolkingsdichtheid is ruim vijftig inwoners per vierkante kilometer. Kustgebieden en rivierdelta's zijn populaire woongebieden. De spreiding verklaar je met de natuurlijke mogelijkheden (vruchtbare bodem, gematigd klimaat), de ligging ten opzichte van economische kerngebieden en het koloniale verleden. Door migratie verandert het patroon voortdurend. Migranten reageren op pushfactoren (redenen om weg te gaan) en pullfactoren (redenen om je ergens te vestigen), maar ze hebben ook aspiraties en mogelijkheden nodig. Er zijn vijf typen migranten: arbeidsmigranten, volgmigranten, vluchtelingen, internationale studenten en ecologische migranten.",
+      "subdoelen": [
+        {
+          "subdoel_id": "2.1",
+          "subdoel_titel": "Bevolkingsspreiding en bevolkingsdichtheid",
+          "uitleg_tekst": "Bevolkingsspreiding is de verdeling van de bevolking over een gebied; bevolkingsdichtheid is het gemiddeld aantal inwoners per vierkante kilometer. Wereldwijd is dat ruim vijftig.",
+          "vragen": [
+            {
+              "id": 15,
+              "type": "multiple_choice",
+              "vraag": "Op welk deel van het totale landoppervlak woont bijna 95 procent van de wereldbevolking?",
+              "opties": [
+                "Op ongeveer de helft",
+                "Op ongeveer een kwart",
+                "Op ongeveer tien procent",
+                "Op ongeveer vijftig procent van de kustzones"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Bijna 95 procent van de wereldbevolking woont op slechts tien procent van het landoppervlak. Dat laat zien hoe ongelijk de bevolkingsspreiding is."
+            },
+            {
+              "id": 16,
+              "type": "invullen",
+              "vraag": "Hoe noem je het gemiddeld aantal inwoners per vierkante kilometer?",
+              "juiste_antwoord": "bevolkingsdichtheid",
+              "uitleg": "De bevolkingsdichtheid is een gemiddelde per oppervlakte-eenheid. Op aarde is die ruim vijftig inwoners per km², in Bangladesh ruim 1200."
+            },
+            {
+              "id": 17,
+              "type": "multiple_choice",
+              "vraag": "Egypte heeft een bevolkingsdichtheid van 100 mensen per vierkante kilometer, maar in de Nijldelta ligt die boven de duizend. Wat laat dit voorbeeld zien?",
+              "opties": [
+                "De spreiding van de bevolking verandert niet meer in Egypte",
+                "De bevolkingsdichtheid van Egypte is verkeerd berekend",
+                "Delta's zijn altijd dunbevolkt door het overstromingsgevaar",
+                "Een landelijk gemiddelde verbergt grote regionale verschillen"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Als je inzoomt op een land zie je pas hoe ongelijk de bevolking verdeeld is. Het nationale cijfer is een gemiddelde van dichtbevolkte delta's en vrijwel lege woestijnen."
+            },
+            {
+              "id": 18,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de kaart met de bevolkingsdichtheid. Welk type gebied is wereldwijd het dunst bevolkt?",
+              "afbeelding": "images/bron10_bevolkingsdichtheid.jpg",
+              "opties": [
+                "Poolgebieden en grote woestijnen",
+                "Rivierdelta's in Zuid-Azië",
+                "Kustzones van West-Europa",
+                "De oostkust van Noord-Amerika"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Op de kaart zie je dat gebieden die te koud (Groenland, Noord-Siberië) of te droog (Sahara, binnenland van Australië) zijn minder dan één inwoner per km² tellen. Delta's en kustzones zijn juist dichtbevolkt."
+            },
+            {
+              "id": 19,
+              "type": "multiple_choice",
+              "vraag": "Waarom zijn de gevolgen van de zeespiegelstijging in de toekomst zo groot voor veel mensen?",
+              "opties": [
+                "Bergachtige gebieden zijn dichtbevolkt en warmen het snelst op",
+                "Juist kustgebieden en rivierdelta's zijn populaire woongebieden",
+                "De bevolkingsdichtheid is het hoogst in droge binnenlanden",
+                "Steden liggen wereldwijd vooral op grote hoogte"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Kustgebieden en delta's van grote rivieren zijn van oudsher in trek, omdat de grond er vruchtbaar is en de ligging gunstig. Precies die gebieden zijn kwetsbaar voor een stijgende zeespiegel."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.2",
+          "subdoel_titel": "Verklaringen voor de bevolkingsspreiding",
+          "uitleg_tekst": "De spreiding verklaar je met drie factoren: de natuurlijke mogelijkheden, de ligging ten opzichte van economische kerngebieden en het koloniale verleden.",
+          "vragen": [
+            {
+              "id": 20,
+              "type": "multiple_choice",
+              "vraag": "In het droge hart van Australië wonen veel minder mensen dan aan de zuidoostkust. Welke verklaring voor de bevolkingsspreiding is hier het belangrijkst?",
+              "opties": [
+                "De ligging ten opzichte van kerngebieden",
+                "Het koloniale verleden",
+                "De natuurlijke mogelijkheden",
+                "Het overheidsbeleid rond migratie"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Mensen gaan van oudsher wonen waar de bodem vruchtbaar en het klimaat gematigd is, want daar kun je landbouw bedrijven. Te droge en bergachtige gebieden zijn minder in trek."
+            },
+            {
+              "id": 21,
+              "type": "multiple_choice",
+              "vraag": "In vrijwel alle ooit gekoloniseerde gebieden woont de bevolking geconcentreerd in de kustzone. Hoe komt dat?",
+              "opties": [
+                "De koloniën legden hun spoorwegen alleen in het binnenland aan",
+                "De kolonisten dwongen de bevolking in het binnenland te gaan wonen",
+                "In de kustzones was de bodem na de kolonisatie het vruchtbaarst",
+                "De kolonisten kwamen daar aan land en handelden per schip met het moederland"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Havens aan de kust waren het startpunt van de kolonisatie en de plek waar grondstoffen werden ingescheept. Je ziet dit patroon bijvoorbeeld duidelijk in Zuid-Amerika."
+            },
+            {
+              "id": 22,
+              "type": "multiple_choice",
+              "vraag": "Welke wereldwijde trend is er op dit moment in de bevolkingsspreiding te zien?",
+              "opties": [
+                "In stedelijke gebieden neemt de dichtheid toe, terwijl afgelegen platteland leegloopt",
+                "Op het platteland neemt de dichtheid toe, terwijl steden leeglopen",
+                "De bevolking spreidt zich steeds gelijkmatiger over het landoppervlak",
+                "De bevolking trekt vooral naar hoger gelegen gebieden met een koel klimaat en vruchtbare bodems"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Gebieden die gunstig liggen ten opzichte van economische kerngebieden trekken mensen aan. Daardoor groeien stedelijke gebieden, terwijl verafgelegen, ontoegankelijke streken leeglopen."
+            },
+            {
+              "id": 23,
+              "type": "choose_all_that_apply",
+              "vraag": "Bekijk de kaart met natuurlijke beperkingen. Welke natuurlijke omstandigheden zorgen volgens de kaart voor een láge bevolkingsdichtheid?",
+              "afbeelding": "images/bron13_natuurlijke_beperkingen.jpg",
+              "opties": [
+                "Te droog",
+                "Te koud",
+                "Te hoog",
+                "Gematigd klimaat",
+                "Vruchtbare rivierklei"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "De kaart onderscheidt vier natuurlijke beperkingen: te droog, te koud, te hoog en te warm en te nat. Een gematigd klimaat en vruchtbare grond zijn juist natuurlijke mogelijkheden."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.3",
+          "subdoel_titel": "Typen migranten, push- en pullfactoren",
+          "uitleg_tekst": "Pushfactoren zijn redenen om een gebied te verlaten, pullfactoren maken een gebied aantrekkelijk. Daarnaast heb je aspiraties (de wens je situatie te verbeteren) en mogelijkheden (geld en contacten) nodig om te migreren.",
+          "vragen": [
+            {
+              "id": 24,
+              "type": "multiple_choice",
+              "vraag": "Een Syrisch gezin vertrekt omdat er oorlog is in eigen land. Wat is dit voor factor?",
+              "opties": [
+                "Een pullfactor",
+                "Een pushfactor",
+                "Een aspiratie",
+                "Een hindernis"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Pushfactoren zijn redenen om wég te gaan uit een gebied, zoals oorlog of gebrek aan werk. Pullfactoren, zoals werk of familie, maken het bestemmingsgebied juist aantrekkelijk."
+            },
+            {
+              "id": 25,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het migratiemodel. Waar staan de plussen en de minnen in de twee cirkels voor?",
+              "afbeelding": "images/bron14_migratiemodel.jpg",
+              "opties": [
+                "Plussen zijn aspiraties, minnen zijn hindernissen",
+                "Plussen zijn pushfactoren, minnen zijn pullfactoren",
+                "Plussen zijn pullfactoren, minnen zijn pushfactoren",
+                "Plussen zijn mogelijkheden, minnen zijn kosten van de reis"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "In het migratiemodel staat + voor pullfactoren, − voor pushfactoren en 0 voor neutraal. Tussen het vertrekgebied en het vestigingsgebied liggen hindernissen die de migrant moet overwinnen."
+            },
+            {
+              "id": 26,
+              "type": "multiple_choice",
+              "vraag": "Welk type migrant vormt wereldwijd de grootste groep?",
+              "opties": [
+                "Ecologische migranten",
+                "Vluchtelingen",
+                "Internationale studenten",
+                "Arbeidsmigranten"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Arbeidsmigranten vertrekken omdat de economische kansen elders groter zijn. Zij beschikken meestal over voldoende geld en informatie om de reis te kunnen maken."
+            },
+            {
+              "id": 27,
+              "type": "multiple_choice",
+              "vraag": "De bevolking van de eilandengroep Kiribati zal deels moeten verhuizen omdat het gebied rond 2100 onder de zeespiegel dreigt te verdwijnen. Om welk type migranten gaat het?",
+              "opties": [
+                "Ecologische migranten",
+                "Volgmigranten",
+                "Arbeidsmigranten",
+                "Vluchtelingen met een asielstatus"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Ecologische migranten vertrekken vanwege veranderingen in het milieu. Door klimaatverandering neemt de bestaansonzekerheid toe en groeit deze groep."
+            },
+            {
+              "id": 28,
+              "type": "multiple_choice",
+              "vraag": "De welvaart in een arm emigratieland stijgt. Wat gebeurt er volgens de algemene regel met de emigratie uit dat land?",
+              "opties": [
+                "Die neemt af, want mensen hebben in eigen land nu werk",
+                "Die neemt toe, want aspiraties én mogelijkheden nemen toe",
+                "Die blijft gelijk, want migratie hangt alleen van pushfactoren af",
+                "Die neemt af, want de overheid verbiedt vertrek bij economische groei"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Migreren kost geld en contacten. Stijgt de welvaart, dan kunnen méér mensen de reis betalen én weten ze via internet beter welke kansen er elders liggen. Pas bij een veel hoger welvaartsniveau daalt de emigratie weer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 3,
+      "paragraaf": "2.3",
+      "leerdoel_titel": "Patronen: de culturele wereldkaart",
+      "uitleg_tekst": "Cultuur is alles wat een groep mensen in het dagelijks leven met elkaar verbindt. Je herkent een cultuur aan cultuurelementen, in te delen in drie hoofdgroepen: taal en religie, de manier van samenleven (wetten, familiebanden, opvoeding) en de zichtbare of materiële kenmerken (bouwstijl, eten, kleding). Een cultuurgebied is een gebied waar culturen sterk op elkaar lijken; de indeling gebeurt op de meest dominante cultuurelementen. De verspreiding van een cultuurelement vanuit een kerngebied heet diffusie en verloopt volgens een S-curve: eerst onbekend, dan wel bekend maar nog niet geaccepteerd, uiteindelijk geaccepteerd. Vroeger verliep diffusie via handel, migratie, veroveringen en kolonialisme, nu ook via toerisme en sociale media. Daardoor vervagen de grenzen tussen cultuurgebieden steeds meer. De vier grootste wereldgodsdiensten verspreidden zich vanuit twee kleine brongebieden: Noord-India (hindoeïsme, boeddhisme) en het Midden-Oosten (christendom, islam).",
+      "subdoelen": [
+        {
+          "subdoel_id": "3.1",
+          "subdoel_titel": "Cultuurelementen en cultuurgebieden",
+          "uitleg_tekst": "Cultuurelementen vallen in drie hoofdgroepen: taal en religie, manier van samenleven, en materiële kenmerken. Een cultuurgebied bestaat uit culturen die sterk op elkaar lijken.",
+          "vragen": [
+            {
+              "id": 29,
+              "type": "multiple_choice",
+              "vraag": "Tot welke hoofdgroep cultuurelementen horen de bouwstijl van huizen en de kleding die mensen dragen?",
+              "opties": [
+                "De manier waarop mensen samenleven",
+                "Taal en religie",
+                "De zichtbare of materiële kenmerken",
+                "De normen en waarden van een groep"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De derde hoofdgroep bestaat uit zichtbare, materiële kenmerken: hoe mensen een gebied hebben ingericht, de bouwstijl, wat er gegeten wordt en hoe men zich kleedt."
+            },
+            {
+              "id": 30,
+              "type": "multiple_choice",
+              "vraag": "Nederlanders zijn veel directer dan Japanners en hebben overal een mening over. Bij welke hoofdgroep cultuurelementen hoort dit verschil?",
+              "opties": [
+                "De inrichting van het gebied",
+                "De materiële kenmerken",
+                "Taal en religie",
+                "De manier waarop mensen samenleven"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De tweede hoofdgroep gaat over samenleven: wetten, familiebanden en opvoeding, maar ook over omgangsvormen. Die elementen zijn niet zichtbaar, maar bepalen wel het dagelijks leven."
+            },
+            {
+              "id": 31,
+              "type": "invullen",
+              "vraag": "Hoe noem je een gebied waar één of meer sterk op elkaar lijkende culturen voorkomen?",
+              "juiste_antwoord": "cultuurgebied",
+              "uitleg": "Een cultuurgebied wordt ingedeeld op basis van de meest dominante cultuurelementen, zoals taal en godsdienst. Voorbeelden zijn Latijns-Amerika en Zuid-Azië."
+            },
+            {
+              "id": 32,
+              "type": "multiple_choice",
+              "vraag": "Als jij in het Italiaanse Rimini Nederlands praat, verstaat een Italiaan er niets van, terwijl beide landen in hetzelfde cultuurgebied liggen. Wat laat dit zien?",
+              "opties": [
+                "Binnen één cultuurgebied bestaan nog grote onderlinge verschillen",
+                "Taal speelt geen rol bij het indelen van cultuurgebieden",
+                "Nederland en Italië horen eigenlijk tot verschillende cultuurgebieden",
+                "Cultuurgebieden worden alleen op godsdienst ingedeeld"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Cultuurgebieden worden ingedeeld op de meest dominante cultuurelementen. Zoom je in, dan zie je binnen zo'n groot gebied nog steeds flinke verschillen, bijvoorbeeld in taal."
+            },
+            {
+              "id": 33,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de kaart met cultuurgebieden. Wat geven de gearceerde stroken tussen de gekleurde gebieden aan?",
+              "afbeelding": "images/bron17_cultuurgebieden.jpg",
+              "opties": [
+                "Gebieden waar geen mensen wonen",
+                "Overgangszones waar cultuurelementen van twee gebieden door elkaar lopen",
+                "Landen die nog gekoloniseerd worden",
+                "Zeegebieden en oceanen die de verschillende continenten van elkaar scheiden"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "De arcering geeft overgangszones weer. Juist daar is een scherpe grens niet te trekken, omdat cultuurelementen uit beide gebieden voorkomen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.2",
+          "subdoel_titel": "Diffusie en het vervagen van cultuurgrenzen",
+          "uitleg_tekst": "Diffusie is de verspreiding van een cultuurelement vanuit een kerngebied. Het proces volgt een S-curve en leidt vaak tot cultuurvermenging.",
+          "vragen": [
+            {
+              "id": 34,
+              "type": "invullen",
+              "vraag": "Hoe noem je de verspreiding van een cultuurelement vanuit een kerngebied?",
+              "juiste_antwoord": "diffusie",
+              "uitleg": "Diffusie verliep vroeger via handel, migratie, veroveringen en kolonialisme. Tegenwoordig spelen toerisme en (sociale) media een grote rol, waardoor het proces veel sneller gaat."
+            },
+            {
+              "id": 35,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het diffusiemodel. Wat gebeurt er in fase C van de S-curve?",
+              "afbeelding": "images/bron16_diffusie_scurve.jpg",
+              "opties": [
+                "Het cultuurelement is door vrijwel iedereen geaccepteerd",
+                "Het cultuurelement is nog volledig onbekend",
+                "Het cultuurelement is wel bekend, maar nog niet geaccepteerd",
+                "Het cultuurelement verdwijnt weer uit de cultuur"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De S-curve loopt van onbekend (A en B) via bekend maar nog niet geaccepteerd (C) naar geaccepteerd (D). In het steile deel van de curve gaat de verspreiding het snelst."
+            },
+            {
+              "id": 36,
+              "type": "multiple_choice",
+              "vraag": "Rapmuziek ontstond in de jaren 70 in de VS uit andere muziekstromingen en verspreidde zich daarna over de wereld, waarbij lokale artisten er hun eigen taal en stijl aan toevoegden. Hoe heet dat laatste?",
+              "opties": [
+                "Analfabetisme",
+                "Kolonialisme",
+                "Cultuurgebiedvorming",
+                "Cultuurvermenging"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Bij diffusie wordt een nieuw cultuurelement vaak aangepast aan de bestaande cultuur. Dan spreek je van cultuurvermenging: het element blijft herkenbaar, maar krijgt een eigen draai."
+            },
+            {
+              "id": 37,
+              "type": "multiple_choice",
+              "vraag": "Waarom zijn de grenzen tussen cultuurgebieden steeds moeilijker te trekken?",
+              "opties": [
+                "Door de constante uitwisseling van informatie, personen, handelsstromen en ideeën",
+                "Doordat steeds meer landen dezelfde staatsgrenzen hanteren",
+                "Doordat er wereldwijd nog maar vier godsdiensten over zijn",
+                "Doordat cultuurgebieden tegenwoordig per werelddeel en niet meer per godsdienst worden ingedeeld"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Cultuurgebieden beïnvloeden elkaar voortdurend. De uitwisseling van informatie, mensen, goederen en ideeën — met sociale media als versneller — laat de grenzen vervagen."
+            },
+            {
+              "id": 38,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke manieren van verspreiding van cultuurelementen zijn pas in de moderne tijd belangrijk geworden?",
+              "opties": [
+                "Toerisme",
+                "Sociale media",
+                "Kolonialisme",
+                "Veroveringen",
+                "Handel"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1
+              ],
+              "uitleg": "Handel, migratie, veroveringen en kolonialisme zorgden vroeger al voor diffusie. Toerisme en (sociale) media zijn er in de moderne tijd bij gekomen en maken het proces veel sneller."
+            },
+            {
+              "id": 229,
+              "type": "volgorde",
+              "vraag": "Zet de fasen van het diffusiemodel (de S-curve) in de juiste volgorde, van begin tot eind.",
+              "opties": {
+                "A": "Het cultuurelement is onbekend bij een geïsoleerde groep",
+                "B": "Het cultuurelement is bij het grote publiek nog onbekend",
+                "C": "Het cultuurelement is wel bekend, maar nog niet geaccepteerd",
+                "D": "Het cultuurelement is geaccepteerd"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "In het steile deel van de S-curve gaat de verspreiding het snelst: zodra het grote publiek een cultuurelement omarmt, verspreidt het zich in korte tijd over een flink gebied."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.3",
+          "subdoel_titel": "De diffusie van de wereldgodsdiensten",
+          "uitleg_tekst": "De vier grootste godsdiensten verspreidden zich vanuit twee kleine brongebieden: Noord-India (hindoeïsme en boeddhisme) en het Midden-Oosten (christendom en islam).",
+          "vragen": [
+            {
+              "id": 39,
+              "type": "multiple_choice",
+              "vraag": "Welke godsdienst verspreidde zich als eerste vanuit de vruchtbare vlakten rondom de Indus en de Ganges?",
+              "opties": [
+                "Het boeddhisme",
+                "Het hindoeïsme",
+                "De islam",
+                "Het christendom"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het hindoeïsme is het eerste geloof dat zich vanuit Noord-India verspreidde. Het boeddhisme ontstond als een reactie hierop en verspreidde zich richting China en Zuidoost-Azië."
+            },
+            {
+              "id": 40,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de kaart met de verspreiding van de wereldgodsdiensten. Vanuit welke stad veroverde de islam vanaf de 7e eeuw grote delen van de wereld?",
+              "afbeelding": "images/bron18_wereldgodsdiensten.jpg",
+              "opties": [
+                "Istanbul",
+                "Jeruzalem",
+                "Mekka",
+                "Cairo"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De islam vindt zijn oorsprong in de woestijn van het Midden-Oosten en verspreidde zich vanaf de 7e eeuw vanuit Mekka in hoog tempo, onder andere over Noord-Afrika en Spanje."
+            },
+            {
+              "id": 41,
+              "type": "multiple_choice",
+              "vraag": "Hoe kreeg het christendom vanaf de 16e eeuw zoveel invloed in Latijns-Amerika en Afrika?",
+              "opties": [
+                "Het christendom ontstond in die gebieden zelf",
+                "Handelaren uit Azië namen het geloof mee naar die gebieden",
+                "De bevolking koos zelf massaal voor een nieuwe godsdienst",
+                "De kolonisatie ging samen met het uitzenden van missionarissen"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Vanuit Europa werden vanaf de 16e eeuw nieuwe gebieden gekoloniseerd. In het voetspoor van de veroveraars werden missionarissen gestuurd, waardoor het christendom het dagelijks leven ging bepalen."
+            },
+            {
+              "id": 42,
+              "type": "multiple_choice",
+              "vraag": "Vroeger verspreidden geloof en taal zich vanuit het economische centrum naar de periferie. Wat is daar nu bijgekomen?",
+              "opties": [
+                "Ook het omgekeerde gebeurt: de islam groeit het snelst in westerse landen door migratie",
+                "Godsdiensten verspreiden zich niet meer, omdat alle landen tegenwoordig seculier zijn geworden",
+                "Alleen binnen de periferie vindt nog diffusie van geloof plaats",
+                "Het christendom is de snelst groeiende godsdienst in Azië geworden"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De snelst groeiende godsdienst in westerse landen is de islam. Dat hangt samen met de komst van migranten uit islamitische landen: diffusie loopt dus ook van periferie naar centrum."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 4,
+      "paragraaf": "2.4",
+      "leerdoel_titel": "Samenhang: ontwikkeling en werk",
+      "uitleg_tekst": "Sinds 1800 vormen de landen in de wereld samen één economisch wereldsysteem met drie groepen: het centrum (rijke, vaak westerse landen), de semiperiferie (snel ontwikkelende landen zoals China) en de periferie (arme landen zoals Tsjaad). De ongelijke welvaartsverdeling verklaar je met interne oorzaken (natuurlijk, zoals droogte of het ontbreken van hulpbronnen, en menselijk, zoals oorlog of corruptie) en externe oorzaken. Die laatste beschrijf je met het centrum-periferiemodel: een ongelijke uitwisseling van goederen, arbeid en kapitaal waarbij het centrum bepaalt hoe intensief de relatie is. Het model werkt op elk schaalniveau. De basis van dit systeem werd gelegd in de tijd van het kolonialisme: exploitatiekoloniën leverden grondstoffen, terwijl vestigingskoloniën uitgroeiden tot rijke landen. Door de-industrialisatie in het centrum en de verplaatsing van arbeidsintensieve industrie naar lagelonenlanden verandert de internationale arbeidsverdeling nog steeds.",
+      "subdoelen": [
+        {
+          "subdoel_id": "4.1",
+          "subdoel_titel": "Centrum, semiperiferie en periferie",
+          "uitleg_tekst": "Het wereldsysteem bestaat uit centrum, semiperiferie en periferie. Elke groep heeft een eigen rol, maar ze zijn ook van elkaar afhankelijk.",
+          "vragen": [
+            {
+              "id": 43,
+              "type": "multiple_choice",
+              "vraag": "Welke landen vormen samen de semiperiferie?",
+              "opties": [
+                "De arme landen waar de meeste mensen in de landbouw werken",
+                "Landen die zich de laatste 25 jaar snel ontwikkelden, maar nog niet zo rijk zijn als het centrum",
+                "De rijke, vaak westerse landen met een grote dienstensector en het hoogste bbp per hoofd van de wereld",
+                "Landen die geen handel drijven met de rest van de wereld"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "China is het schoolvoorbeeld: sterk gegroeid, maar het welvaartsniveau van de rijke landen is nog niet bereikt. Het centrum bestaat uit rijke landen, de periferie uit arme landen zoals Tsjaad."
+            },
+            {
+              "id": 44,
+              "type": "invullen",
+              "vraag": "Hoe noem je de indeling van de wereld in centrum, semiperiferie en periferie samen?",
+              "juiste_antwoord": "wereldsysteem",
+              "uitleg": "In het economisch wereldsysteem heeft elke groep landen een eigen rol, maar zijn de groepen ook van elkaar afhankelijk. De verschillen tussen centrum en periferie zijn het grootst."
+            },
+            {
+              "id": 45,
+              "type": "multiple_choice",
+              "vraag": "Op wereldniveau hoort Nederland tot het centrum. Wat geldt er binnen Nederland zelf?",
+              "opties": [
+                "De Randstad is de periferie, want daar wonen de meeste migranten",
+                "Heel Nederland is centrum, want het model werkt alleen op wereldschaal",
+                "De Randstad is het centrum en het noordoosten van Groningen de periferie",
+                "Nederland heeft geen periferie, omdat het bbp/hoofd overal gelijk is"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Het centrum-periferiemodel kun je op verschillende schaalniveaus gebruiken. Zoom je in op Nederland, dan vormt de Randstad het economische centrum en is het noordoosten van Groningen periferie."
+            },
+            {
+              "id": 46,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de kaart met welvaart en de verdeling van de beroepsbevolking. Wat zie je in landen die tot het centrum horen?",
+              "afbeelding": "images/bron22_welvaart_beroepsbev.jpg",
+              "opties": [
+                "De secundaire sector is er altijd de grootste",
+                "Een groot deel van de beroepsbevolking werkt in de primaire sector",
+                "De beroepsbevolking is gelijk verdeeld over de drie sectoren",
+                "Een groot deel van de beroepsbevolking werkt in de tertiaire sector"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In de cirkeldiagrammen van rijke landen (bbp/hoofd meer dan 25.000 dollar) is het deel van de dienstensector veruit het grootst. In perifere landen werken juist veel mensen in de landbouw."
+            },
+            {
+              "id": 47,
+              "type": "multiple_choice",
+              "vraag": "Waarom kun je zeggen dat centrum en periferie van elkaar afhankelijk zijn?",
+              "opties": [
+                "Ze wisselen goederen, arbeid en kapitaal uit en hebben elk een eigen rol in het wereldsysteem",
+                "Ze hebben allebei evenveel invloed op de prijzen van grondstoffen en eindproducten op de wereldmarkt",
+                "Ze hebben allebei een even groot aandeel in de wereldhandel",
+                "Ze hebben allebei dezelfde samenstelling van de beroepsbevolking"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "In het wereldsysteem heeft elke groep landen een eigen rol. Let op: afhankelijk van elkaar betekent niet gelijkwaardig — het centrum bepaalt hoe intensief de uitwisseling is."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.2",
+          "subdoel_titel": "Interne en externe oorzaken van ongelijke welvaart",
+          "uitleg_tekst": "Interne oorzaken liggen in het land zelf (natuurlijk of menselijk), externe oorzaken in de relatie met rijke landen. Die relatie beschrijf je met het centrum-periferiemodel.",
+          "vragen": [
+            {
+              "id": 48,
+              "type": "multiple_choice",
+              "vraag": "Een land is bergachtig, droog en heeft geen toegang tot zee. Om wat voor oorzaak van een lage ontwikkeling gaat het?",
+              "opties": [
+                "Een interne, menselijke oorzaak",
+                "Een interne, natuurlijke oorzaak",
+                "Een externe oorzaak",
+                "Een gevolg van het centrum-periferiemodel"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Interne oorzaken liggen in het land zelf. Naast natuurlijke oorzaken (bergachtig, onvruchtbaar, droog, geen hulpbronnen, geen zeehaven) zijn er menselijke oorzaken zoals oorlog, slecht bestuur en corruptie."
+            },
+            {
+              "id": 49,
+              "type": "choose_all_that_apply",
+              "vraag": "Bekijk het centrum-periferiemodel. Welke drie stromen wisselen centrum en periferie volgens het model met elkaar uit?",
+              "afbeelding": "images/bron23_centrum_periferiemodel.jpg",
+              "opties": [
+                "Goederen",
+                "Arbeid en kennis",
+                "Kapitaal",
+                "Cultuurelementen",
+                "Natuurlijke hulpbronnen van het centrum"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Het model laat drie ongelijke stromen zien: goederen (goedkope grondstoffen eruit, dure eindproducten erin), arbeid en kennis, en kapitaal (investeringen en leningen tegenover schuldaflossing)."
+            },
+            {
+              "id": 50,
+              "type": "multiple_choice",
+              "vraag": "Hoe ziet de ongelijke uitwisseling van goederen tussen centrum en periferie eruit?",
+              "opties": [
+                "Beide gebieden voeren vooral machines naar elkaar uit",
+                "De periferie voert dure eindproducten uit en importeert goedkope grondstoffen",
+                "De periferie voert goedkope grondstoffen uit en importeert veel duurdere eindproducten",
+                "Het centrum voert alleen grondstoffen uit naar de periferie"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Olie, hout en ertsen gaan goedkoop naar de centrumlanden, terwijl de periferie veel duurdere eindproducten zoals machines moet importeren. Daardoor blijft het verschil in welvaart in stand."
+            },
+            {
+              "id": 51,
+              "type": "multiple_choice",
+              "vraag": "Wat bedoelt het boek met de vicieuze cirkel van armoede?",
+              "opties": [
+                "De bevolking van arme landen verhuist steeds heen en weer",
+                "Arme landen worden om de zoveel jaar opnieuw gekoloniseerd",
+                "Arme landen krijgen elk jaar precies dezelfde hoeveelheid ontwikkelingshulp uit het centrum",
+                "Economische oorzaken van armoede versterken elkaar, waardoor een land er moeilijk uit komt"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Interne oorzaken hangen vaak samen: weinig inkomen betekent weinig onderwijs en slechte gezondheidszorg, wat de productiviteit laag houdt. Zo houdt de armoede zichzelf in stand."
+            },
+            {
+              "id": 52,
+              "type": "multiple_choice",
+              "vraag": "Welke rol speelt het centrum volgens het centrum-periferiemodel in de relatie met arme landen?",
+              "opties": [
+                "Het centrum profiteert het meest en bepaalt hoe intensief de uitwisseling is",
+                "Het centrum en de periferie bepalen samen de voorwaarden van de handel",
+                "Het centrum heeft geen invloed meer sinds de dekolonisatie",
+                "Het centrum betaalt de periferie een vaste prijs voor alle grondstoffen"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De centrumlanden legden in de koloniale tijd de basis van dit systeem. Ze profiteren het meest én bepalen de intensiteit van de relatie, waardoor ze grote invloed houden op de ontwikkeling van arme landen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.3",
+          "subdoel_titel": "Kolonialisme en de internationale arbeidsverdeling",
+          "uitleg_tekst": "Exploitatiekoloniën leverden grondstoffen aan het moederland; vestigingskoloniën werden het nieuwe vaderland van kolonisten. Na 1970 verandert de internationale arbeidsverdeling: de specialisatie van werkgelegenheid over de wereld.",
+          "vragen": [
+            {
+              "id": 53,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen een exploitatiekolonie en een vestigingskolonie?",
+              "opties": [
+                "Een exploitatiekolonie lag in Azië; een vestigingskolonie lag altijd in Afrika",
+                "Een exploitatiekolonie leverde grondstoffen; in een vestigingskolonie vestigden kolonisten zich blijvend",
+                "Een exploitatiekolonie werd bestuurd door het leger van het moederland, een vestigingskolonie door handelaren",
+                "Een exploitatiekolonie werd zelfstandig, een vestigingskolonie bleef een kolonie"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Brits-Indië was een exploitatiekolonie: grondstoffen en voedsel voor de industrialiserende VK-economie. Australië was een vestigingskolonie die kolonisten als hun nieuwe vaderland zagen en opnieuw inrichtten."
+            },
+            {
+              "id": 54,
+              "type": "multiple_choice",
+              "vraag": "Welk verband is er tussen het koloniale verleden en de welvaart van landen nu?",
+              "opties": [
+                "Er is geen verband meer sinds de dekolonisatie na de Tweede Wereldoorlog",
+                "Veel arme landen waren vestigingskolonie, terwijl exploitatiekoloniën nu rijk zijn",
+                "Veel arme landen waren exploitatiekolonie, terwijl vroegere vestigingskoloniën nu rijk zijn",
+                "Alle voormalige koloniën horen inmiddels tot de semiperiferie"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De relatie tussen moederland en exploitatiekolonie had alle kenmerken van het centrum-periferiemodel. Die ongelijke uitgangspositie werkt tot vandaag door in de welvaartsverdeling."
+            },
+            {
+              "id": 55,
+              "type": "invullen",
+              "vraag": "Hoe noem je het proces waarbij koloniën na de Tweede Wereldoorlog zelfstandige staten werden?",
+              "juiste_antwoord": "dekolonisatie",
+              "uitleg": "Na 1945 werden de koloniale rijken in rap tempo afgebroken. Toch bleef de economische relatie tussen de voormalige moederlanden en koloniën vaak ongelijk."
+            },
+            {
+              "id": 56,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het diagram over de verdeling van de beroepsbevolking. Wat gebeurt er met de beroepsbevolking als het inkomen per hoofd in een land stijgt?",
+              "afbeelding": "images/bron24_beroepsbev_ontwikkeling.jpg",
+              "opties": [
+                "De industrie blijft in elke fase de grootste sector",
+                "Het aandeel van de landbouw stijgt, terwijl de diensten krimpen",
+                "Alle drie de sectoren groeien even hard mee",
+                "Het aandeel van de landbouw daalt, terwijl industrie en diensten groeien"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het diagram loopt van fase I (agrarisch) via fase II (industrieel) naar fase III (dienstenmaatschappij). De industrie groeit eerst, maar krimpt weer als de dienstensector het overneemt."
+            },
+            {
+              "id": 230,
+              "type": "volgorde",
+              "vraag": "Zet deze ontwikkelingen in de internationale arbeidsverdeling in de juiste volgorde van vroeg naar laat.",
+              "opties": {
+                "A": "Het VK industrialiseert en haalt grondstoffen uit exploitatiekoloniën",
+                "B": "De koloniale rijken worden na de Tweede Wereldoorlog afgebroken",
+                "C": "Rond 1965 bestaat het exportpakket van ontwikkelingslanden vrijwel alleen uit grondstoffen",
+                "D": "Arbeidsintensieve industrie verhuist van de centrumlanden naar lagelonenlanden"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Na de industrialisatie (19e eeuw) en de dekolonisatie brak voor de centrumlanden de periode van de-industrialisatie aan. Daardoor steeg het aandeel van de industrie in de semiperiferie tot rond de 40 procent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 5,
+      "paragraaf": "2.5",
+      "leerdoel_titel": "Samenhang: ontwikkeling en bevolkingsgroei",
+      "uitleg_tekst": "De wereldbevolking groeit in absolute aantallen door, terwijl de natuurlijke groei in procenten de laatste vijftig jaar is gehalveerd. Dat komt doordat de 'moeders van morgen' al geboren zijn en in grote aantallen aanwezig, en doordat de levensverwachting stijgt. Het hoge geboortecijfer in arme landen verklaar je met vijf factoren: een jonge leeftijdsopbouw, weinig scholing van vrouwen, traditionele opvattingen, hoge kindersterfte en armoede. Het demografisch transitiemodel laat in vijf fasen de overgang zien van een hoog naar een laag geboorte- en sterftecijfer. In fase 2 is de groene druk hoog en heeft de bevolkingsopbouw de vorm van een piramide; in fase 5 ligt het geboortecijfer onder het sterftecijfer en stijgt de grijze druk.",
+      "subdoelen": [
+        {
+          "subdoel_id": "5.1",
+          "subdoel_titel": "Absolute en relatieve bevolkingsgroei",
+          "uitleg_tekst": "De natuurlijke groei in procenten daalt, maar in absolute aantallen groeit de wereldbevolking door doordat er zoveel vrouwen in de vruchtbare leeftijd zijn en de levensverwachting stijgt.",
+          "vragen": [
+            {
+              "id": 57,
+              "type": "multiple_choice",
+              "vraag": "Hoe kan de wereldbevolking in absolute aantallen doorgroeien terwijl de groei in procenten daalt?",
+              "opties": [
+                "Er zijn zoveel vrouwen in de vruchtbare leeftijd dat een lager kindertal toch veel geboorten oplevert",
+                "De sterftecijfers in arme landen stijgen sneller dan de geboortecijfers",
+                "Steeds meer landen tellen migranten mee bij hun natuurlijke groei",
+                "De vruchtbaarheid is wereldwijd juist gestegen naar gemiddeld 2,4 kinderen per vrouw in arme en rijke landen"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De 'moeders van morgen' zijn al geboren en zijn er in grote aantallen. Zij krijgen minder kinderen dan hun moeder (wereldwijd gemiddeld 2,4), maar omdat het om zoveel vrouwen gaat, groeit het absolute aantal mensen door."
+            },
+            {
+              "id": 58,
+              "type": "multiple_choice",
+              "vraag": "Hoeveel kinderen moet een vrouw gemiddeld krijgen om haar generatie te vervangen?",
+              "opties": [
+                "1,8",
+                "2,1",
+                "2,4",
+                "3,0"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het vervangingsniveau ligt op 2,1 kinderen per vrouw. In westerse landen als Canada en Duitsland ligt de vruchtbaarheid daaronder; in Niger schommelt die tussen de zeven en acht."
+            },
+            {
+              "id": 59,
+              "type": "multiple_choice",
+              "vraag": "In hoeveel van de 100 nieuwe wereldburgers staat de wieg in een arm land?",
+              "opties": [
+                "In ongeveer 50 gevallen",
+                "In ongeveer 75 gevallen",
+                "In ongeveer 95 gevallen",
+                "In ongeveer 60 gevallen"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Van de 100 nieuwe wereldburgers wordt er 95 in een arm land geboren. Daar is de vruchtbaarheid nog hoog, terwijl die in rijke landen onder het vervangingsniveau ligt."
+            },
+            {
+              "id": 60,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het diagram over de ontwikkeling van de wereldbevolking. Wat zie je gebeuren met de groei in procenten per jaar na ongeveer 1970?",
+              "afbeelding": "images/bron30_wereldbevolking.jpg",
+              "opties": [
+                "Die blijft gelijk tot 2050",
+                "Die stijgt, net als de totale wereldbevolking",
+                "Die daalt, waardoor ook de totale wereldbevolking daalt",
+                "Die daalt, terwijl de totale wereldbevolking blijft stijgen"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In het diagram zie je twee lijnen: de groei per jaar (%) piekt rond 1970 en daalt daarna, terwijl de totale bevolking (in miljarden) blijft oplopen. Precies het verschil tussen relatieve en absolute groei."
+            },
+            {
+              "id": 61,
+              "type": "multiple_choice",
+              "vraag": "Naast het aantal geboorten is er nog een reden dat de wereldbevolking blijft groeien. Welke?",
+              "opties": [
+                "De levensverwachting stijgt, sinds 2005 mondiaal met ruim vier jaar",
+                "Het aantal internationale migranten neemt toe",
+                "De kindersterfte in rijke landen daalt naar nul",
+                "Steeds meer landen tellen hun bevolking nauwkeuriger dan een halve eeuw geleden"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Mensen worden gemiddeld ouder. In Zimbabwe steeg de levensverwachting sinds 2000 zelfs met vijftien jaar. Migratie verandert wel de spreiding, maar niet de totale wereldbevolking."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.2",
+          "subdoel_titel": "Factoren achter een hoog geboortecijfer",
+          "uitleg_tekst": "Demografie, onderwijs, overtuiging en cultuur, gezondheid en armoede bepalen samen hoe hoog het geboortecijfer in een land is.",
+          "vragen": [
+            {
+              "id": 62,
+              "type": "multiple_choice",
+              "vraag": "Hoe hoger de scholingsgraad van vrouwen, hoe minder kinderen zij krijgen. Welke verklaring geeft het boek daarvoor?",
+              "opties": [
+                "Ze verhuizen vrijwel allemaal naar het buitenland",
+                "Ze trouwen later, weten meer van geboortebeperking en hebben meer kans op een baan",
+                "Ze krijgen van de overheid een vergoeding als ze minder kinderen nemen dan gemiddeld",
+                "Ze hebben een lagere levensverwachting dan vrouwen zonder scholing"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Onderwijs werkt op meerdere manieren door: later trouwen, kennis van geboortebeperking, gezondere kinderen en meer kans op werk. Daardoor daalt het gemiddeld kindertal."
+            },
+            {
+              "id": 63,
+              "type": "multiple_choice",
+              "vraag": "In een land is de kindersterfte hoog. Wat is daarvan het gevolg voor het geboortecijfer?",
+              "opties": [
+                "Het geboortecijfer verandert niet, want dat hangt alleen van cultuur af",
+                "Ouders nemen minder kinderen, omdat de zorg te duur wordt",
+                "Ouders nemen meer kinderen, ook om op hun oude dag verzorgd te worden",
+                "Het geboortecijfer daalt, omdat er minder vrouwen in leven blijven"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Bij hoge kindersterfte nemen ouders vaak meer kinderen. Er is meestal geen pensioenvoorziening, dus zijn ouders op hun oude dag afhankelijk van de verzorging door hun kinderen."
+            },
+            {
+              "id": 64,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke factoren zorgen volgens het boek voor een hoog geboortecijfer in arme landen?",
+              "opties": [
+                "Een jonge leeftijdsopbouw",
+                "Weinig scholing van vrouwen",
+                "Hoge kindersterfte",
+                "Een hoge grijze druk",
+                "Een hoog bbp per hoofd"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Demografie, onderwijs, overtuiging en cultuur, gezondheid en armoede spelen mee. Een hoge grijze druk en een hoog bbp/hoofd horen juist bij rijke landen met een láág geboortecijfer."
+            },
+            {
+              "id": 65,
+              "type": "multiple_choice",
+              "vraag": "Waarom daalt de vruchtbaarheid als de welvaart in een land stijgt?",
+              "opties": [
+                "Rijke landen hebben te weinig ruimte voor grote gezinnen",
+                "De overheid stelt in rijke landen een maximum aan het aantal kinderen",
+                "In rijke landen ligt de kindersterfte hoger, dus worden er minder kinderen geboren",
+                "Er komt economische zekerheid, vrouwen werken vaker en kinderen opvoeden wordt duurder"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Er is een direct verband tussen stijgende welvaart en dalende vruchtbaarheid: pensioenvoorzieningen maken kinderen als oudedagsvoorziening minder nodig, vrouwen werken vaker en de kosten van opvoeding stijgen."
+            },
+            {
+              "id": 66,
+              "type": "invullen",
+              "vraag": "Hoe noem je de verdeling van de bevolking van een land over de leeftijdsklassen?",
+              "juiste_antwoord": "leeftijdsopbouw",
+              "uitleg": "Arme landen hebben een jonge leeftijdsopbouw met veel vrouwen in de vruchtbare leeftijd. Je geeft de leeftijdsopbouw weer in een bevolkingspiramide."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.3",
+          "subdoel_titel": "Het demografisch transitiemodel, groene en grijze druk",
+          "uitleg_tekst": "Het demografisch transitiemodel beschrijft in vijf fasen de overgang van hoge naar lage geboorte- en sterftecijfers. Groene druk is de verhouding jongeren tot de actieve bevolking, grijze druk die van 65-plussers.",
+          "vragen": [
+            {
+              "id": 67,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het demografisch transitiemodel. Wat is kenmerkend voor fase 2?",
+              "afbeelding": "images/bron28_demografisch_transitiemodel.jpg",
+              "opties": [
+                "Het sterftecijfer daalt, terwijl het geboortecijfer nog hoog is",
+                "Het geboortecijfer daalt, terwijl het sterftecijfer nog hoog is",
+                "Geboorte- en sterftecijfer zijn allebei laag en in evenwicht",
+                "Het geboortecijfer ligt lager dan het sterftecijfer"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "In fase 2 verbeteren de leefomstandigheden, de medische kennis en de hygiëne, waardoor het sterftecijfer daalt. Het geboortecijfer blijft hoog, dus groeit de bevolking snel. Landen als Niger en Mali zitten in deze fase."
+            },
+            {
+              "id": 68,
+              "type": "multiple_choice",
+              "vraag": "Waardoor daalt in fase 3 het geboortecijfer?",
+              "opties": [
+                "Doordat het sterftecijfer in deze fase weer gaat stijgen",
+                "Door stijgende welvaart en sociaal-culturele veranderingen zoals ontkerkelijking en vrouwenemancipatie",
+                "Doordat de overheid migratie naar het buitenland stimuleert om de bevolkingsgroei in eigen land af te remmen",
+                "Doordat de medische kennis in deze fase juist afneemt"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "In fase 3 is het sterftecijfer laag en gaat ook het geboortecijfer omlaag. Nederland zat na 1960 in deze fase: welvaartsstijging én ontkerkelijking en vrouwenemancipatie zorgden voor kleinere gezinnen."
+            },
+            {
+              "id": 69,
+              "type": "multiple_choice",
+              "vraag": "In Japan en Duitsland ligt het geboortecijfer lager dan het sterftecijfer. Wat is daarvan het gevolg?",
+              "opties": [
+                "De bevolking groeit sneller dan in fase 4",
+                "De groene druk neemt toe, met problemen voor het onderwijs",
+                "De grijze druk neemt toe, met problemen voor pensioenen en zorg",
+                "De levensverwachting daalt in deze landen"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Deze landen zitten in fase 5. De grijze druk — de verhouding tussen 65-plussers en de groep van 20 tot 65 jaar — loopt op, waardoor pensioenen en zorg onder druk komen te staan."
+            },
+            {
+              "id": 70,
+              "type": "multiple_choice",
+              "vraag": "Een land heeft een 'jeugdbobbel': heel veel jongeren. Wanneer levert dat een economische groeispurt op?",
+              "opties": [
+                "Als het geboortecijfer nog verder stijgt",
+                "Alleen als het land in fase 5 van het transitiemodel komt",
+                "Als de grijze druk tegelijkertijd sterk oploopt",
+                "Als het land zorgt voor goed onderwijs en voldoende banen"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Veel jongeren kan een voordeel zijn, maar alleen met goed onderwijs en werk. Lukt dat niet en blijven veel jongeren werkloos, dan dreigen sociale onrust en massale migratie."
+            },
+            {
+              "id": 231,
+              "type": "volgorde",
+              "vraag": "Zet de fasen van het demografisch transitiemodel in de juiste volgorde, van fase 1 naar fase 5.",
+              "opties": {
+                "A": "Geboorte- en sterftecijfer zijn allebei hoog, de bevolking groeit nauwelijks",
+                "B": "Het sterftecijfer daalt terwijl het geboortecijfer hoog blijft: snelle groei",
+                "C": "Ook het geboortecijfer daalt door welvaart en emancipatie",
+                "D": "Het geboortecijfer zakt onder het sterftecijfer en de grijze druk stijgt"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Let op het scharnierpunt tussen fase 2 en 3: daar begint het gebóortecijfer te dalen. Tussen C en D zit nog fase 4, waarin geboorte- en sterftecijfer laag zijn en in evenwicht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 6,
+      "paragraaf": "2.6",
+      "leerdoel_titel": "Samenhang: ontwikkeling en verstedelijking",
+      "uitleg_tekst": "Meer dan de helft van de wereldbevolking woont in de stad; in 2050 is dat naar schatting twee derde. Verstedelijking is het proces waarbij het aandeel stedelijke bevolking toeneemt. Dat druk je uit in de verstedelijkingsgraad (het percentage stedelingen) en het verstedelijkingstempo (de snelheid waarmee die graad stijgt). In rijke landen is de graad hoog en het tempo laag; in arme landen andersom. De snelle groei van steden in ontwikkelingslanden heeft drie oorzaken: de trek van platteland naar stad, de natuurlijke bevolkingsgroei en de uitbreiding van de stad. In westerse landen hing verstedelijking samen met industrialisatie en economische groei, in arme landen met stagnatie op het platteland. Sinds 1960 trokken westerse stedelingen naar randgemeenten, maar sinds 2010 groeien de steden weer. Megasteden tellen meer dan tien miljoen inwoners; wereldsteden zijn knooppunten in mondiale netwerken en hoeven geen megastad te zijn.",
+      "subdoelen": [
+        {
+          "subdoel_id": "6.1",
+          "subdoel_titel": "Verstedelijkingsgraad en verstedelijkingstempo",
+          "uitleg_tekst": "De verstedelijkingsgraad is het percentage van de bevolking dat in steden woont; het verstedelijkingstempo is de jaarlijkse stijging daarvan.",
+          "vragen": [
+            {
+              "id": 71,
+              "type": "invullen",
+              "vraag": "Hoe noem je het percentage van de bevolking van een land dat in steden woont?",
+              "juiste_antwoord": "verstedelijkingsgraad",
+              "uitleg": "De verstedelijkingsgraad geeft de mate van verstedelijking aan. In Nederland is die 93 procent, in Malawi 18 procent."
+            },
+            {
+              "id": 72,
+              "type": "multiple_choice",
+              "vraag": "Waarom moet je voorzichtig zijn met het vergelijken van verstedelijkingsgraden tussen landen?",
+              "opties": [
+                "Landen hanteren verschillende inwonertallen voor wat een stad is",
+                "Landen tellen migranten niet altijd mee bij hun bevolking",
+                "De verstedelijkingsgraad wordt maar eens in de vijftig jaar gemeten",
+                "Arme landen houden geen bevolkingsstatistieken bij"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "In Canada heet een dorp met 1000 inwoners al een stad, in Japan pas vanaf 50.000 inwoners. Dezelfde plaats telt dus in het ene land wél en in het andere niet als stedelijk."
+            },
+            {
+              "id": 73,
+              "type": "multiple_choice",
+              "vraag": "Nigeria heeft een verstedelijkingsgraad van 54 procent en een verstedelijkingstempo van 3,9 procent per jaar; Nederland 93 procent en 0,6 procent. Welk verband blijkt hieruit?",
+              "opties": [
+                "Hoe hoger de verstedelijkingsgraad, hoe hoger het verstedelijkingstempo",
+                "Hoe hoger de verstedelijkingsgraad, hoe lager het verstedelijkingstempo",
+                "Graad en tempo hebben niets met elkaar te maken",
+                "Hoe rijker een land, hoe hoger het verstedelijkingstempo"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Dit verband is contra-intuïtief maar belangrijk: in rijke landen woont bijna iedereen al in de stad, dus kan het percentage nauwelijks nog stijgen. In arme landen is er nog veel ruimte voor groei."
+            },
+            {
+              "id": 74,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het diagram over de ontwikkeling van de verstedelijkingsgraad. Welke lijn stijgt tussen 1950 en 2050 het steilst?",
+              "afbeelding": "images/bron34_verstedelijkingsgraad.jpg",
+              "opties": [
+                "De lijn van de semiperiferie blijft vrijwel vlak",
+                "De lijn van de centrumlanden",
+                "De lijn van de periferie en Afrika",
+                "Alle lijnen stijgen even snel"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De centrumlijn ligt hoog maar loopt flauw; de lijnen van periferie en Afrika beginnen laag en stijgen veel steiler. Dat is precies het verschil tussen een hoge graad en een hoog tempo."
+            },
+            {
+              "id": 75,
+              "type": "multiple_choice",
+              "vraag": "Tot 2050 verdubbelt de bevolking van Afrika, maar de stadsbevolking wordt bijna verdrievoudigd. Wat zegt dat over Afrika?",
+              "opties": [
+                "De natuurlijke bevolkingsgroei in Afrika stopt voor 2050",
+                "De verstedelijkingsgraad is al hoger dan in de centrumlanden",
+                "Het platteland groeit sneller dan de steden",
+                "Het verstedelijkingstempo ligt hoger dan de bevolkingsgroei"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De stadsbevolking groeit sneller dan de totale bevolking; het aandeel stedelingen stijgt dus. Dat is een hoog verstedelijkingstempo."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "6.2",
+          "subdoel_titel": "Oorzaken van verstedelijking",
+          "uitleg_tekst": "De groei van steden in ontwikkelingslanden komt door de trek van platteland naar stad, de natuurlijke bevolkingsgroei en het opslokken van kleinere plaatsen door de stad.",
+          "vragen": [
+            {
+              "id": 76,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke drie oorzaken heeft de snelle groei van steden in ontwikkelingslanden?",
+              "opties": [
+                "De trek van het platteland naar de stad",
+                "De natuurlijke bevolkingsgroei in de stad",
+                "De uitbreiding van de stad over omliggende plaatsen",
+                "De terugkeer van emigranten uit westerse landen",
+                "Het verplaatsen van hoofdsteden naar de kust"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Jongeren trekken naar de stad en stichten daar een gezin (natuurlijke groei), terwijl de stad tegelijk kleinere plaatsen in de omgeving opslokt."
+            },
+            {
+              "id": 77,
+              "type": "multiple_choice",
+              "vraag": "Wat is het grote verschil tussen de verstedelijking in westerse landen in de 19e eeuw en die in arme landen nu?",
+              "opties": [
+                "In het Westen hing de trek naar de stad samen met industrialisatie, nu met stagnatie op het platteland",
+                "In het Westen trokken alleen ouderen naar de stad, nu vooral jongeren",
+                "In het Westen groeiden alleen hoofdsteden, nu groeien alle steden",
+                "In het Westen lag het verstedelijkingstempo veel hoger dan nu in de arme landen van Afrika en Azië het geval is"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Mechanisering op het platteland en industrie in de stad zorgden in het Westen voor werk én economische groei. In arme landen komt de trek voort uit stagnatie in de landbouw bij een snel groeiende bevolking."
+            },
+            {
+              "id": 78,
+              "type": "multiple_choice",
+              "vraag": "Waarom groeien in veel ontwikkelingslanden de informele sector en de krottenwijken mee met de stad?",
+              "opties": [
+                "Nieuwkomers willen bewust niet in de formele economie werken omdat ze dan belasting moeten betalen",
+                "De stad kan door beperkte industriële ontwikkeling niet alle nieuwkomers werk en onderdak bieden",
+                "De overheid verbiedt nieuwkomers om vast werk aan te nemen",
+                "De stad groeit juist te langzaam voor het aantal banen"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Er komen veel meer mensen dan er banen en woningen zijn. Wie geen plek vindt in de formele economie belandt in de informele sector en in zelfgebouwde wijken."
+            },
+            {
+              "id": 79,
+              "type": "multiple_choice",
+              "vraag": "Waarom verlieten vanaf 1960 veel jonge gezinnen in westerse landen de stad?",
+              "opties": [
+                "Omdat de overheid wonen in de stad verbood voor gezinnen",
+                "Omdat de steden in die jaren leegliepen door de sterk dalende geboortecijfers in westerse landen",
+                "Door betere infrastructuur en meer autobezit konden zij een huis in het groen betalen",
+                "Omdat in de randgemeenten de huizenprijzen het hoogst waren"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Toegenomen welvaart, betere infrastructuur en meer mobiliteit maakten wonen in randgemeenten mogelijk. Bovendien verplaatsten bedrijven zich naar goed bereikbare locaties in de randzone, dus kwam het werk mee."
+            },
+            {
+              "id": 80,
+              "type": "multiple_choice",
+              "vraag": "Sinds 2010 groeien de meeste westerse steden weer. Wat is daarvan een gevolg?",
+              "opties": [
+                "Het verstedelijkingstempo van arme landen daalt",
+                "De verstedelijkingsgraad van westerse landen daalt",
+                "De randgemeenten lopen volledig leeg",
+                "De huizenprijzen in de steden stijgen snel"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Buitenlandse migranten en jonge tweeverdieners kiezen voor de stad. Door die toegenomen vraag stijgen de huizenprijzen snel."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "6.3",
+          "subdoel_titel": "Megasteden en wereldsteden",
+          "uitleg_tekst": "Een megastad telt meer dan tien miljoen inwoners. Een wereldstad is een knooppunt in economische, culturele en politieke netwerken op wereldniveau.",
+          "vragen": [
+            {
+              "id": 81,
+              "type": "multiple_choice",
+              "vraag": "Wat maakt een stad tot een wereldstad?",
+              "opties": [
+                "Ze is een knooppunt in economische, culturele en politieke netwerken op wereldniveau",
+                "Ze telt meer dan tien miljoen inwoners",
+                "Ze is de hoofdstad van een centrumland",
+                "Ze groeit sneller dan alle andere steden in het land en trekt de meeste migranten aan"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "New York, Londen en Tokio zijn wereldsteden: daalt de beurs van New York, dan volgen de beurzen wereldwijd. Een wereldstad hoeft geen megastad van meer dan tien miljoen inwoners te zijn."
+            },
+            {
+              "id": 82,
+              "type": "multiple_choice",
+              "vraag": "Van de 33 megasteden in 2018 lagen er 27 in (semi)perifere landen. Hoe komt dat?",
+              "opties": [
+                "In rijke landen mogen steden wettelijk niet groter worden dan tien miljoen inwoners, terwijl daarvoor in arme landen geen grens geldt",
+                "Migratie richt zich in arme landen vooral op de grootste steden, die al in de koloniale tijd de meeste aandacht kregen",
+                "In arme landen worden dorpen vanaf 1000 inwoners al als megastad geteld",
+                "In rijke landen groeit de bevolking sneller op het platteland"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Al in de koloniale tijd kregen deze steden de meeste aandacht en na de onafhankelijkheid bouwden nieuwe leiders hun hoofdstad verder uit. Als een magneet trokken ze migranten aan."
+            },
+            {
+              "id": 83,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het diagram met de stadsbevolking naar grootte van steden. Wat gebeurt er tussen 1990 en 2030 met het aantal megasteden?",
+              "afbeelding": "images/bron33_stadsbevolking.jpg",
+              "opties": [
+                "Dat blijft ongeveer gelijk",
+                "Dat stijgt van 10 naar 21",
+                "Dat stijgt van 10 naar 43",
+                "Dat daalt van 43 naar 33"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Het aantal megasteden groeit van 10 (1990) via 33 (2018) naar 43 (2030). Ook het aantal grote en middelgrote steden neemt in die periode flink toe."
+            },
+            {
+              "id": 84,
+              "type": "multiple_choice",
+              "vraag": "Welke verschuiving is er zichtbaar in de rol van wereldsteden?",
+              "opties": [
+                "Wereldsteden krijgen vooral een rol op nationaal en regionaal niveau",
+                "Wereldsteden verdwijnen uit de centrumlanden",
+                "Alleen hoofdsteden kunnen nog wereldstad worden",
+                "De rol van megasteden als Shanghai, Mumbai en Rio de Janeiro groeit"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De belangrijkste wereldsteden liggen nog in de centrumlanden, maar steden in de semiperiferie worden steeds belangrijkere knooppunten in mondiale netwerken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 7,
+      "paragraaf": "2.7",
+      "leerdoel_titel": "De grensregio Mexico-VS: een grens tussen rijk en arm",
+      "uitleg_tekst": "De grens tussen de VS en Mexico is ruim 3000 kilometer lang en vormt niet alleen een landsgrens, maar ook een grens tussen arm en rijk. Mexico hoort tot de semiperiferie: de koopkracht van een Amerikaan is gemiddeld ruim drie keer hoger en de VS geven negen keer zoveel per inwoner uit aan gezondheidszorg. In de VS werkt 79 procent in de dienstensector, wat past bij een centrumland. De Mexicaanse bevolking is jonger, maar de leeftijdsgrafiek vormt geen piramide meer omdat het geboortecijfer snel daalde. Het grensgebied was lang dunbevolkt, maar door stimuleringsbeleid vanaf 1960 en de komst van Amerikaanse bedrijven is de bevolking verzevenvoudigd. Cultureel grenst hier het westerse aan het Latijns-Amerikaanse cultuurgebied; in de grensregio ontstond een mengcultuur met een eigen identiteit.",
+      "subdoelen": [
+        {
+          "subdoel_id": "7.1",
+          "subdoel_titel": "Verschil in welvaart tussen de VS en Mexico",
+          "uitleg_tekst": "Mexico hoort tot de semiperiferie, de VS tot het centrum. Dat zie je aan de koopkracht, de uitgaven aan gezondheidszorg en de verdeling van de beroepsbevolking.",
+          "vragen": [
+            {
+              "id": 85,
+              "type": "multiple_choice",
+              "vraag": "Tot welke groep landen in het wereldsysteem hoort Mexico?",
+              "opties": [
+                "De semiperiferie",
+                "De periferie",
+                "Het centrum",
+                "De nieuwe periferie"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Mexico is niet echt arm en hoort tot de semiperiferie. Toch is de koopkracht van een Amerikaan gemiddeld ruim drie keer hoger dan die van een Mexicaan."
+            },
+            {
+              "id": 86,
+              "type": "multiple_choice",
+              "vraag": "Hoe zit het met de welvaart aan weerszijden van de grens?",
+              "opties": [
+                "Het armere zuiden van de VS is inmiddels armer geworden dan het rijke noorden van Mexico",
+                "Het armere zuiden van de VS is nog altijd welvarender dan het rijkste deel van Mexico",
+                "Beide zijden van de grens hebben ongeveer dezelfde welvaart",
+                "Het noorden van Mexico is het armste deel van dat land"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het zuiden van de VS hoort tot het armere deel van dat land, en Noord-Mexico is juist het rijkste deel van Mexico. Toch is het welvaartsverschil over de grens nog steeds groot: vandaar de naam 'tortilla curtain'."
+            },
+            {
+              "id": 87,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de ringdiagrammen met de verdeling van de beroepsbevolking. Wat laat het diagram van de Verenigde Staten zien?",
+              "afbeelding": "images/bron46_beroepsbev_mex_vs.jpg",
+              "opties": [
+                "De primaire sector is er groter dan in Mexico",
+                "Verreweg het grootste deel werkt in de secundaire sector",
+                "Verreweg het grootste deel werkt in de tertiaire sector",
+                "De drie sectoren zijn er ongeveer even groot"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "In de VS werkt 79 procent in de dienstensector. Die sterk ontwikkelde tertiaire sector maakt de VS tot een echt centrumland."
+            },
+            {
+              "id": 88,
+              "type": "invullen",
+              "vraag": "Hoeveel kilometer is de grens tussen de VS en Mexico ongeveer lang? Geef het getal.",
+              "juiste_antwoord": "3000",
+              "uitleg": "De grens strekt zich over ruim 3000 kilometer van west naar oost uit. Jaarlijks passeren miljoenen mensen die grens legaal; daarnaast proberen ongeveer 400.000 migranten per jaar illegaal de VS binnen te komen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "7.2",
+          "subdoel_titel": "Bevolkingsgroei en bevolkingsdichtheid in de grensregio",
+          "uitleg_tekst": "Het grensgebied was lang dunbevolkt door het steppe- en woestijnklimaat. Sinds 1960 groeide de bevolking explosief door economisch stimuleringsbeleid en de komst van Amerikaanse bedrijven.",
+          "vragen": [
+            {
+              "id": 89,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de bevolkingspiramides van Mexico en de VS. Waarom vormt de grafiek van Mexico geen echte piramide meer?",
+              "afbeelding": "images/bron47_piramides_mex_vs.jpg",
+              "opties": [
+                "De levensverwachting in Mexico is gedaald",
+                "Het sterftecijfer is de laatste decennia sterk gestegen",
+                "Veel ouderen zijn naar de VS geëmigreerd",
+                "Het geboortecijfer is de laatste decennia snel gedaald"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De onderste balken zijn niet langer de breedste, omdat er minder kinderen geboren worden. De bevolking van Mexico is nog wel duidelijk jonger dan die van de VS."
+            },
+            {
+              "id": 90,
+              "type": "multiple_choice",
+              "vraag": "Het sterftecijfer van Mexico is lager dan dat van de VS, terwijl de gezondheidszorg er slechter is. Hoe kan dat?",
+              "opties": [
+                "Mexico heeft een veel jongere bevolking, waardoor de sterftekans per 1000 inwoners lager ligt",
+                "In Mexico worden lang niet alle sterfgevallen door de overheid geregistreerd en in de statistiek meegeteld",
+                "In de VS ligt de levensverwachting lager dan in Mexico",
+                "Mexico telt alleen de sterfte in de grensregio mee"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het sterftecijfer is een promillage van de hele bevolking. Bij een jonge bevolking overlijden er per 1000 inwoners minder mensen dan bij een vergrijsde bevolking zoals de Amerikaanse."
+            },
+            {
+              "id": 91,
+              "type": "multiple_choice",
+              "vraag": "Waarom groeide de bevolking van het grensgebied sinds 1960 zo sterk?",
+              "opties": [
+                "De natuurlijke omstandigheden in het gebied verbeterden sterk",
+                "De Mexicaanse overheid stimuleerde het gebied economisch en er kwamen veel Amerikaanse bedrijven",
+                "De Amerikaanse overheid verplaatste er haar hoofdstad naartoe",
+                "Het gebied kreeg als eerste deel van Mexico toegang tot irrigatiewater uit de Rio Grande en de stuwmeren"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Rond 1960 woonden er ongeveer vier miljoen mensen; in 2025 is dat naar schatting verzevenvoudigd. De komst van Amerikaanse bedrijven lokte honderdduizenden migranten uit het zuiden van Mexico."
+            },
+            {
+              "id": 232,
+              "type": "volgorde",
+              "vraag": "Zet de ontwikkeling van de bevolking in de grensregio in de juiste volgorde.",
+              "opties": {
+                "A": "Het steppe- en woestijnachtige grensgebied is dunbevolkt en krijgt weinig aandacht",
+                "B": "De Mexicaanse overheid stimuleert het grensgebied vanaf 1960 economisch",
+                "C": "Amerikaanse bedrijven vestigen zich massaal net over de grens",
+                "D": "Honderdduizenden migranten uit het zuiden van Mexico trekken naar het noorden"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Rond 1960 woonden er ongeveer vier miljoen mensen; naar schatting is dat in 2025 verzevenvoudigd. Het werk van de Amerikaanse bedrijven was de belangrijkste pullfactor."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "7.3",
+          "subdoel_titel": "De grens als cultuurgrens",
+          "uitleg_tekst": "Bij de grens raakt het westerse cultuurgebied aan het Latijns-Amerikaanse. In de grensregio is een mengcultuur met een eigen regionale identiteit ontstaan.",
+          "vragen": [
+            {
+              "id": 92,
+              "type": "multiple_choice",
+              "vraag": "Welke twee cultuurgebieden grenzen bij de Mexicaans-Amerikaanse grens aan elkaar?",
+              "opties": [
+                "Het Latijns-Amerikaanse en het Zuid-Aziatische cultuurgebied",
+                "Het westerse en het Noord-Afrikaanse cultuurgebied",
+                "Het westerse en het Latijns-Amerikaanse cultuurgebied",
+                "Twee delen van hetzelfde westerse cultuurgebied"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Je ziet het verschil aan taal, godsdienst, bouwstijl en gebruiken. Mexico en een groot deel van het zuidwesten van de VS waren tot 1848 eeuwenlang een Spaanse kolonie."
+            },
+            {
+              "id": 93,
+              "type": "invullen",
+              "vraag": "Hoe noem je de culturele kenmerken die typisch zijn voor een bepaald gebied?",
+              "juiste_antwoord": "identiteit",
+              "uitleg": "Met regionale identiteit bedoel je de culturele kenmerken die typerend zijn voor een gebied. In de grensregio ontstond door vermenging een heel eigen identiteit, bijvoorbeeld hoorbaar in de tex-mexmuziek."
+            },
+            {
+              "id": 94,
+              "type": "multiple_choice",
+              "vraag": "In California, Texas en Florida vestigden zich de afgelopen tien jaar veel latino's. Wat is daarvan een demografisch gevolg?",
+              "opties": [
+                "De bevolking in die staten krimpt",
+                "De vergrijzing in die staten versnelt",
+                "Het sterftecijfer in die staten daalt naar nul",
+                "De vergrijzing in die staten wordt afgeremd"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Migranten zijn meestal jong. Doordat zij zich in deze staten vestigen, groeit het aandeel jongeren en wordt de vergrijzing afgeremd."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 8,
+      "paragraaf": "2.8",
+      "leerdoel_titel": "De grensregio Mexico-VS: relaties handel en investeringen",
+      "uitleg_tekst": "De economieën van de VS en Mexico zijn hecht verbonden: de VS zijn voor Mexico veruit het belangrijkste exportland en Mexico is voor de VS de grootste handelspartner. Met de handelsbalans meet je het verschil tussen de waarde van import en export. De relatie past in het centrum-periferiemodel: de VS leveren hoogwaardige industrieproducten en bepalen hoe intensief de uitwisseling is. De internationale arbeidsverdeling in de grensregio verliep in vier fasen: de Speciale Economische Zones vanaf 1960 met maquiladoras, het NAFTA-verdrag van 1994, de uitschuiving naar nog goedkopere landen vanaf 2000 en het USMCA-verdrag van 2020. Vestigingsplaatsfactoren voor mno's zijn de lage lonen, belastingvoordelen en minder strenge milieueisen.",
+      "subdoelen": [
+        {
+          "subdoel_id": "8.1",
+          "subdoel_titel": "Handelsbalans en de centrum-semiperiferierelatie",
+          "uitleg_tekst": "De handelsbalans laat het verschil zien tussen de waarde van geïmporteerde en geëxporteerde goederen. De VS leveren vooral hoogwaardige producten, Mexico vooral arbeidsintensieve producten en grondstoffen.",
+          "vragen": [
+            {
+              "id": 95,
+              "type": "invullen",
+              "vraag": "Hoe noem je het verschil tussen de waarde van de import en de export van een land?",
+              "juiste_antwoord": "handelsbalans",
+              "uitleg": "Met de handelsbalans bepaal je de economische relatie tussen twee landen. Mexico exporteert voor $ 358 miljard naar de VS en importeert voor $ 256 miljard uit de VS."
+            },
+            {
+              "id": 96,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de handelsbalans van Mexico met de VS. Wat levert de VS vooral aan Mexico?",
+              "afbeelding": "images/bron49_handelsbalans.jpg",
+              "opties": [
+                "Machines, motoren, auto's en apparaten",
+                "Textiel, kabels en olie",
+                "Fruit en groente",
+                "Grondstoffen voor de bouw en de industrie"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De VS leveren hoogwaardige industrieproducten, Mexico vooral arbeidsintensieve producten en grondstoffen zoals textiel, kabels, olie, fruit en groente. Dat past precies bij het centrum-periferiemodel."
+            },
+            {
+              "id": 97,
+              "type": "multiple_choice",
+              "vraag": "Waarom past de relatie tussen de VS en Mexico in het centrum-periferiemodel?",
+              "opties": [
+                "Beide landen leveren elkaar precies evenveel hoogwaardige producten",
+                "De VS bepalen als centrum hoe intensief de uitwisseling van arbeid, kapitaal en kennis is",
+                "Mexico bepaalt als semiperiferie de prijzen van de Amerikaanse export naar Latijns-Amerika",
+                "Er is nauwelijks handel tussen de twee landen"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "In het model is de relatie ongelijk: het centrum (de VS) bepaalt hoe intens het gebruik en de uitwisseling van arbeid, kapitaal en kennis met de semiperiferie (Mexico) is."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "8.2",
+          "subdoel_titel": "Maquiladoras en vestigingsplaatsfactoren",
+          "uitleg_tekst": "In Speciale Economische Zones binnen twintig kilometer van de grens vestigden zich maquiladoras: assemblagebedrijven die onderdelen tot eindproducten samenvoegen voor de export naar de VS.",
+          "vragen": [
+            {
+              "id": 98,
+              "type": "multiple_choice",
+              "vraag": "Wat is een maquiladora?",
+              "opties": [
+                "Een Mexicaanse boerderij die groente en fruit exporteert naar de Verenigde Staten en Canada",
+                "Een Amerikaanse winkelketen net over de grens in Mexico",
+                "Een fabriek in Mexico waar onderdelen tot eindproducten worden samengevoegd voor de export",
+                "Een grenspost waar migranten hun inreisverzoek indienen"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Maquiladoras zijn assemblagebedrijven: daar worden onderdelen in elkaar gezet tot auto's, televisies, computers en kleding. Sommige maken ook halffabricaten zoals stalen platen."
+            },
+            {
+              "id": 99,
+              "type": "choose_all_that_apply",
+              "vraag": "Waarom was het voor mno's vanaf 1960 aantrekkelijk om zich in de Speciale Economische Zones langs de grens te vestigen?",
+              "opties": [
+                "De lonen op de Mexicaanse arbeidsmarkt lagen veel lager dan in de VS",
+                "Er golden allerlei belastingvoordelen",
+                "De milieueisen waren er minder streng",
+                "De Mexicaanse afzetmarkt was er groter dan de Amerikaanse",
+                "De lonen lagen er hoger dan dieper in Mexico"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Drie vestigingsplaatsfactoren maakten de grenszone aantrekkelijk: lage lonen, belastingvoordelen en soepele milieueisen. Daarbij kwam de gunstige ligging vlak bij de Amerikaanse afzetmarkt."
+            },
+            {
+              "id": 100,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de kaart met het brp/hoofd en de werkgelegenheid in de maquiladoras. Waar liggen de maquiladora's met de meeste werknemers?",
+              "afbeelding": "images/bron51_maquiladoras.jpg",
+              "opties": [
+                "Verspreid over het hele land",
+                "In het zuiden van Mexico",
+                "Rond de hoofdstad Mexico-Stad en Guadalajara",
+                "In de steden vlak langs de grens met de VS"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De grootste stippen (100.000-300.000 werknemers) liggen in grenssteden als Tijuana en Ciudad Juárez. Ook zie je dat het brp per hoofd in de grensstaten boven het nationale gemiddelde ligt."
+            },
+            {
+              "id": 101,
+              "type": "multiple_choice",
+              "vraag": "Waarom vertrokken sinds 2000 veel laagwaardige maquiladoras uit de grensregio naar landen als Bangladesh, Vietnam en de Filipijnen?",
+              "opties": [
+                "Daar liggen de loonkosten nog een stuk lager: dit heet uitschuiving",
+                "Daar is de afzetmarkt voor auto's veel groter",
+                "De Mexicaanse overheid verbood assemblagebedrijven in de grenszone",
+                "In Azië gelden strengere milieueisen, wat goed is voor het imago"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Bij uitschuiving verplaatst de laagwaardige maakindustrie zich naar landen in de periferie met nog lagere lonen. De grensregio richtte zich daarna meer op hoogwaardige goederen zoals medische apparatuur en elektronica."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "8.3",
+          "subdoel_titel": "Van NAFTA naar USMCA",
+          "uitleg_tekst": "NAFTA maakte Noord-Amerika in 1994 tot vrijhandelszone. In 2020 verving USMCA dat verdrag met strengere eisen aan milieu, lonen en werkomstandigheden.",
+          "vragen": [
+            {
+              "id": 102,
+              "type": "multiple_choice",
+              "vraag": "Wat was het gevolg van het NAFTA-verdrag van 1994 voor de maquiladoras?",
+              "opties": [
+                "Ze moesten allemaal binnen twintig kilometer van de grens blijven",
+                "Ze mochten zich ook buiten de grensregio vestigen, dieper Mexico in",
+                "Ze werden verplicht Amerikaanse lonen te betalen",
+                "Ze mochten alleen nog halffabricaten produceren"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "NAFTA maakte van Noord-Amerika een vrijhandelszone. Door deze liberalisering konden vooral arbeidsintensieve bedrijven zuidwaarts trekken, waar de loonkosten nog lager liggen."
+            },
+            {
+              "id": 103,
+              "type": "multiple_choice",
+              "vraag": "Wat regelt het USMCA-verdrag uit 2020 onder andere?",
+              "opties": [
+                "Lagere lonen in de Mexicaanse auto-industrie",
+                "Een volledig verbod op de handel in auto-onderdelen tussen Mexico, Canada en de Verenigde Staten",
+                "Strengere milieumaatregelen, hogere lonen en betere werkomstandigheden in Mexicaanse fabrieken",
+                "Vrije vestiging van Mexicaanse werknemers in de VS"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "USMCA verving NAFTA. Door de strengere eisen stijgen de productiekosten in bijvoorbeeld de auto-industrie in de grensregio."
+            },
+            {
+              "id": 104,
+              "type": "multiple_choice",
+              "vraag": "Het idee achter USMCA was dat er meer banen in de VS behouden zouden blijven. Waarom komt daar in de praktijk weinig van terecht?",
+              "opties": [
+                "Amerikaanse consumenten kopen geen Mexicaanse producten meer",
+                "Amerikaanse bedrijven mogen van USMCA geen personeel meer aannemen in de Mexicaanse grensregio zelf",
+                "De Mexicaanse fabrieken zijn verplaatst naar Canada",
+                "De lonen in Mexico blijven veel lager en banen in de maakindustrie verdwijnen door robotisering"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Een Mexicaanse fabrieksarbeider verdient gemiddeld € 1 per uur, een Amerikaanse collega ongeveer € 15. Bovendien verdwijnen in rijke landen banen in de maakindustrie vooral door robotisering."
+            },
+            {
+              "id": 233,
+              "type": "volgorde",
+              "vraag": "Zet de vier fasen van de internationale arbeidsverdeling in de grensregio op volgorde.",
+              "opties": {
+                "A": "Mexico staat rond 1960 Speciale Economische Zones langs de grens toe",
+                "B": "Met het NAFTA-verdrag van 1994 ontstaat een vrijhandelszone in Noord-Amerika",
+                "C": "Vanaf 2000 schuift de laagwaardige maakindustrie door naar Azië",
+                "D": "In 2020 vervangt het USMCA-verdrag NAFTA, met strengere eisen"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Elke fase verlegt de productie een stukje verder: eerst naar de grenszone, daarna dieper Mexico in, vervolgens naar landen als Bangladesh en Vietnam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 9,
+      "paragraaf": "2.9",
+      "leerdoel_titel": "De grensregio Mexico-VS: relaties bevolking en migratie",
+      "uitleg_tekst": "In de VS wonen ruim elf miljoen Mexicaanse migranten, van wie naar schatting vijf miljoen illegaal. Zij werken vooral in de bouw, de horeca en de landbouw en sturen maandelijks miljarden dollars naar huis: na de olie-export zijn deze remesas de tweede inkomstenbron van Mexico. Ook de VS profiteren: goedkope arbeidskrachten houden de productiekosten laag en de vergrijzende Amerikaanse bevolking heeft handen nodig. Armoede is de belangrijkste pushfactor in de herkomstgebieden. Trekken na de eerste migranten ook familie en kennissen mee, dan heet dat ketting- of volgmigratie. De laatste jaren komen veel migranten uit El Salvador, Honduras en Guatemala. Aan de grens ontstaan tentenkampen en groeit de illegale oversteek via bijvoorbeeld de Sonorawoestijn. Amerikaanse grensplaatsen vormen vaak een dubbelstad met een Mexicaanse stad, zoals El Paso en Ciudad Juárez.",
+      "subdoelen": [
+        {
+          "subdoel_id": "9.1",
+          "subdoel_titel": "Migranten, remesas en het belang voor beide landen",
+          "uitleg_tekst": "Migranten sturen geld naar huis (remesas): na de olie-export de tweede inkomstenbron van Mexico. Ook de VS profiteren van de goedkope arbeidskrachten.",
+          "vragen": [
+            {
+              "id": 105,
+              "type": "multiple_choice",
+              "vraag": "Wat is na de olie-export de tweede bron van inkomsten voor Mexico?",
+              "opties": [
+                "Het geld dat migranten vanuit de VS naar huis sturen",
+                "De export van medische apparatuur en elektronica naar de VS",
+                "Het toerisme uit de VS",
+                "De ontwikkelingshulp van de VS"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Deze remesas gaan rechtstreeks naar de armste gebieden. Er worden medische zorg, onderwijs en onderdak mee betaald, en het geld wordt in startende bedrijfjes gestoken."
+            },
+            {
+              "id": 106,
+              "type": "multiple_choice",
+              "vraag": "In welke sectoren werken de Mexicaanse migranten in de VS vooral?",
+              "opties": [
+                "In het onderwijs en de gezondheidszorg",
+                "In de bouw, de horeca en de landbouw",
+                "In de hightech-industrie en de ICT",
+                "Bij de overheid en de grensbewaking"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Mexicaanse vrouwen werken daarnaast vaak als hulp in de huishouding. Deze goedkope, vaak illegale arbeiders houden de productiekosten laag in sectoren tot ver buiten de grensstreek."
+            },
+            {
+              "id": 107,
+              "type": "choose_all_that_apply",
+              "vraag": "Op welke manieren profiteren de Verenigde Staten van de Mexicaanse migranten?",
+              "opties": [
+                "Ze houden de productiekosten in landbouw, industrie en horeca laag",
+                "Ze leveren 'handen' voor een vergrijzende bevolking",
+                "Ze maken het mogelijk dat arbeidsintensieve industrie in dure steden blijft",
+                "Ze betalen de hoogste inkomstenbelasting van alle werknemers",
+                "Ze nemen vooral leidinggevende functies over"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Migranten doen vaak het vuile werk, kunnen gemakkelijk ontslagen worden en houden zo de kosten laag. Daardoor kan bijvoorbeeld in een dure stad als Los Angeles de arbeidsintensieve industrie zich handhaven."
+            },
+            {
+              "id": 108,
+              "type": "multiple_choice",
+              "vraag": "Voor welke groepen maakten de VS een uitzondering bij het strengere migratiebeleid?",
+              "opties": [
+                "Alleen migranten uit Canada",
+                "Alleen familieleden van Amerikaanse staatsburgers",
+                "Kenniswerkers, medisch personeel en seizoenarbeiders",
+                "Alleen studenten aan Amerikaanse universiteiten"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Onder druk van bedrijven bleven deze groepen welkom. Ze zijn nodig voor de kenniseconomie, de zorg en de landbouw, waar Amerikaanse werknemers moeilijk te vinden zijn."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "9.2",
+          "subdoel_titel": "Herkomstgebieden, kettingmigratie en grensbeleid",
+          "uitleg_tekst": "Armoede is de belangrijkste pushfactor. Volgen familie en kennissen de eerste migranten, dan heet dat ketting- of volgmigratie.",
+          "vragen": [
+            {
+              "id": 109,
+              "type": "invullen",
+              "vraag": "Hoe noem je het verschijnsel dat na de eerste migranten ook familie en kennissen naar hetzelfde gebied trekken?",
+              "juiste_antwoord": "kettingmigratie",
+              "uitleg": "Ketting- of volgmigratie verklaart waarom migranten uit één dorp vaak in dezelfde plaats terechtkomen. Zo woont de helft van de bevolking van het Mexicaanse dorp Cabeza in de Texaanse gemeente Starr."
+            },
+            {
+              "id": 110,
+              "type": "multiple_choice",
+              "vraag": "Uit welke landen komen de laatste jaren veel migranten die de oversteek naar de VS wagen?",
+              "opties": [
+                "Colombia, Peru en Bolivia",
+                "Brazilië, Argentinië en Chili",
+                "Canada, Cuba en Jamaica",
+                "El Salvador, Honduras en Guatemala"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Door bendeoorlogen en gebrek aan economisch perspectief ontvluchten zij hun land. Met duizenden tegelijk trekken ze vaak te voet in karavanen naar de noordgrens van Mexico."
+            },
+            {
+              "id": 111,
+              "type": "multiple_choice",
+              "vraag": "Waarom proberen migranten juist in de Sonorawoestijn illegaal de grens over te steken?",
+              "opties": [
+                "Daar ontbreekt de grensmuur en is de pakkans kleiner",
+                "Daar is de oversteek het kortst en het koelst",
+                "Daar staan opvangkampen van de Amerikaanse overheid",
+                "Daar is de grensbewaking het strengst, dus let niemand op"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De keuze valt op plekken zonder muur. Het gebrek aan drinkwater en de hitte tot 50 °C vormen daar echter een natuurlijke barrière die de oversteek levensgevaarlijk maakt."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "9.3",
+          "subdoel_titel": "De dubbelstad El Paso en Ciudad Juárez",
+          "uitleg_tekst": "Een dubbelstad bestaat uit twee steden aan weerszijden van de grens die functioneel een eenheid vormen. Ciudad Juárez is de industriestad, El Paso het dienstencentrum.",
+          "vragen": [
+            {
+              "id": 112,
+              "type": "invullen",
+              "vraag": "Hoe noem je twee steden aan weerszijden van een grens die samen één functionele eenheid vormen?",
+              "juiste_antwoord": "dubbelstad",
+              "uitleg": "El Paso (680.000 inwoners) en Ciudad Juárez (1,5 miljoen inwoners) vormen zo'n dubbelstad, ook wel twin cities genoemd. Er zijn sterke culturele en sociaaleconomische banden."
+            },
+            {
+              "id": 113,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de verdeling van de werkgelegenheid in El Paso en Ciudad Juárez. Hoe vullen de twee steden elkaar aan?",
+              "afbeelding": "images/bron55_elpaso_juarez.jpg",
+              "opties": [
+                "El Paso is de industriestad, Ciudad Juárez het dienstencentrum",
+                "Ciudad Juárez is de industriestad, El Paso het dienstencentrum",
+                "Beide steden leven vooral van de landbouw",
+                "Beide steden hebben dezelfde verdeling over de sectoren"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "In Ciudad Juárez werkt 56 procent in industrie en bouw, in El Paso 65 procent in de commerciële diensten. Vandaar de uitspraak: 'Juárez maakt het, maar El Paso maakt het mogelijk.'"
+            },
+            {
+              "id": 114,
+              "type": "multiple_choice",
+              "vraag": "Waarom kunnen er in de VS etnische spanningen ontstaan rond de Mexicaanse migranten?",
+              "opties": [
+                "Migranten mogen geen eigen bedrijven starten in de VS",
+                "Migranten weigeren Engels te leren in de grensstreek",
+                "Mensen met een legale baan verwijten illegale migranten dat ze hun werk inpikken",
+                "De Amerikaanse bevolking krimpt juist door de komst van migranten uit Mexico en Midden-Amerika"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Etnische spanningen zijn spanningen tussen bevolkingsgroepen met een verschillende etniciteit. De concurrentie om werk is hier de belangrijkste oorzaak."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1773 @@
+{
+  "vak": "Aardrijkskunde",
+  "hoofdstuk": "5 havo H1 - Globalisering",
+  "methode": "buiteNLand",
+  "scope": "buiteNLand 5 havo, H1 Wereld: Globalisering (par. 1.1 t/m 1.9)",
+  "totaal_vragen": 118,
+  "leerdoelen": [
+    {
+      "leerdoel_id": 10,
+      "paragraaf": "1.1",
+      "leerdoel_titel": "Globalisering: one world?",
+      "uitleg_tekst": "Globalisering (ook wel mondialisering) is het proces waarbij op een groot aantal terreinen de verwevenheid tussen gebieden en samenlevingen op aarde toeneemt. Het proces verandert zowel de inrichting als de functie van gebieden: Dubai was tot 1966 een vissersdorp en is nu een metropool en knooppunt in de internationale economie. Je kunt naar globalisering kijken vanuit vier dimensies: economisch, sociaal-cultureel, politiek en geografisch. Globalisering wordt mogelijk gemaakt door transporttechnologie en informatie- en communicatietechnologie (ICT). Sinds de jaren 1980 zijn reistijden sterk gedaald, is transport goedkoper geworden (vooral door containerisatie) en is de infrastructuur enorm verbeterd. Daardoor treedt tijd-ruimtecompressie op: tijd en ruimte worden als het ware in elkaar gedrukt en de relatieve afstand tussen gebieden neemt af. Die compressie verloopt niet overal even snel, want verbeteringen concentreren zich in welvarende regio's.",
+      "subdoelen": [
+        {
+          "subdoel_id": "10.1",
+          "subdoel_titel": "Globalisering en de vier dimensies",
+          "uitleg_tekst": "Globalisering is de toenemende verwevenheid tussen gebieden en samenlevingen. Je bekijkt het proces vanuit een economische, sociaal-culturele, politieke of geografische dimensie.",
+          "vragen": [
+            {
+              "id": 115,
+              "type": "multiple_choice",
+              "vraag": "Wat verstaan aardrijkskundigen onder globalisering?",
+              "opties": [
+                "De verspreiding van de westerse cultuur over de hele wereld",
+                "Het proces waarbij landen hun grenzen juist sluiten voor handel",
+                "De groei van de wereldbevolking en de wereldwijde verstedelijking die daarmee samenhangt",
+                "Het proces waarbij de verwevenheid tussen gebieden en samenlevingen op aarde toeneemt"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Globalisering, ook wel mondialisering genoemd, speelt op veel terreinen tegelijk: goederen, mensen en kapitaal verplaatsen zich over grotere afstanden en het leven van mensen wordt beïnvloed door gebeurtenissen ver weg."
+            },
+            {
+              "id": 116,
+              "type": "multiple_choice",
+              "vraag": "Dubai was tot 1966 een vissersdorp en is nu een knooppunt in de internationale economie en het vliegverkeer. Welk aspect van het gebied is hiermee veranderd?",
+              "opties": [
+                "De functie van het gebied",
+                "De inrichting van het gebied",
+                "De natuurlijke ligging van het gebied",
+                "De bevolkingsdichtheid van het gebied"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De wolkenkrabbers veranderden de ínrichting; de rol als knooppunt in economie en vliegverkeer is de fúnctie. Globalisering heeft met aardrijkskunde te maken omdat het allebei beïnvloedt."
+            },
+            {
+              "id": 117,
+              "type": "multiple_choice",
+              "vraag": "'In VN-verband gaan Nederlandse soldaten naar brandhaarden in de wereld.' Bij welke dimensie van globalisering hoort deze ontwikkeling?",
+              "afbeelding": "images/bron4_dimensies.jpg",
+              "opties": [
+                "De economische dimensie",
+                "De politieke dimensie",
+                "De sociaal-culturele dimensie",
+                "De geografische dimensie"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Samenwerking tussen staten en internationale organisaties hoort bij de politieke dimensie. De economische dimensie gaat over productie en handel, de sociaal-culturele over contacten tussen mensen."
+            },
+            {
+              "id": 118,
+              "type": "multiple_choice",
+              "vraag": "'Verbetering van de verbindingen met het achterland geeft de containerhaven een boost.' Welke dimensie van globalisering is dit?",
+              "opties": [
+                "De sociaal-culturele dimensie",
+                "De politieke dimensie",
+                "De geografische dimensie",
+                "De demografische dimensie"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De geografische dimensie gaat over de ruimtelijke gevolgen: bereikbaarheid, verbindingen en de inrichting van gebieden. In dit hoofdstuk staan vooral de economische en sociaal-culturele dimensie centraal."
+            },
+            {
+              "id": 119,
+              "type": "invullen",
+              "vraag": "Hoe noem je een invalshoek van waaruit je naar een ontwikkeling als globalisering kijkt?",
+              "juiste_antwoord": "dimensie",
+              "uitleg": "Het boek onderscheidt vier dimensies: economisch, sociaal-cultureel, politiek en geografisch. Ze beïnvloeden elkaar voortdurend."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "10.2",
+          "subdoel_titel": "Transport- en ICT-ontwikkelingen als aanjager",
+          "uitleg_tekst": "Transporttechnologie maakt het vervoer van grondstoffen, goederen en mensen mogelijk; ICT de uitwisseling van informatie. Samen met vrijhandel jagen ze de globalisering aan.",
+          "vragen": [
+            {
+              "id": 120,
+              "type": "invullen",
+              "vraag": "Hoe noem je het transport van goederen in dozen met internationale standaardafmetingen?",
+              "juiste_antwoord": "containerisatie",
+              "uitleg": "Containerisatie maakte transport veel goedkoper, doordat schepen sneller geladen en gelost kunnen worden en de capaciteit enorm toenam."
+            },
+            {
+              "id": 121,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke drie ontwikkelingen zijn sinds de jaren 1980 van belang voor de globalisering?",
+              "opties": [
+                "Reis- en vervoertijden zijn spectaculair gedaald",
+                "Transport en communicatie zijn goedkoper geworden",
+                "De infrastructuur rond transport en dataverkeer is sterk verbeterd",
+                "Landen hebben hun grenscontroles aangescherpt",
+                "De wereldbevolking is gaan krimpen"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Sneller, goedkoper en beter verbonden: die drie ontwikkelingen versterken elkaar. Vooral de toenemende capaciteit van schepen en vliegtuigen en de containerisatie drukten de kosten."
+            },
+            {
+              "id": 122,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het overzicht van de industriële revoluties. Wat is kenmerkend voor de vierde industriële revolutie?",
+              "afbeelding": "images/bron5_industriele_revoluties.jpg",
+              "opties": [
+                "Automatisering van de productie",
+                "Elektriciteit, de lopende band en massaproductie",
+                "Water- en stoomkracht en mechanisering",
+                "Robotisering en digitale communicatie en besturing"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De vierde revolutie loopt vanaf 2000. Daarvoor: de derde (1950-2000) draaide om automatisering, de tweede (1870-1914) om elektriciteit en massaproductie, de eerste (1750-1830) om stoomkracht."
+            },
+            {
+              "id": 123,
+              "type": "multiple_choice",
+              "vraag": "Waarom wordt de 21e eeuw de eeuw van de glasvezelkabel en de satellietverbindingen genoemd?",
+              "opties": [
+                "Omdat de uitwisseling van informatie nu de grootste sprong maakt",
+                "Omdat er nauwelijks nog goederen per zeeschip over lange afstanden worden vervoerd",
+                "Omdat vliegtuigen steeds langzamer zijn geworden",
+                "Omdat alleen rijke landen nog internet gebruiken"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De 19e eeuw was die van spoor en stoomschip, de 20e van autoweg en vliegtuig. In de 21e eeuw zit de grootste versnelling in ICT, bijvoorbeeld door duizenden satellieten van het Starlink-project."
+            },
+            {
+              "id": 124,
+              "type": "multiple_choice",
+              "vraag": "Welke aanjager van globalisering hoort bij het wegvallen van handelsgrenzen, waardoor multinationals hun vestigingen over de hele aardbol kunnen spreiden?",
+              "opties": [
+                "Containerisatie",
+                "Vrijhandel",
+                "Tijd-ruimtecompressie",
+                "Kolonisatie"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Vrijhandel en technologische ontwikkeling zijn de twee aanjagers. Dankzij vrijhandel vormen mno's met hun vestigingen een mondiaal netwerk."
+            },
+            {
+              "id": 234,
+              "type": "volgorde",
+              "vraag": "Zet de vier industriële revoluties in de juiste volgorde, van oud naar nieuw.",
+              "opties": {
+                "A": "Water- en stoomkracht en mechanisering",
+                "B": "Elektriciteit, de lopende band en massaproductie",
+                "C": "Automatisering van de productie",
+                "D": "Robotisering en digitale communicatie en besturing"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "De eerste revolutie liep van 1750 tot 1830, de tweede van 1870 tot 1914, de derde van 1950 tot 2000 en de vierde begon rond 2000. We leven nu in het tijdperk van de vierde."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "10.3",
+          "subdoel_titel": "Tijd-ruimtecompressie en relatieve afstand",
+          "uitleg_tekst": "Tijd-ruimtecompressie is de ontwikkeling waarbij tijd en ruimte in elkaar gedrukt worden door transport- en ICT-ontwikkelingen. De wereld wordt daardoor 'kleiner', maar niet voor iedereen even snel.",
+          "vragen": [
+            {
+              "id": 125,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de bron over tijd-ruimtecompressie. Wat zie je gebeuren tussen 1600 en nu?",
+              "afbeelding": "images/bron7_tijdruimtecompressie.jpg",
+              "opties": [
+                "Het aantal vervoermiddelen op aarde neemt af",
+                "De werkelijke afstand tussen gebieden op aarde wordt door nieuwe verbindingen steeds kleiner",
+                "De snelheid van transport en informatie neemt toe, waardoor de wereld 'kleiner' lijkt",
+                "Transport wordt steeds duurder en dus langzamer"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Van postkoets (15 km/uur) via straalvliegtuig (1000 km/uur) naar dataoverdracht van meer dan 25 Gb/sec. De werkelijke afstand verandert niet, maar de relatieve afstand — in tijd — wordt steeds kleiner."
+            },
+            {
+              "id": 126,
+              "type": "invullen",
+              "vraag": "Hoe noem je de ontwikkeling waarbij tijd en ruimte als het ware in elkaar worden gedrukt?",
+              "juiste_antwoord": "tijd-ruimtecompressie",
+              "uitleg": "Door ontwikkelingen in transport en ICT neemt de relatieve afstand tussen gebieden af. Men spreekt daarom wel van een global village."
+            },
+            {
+              "id": 127,
+              "type": "multiple_choice",
+              "vraag": "Waarom verloopt de tijd-ruimtecompressie tussen Londen en Rio de Janeiro veel sneller dan tussen Rio de Janeiro en een dorp in het Amazonegebied?",
+              "opties": [
+                "Brazilië investeert niet in internationale verbindingen",
+                "In het Amazonegebied wonen geen mensen die willen reizen",
+                "De werkelijke afstand van Rio de Janeiro tot het Amazonegebied is veel groter dan die tot Londen",
+                "Verbetering van infrastructuur concentreert zich in de meest welvarende regio's"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De 'dorpelingen' van het global village zijn niet gelijk. Nieuwe infrastructuur komt vooral in rijke regio's, waardoor de relatieve afstand daar snel afneemt en elders nauwelijks."
+            },
+            {
+              "id": 128,
+              "type": "multiple_choice",
+              "vraag": "Wanneer kwam de verweving van gebieden voor het eerst in een stroomversnelling?",
+              "opties": [
+                "Na de Europese expedities in de 16e eeuw en de kolonisatie die daarop volgde",
+                "Pas na 1990, want daarvoor bestond er nog geen wereldwijde handel tussen gebieden",
+                "Tijdens de eerste industriële revolutie rond 1750",
+                "Na de oprichting van de WTO in de jaren 90"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Globalisering is geen nieuw proces: de expedities en kolonisatie vanaf de 16e eeuw zorgden voor de eerste versnelling. Wel verliep het proces nooit zo snel en op zo'n grote schaal als na 1990."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 11,
+      "paragraaf": "1.2",
+      "leerdoel_titel": "Economische globalisering: oorzaken",
+      "uitleg_tekst": "Na het instorten van het communisme in de Sovjet-Unie (1991) en de toetreding van China tot de Wereldhandelsorganisatie (WTO) werd de vrijemarkteconomie het leidende systeem. Economische globalisering lees je na 1990 af aan de snelle toename van de wereldhandel, de sterke stijging van buitenlandse investeringen en de groei van internationaal transport en communicatie. Multinationale ondernemingen kiezen hun locatie op basis van vestigingsplaatsfactoren: de arbeidsmarkt (loon- en kennisniveau), de bereikbaarheid, belastingvoordelen, de politieke stabiliteit en de omvang van de afzetmarkt. De WTO stimuleert vrijhandel door handelsbelemmeringen zoals tariefmuren en importquota te schrappen, maar in tijden van crisis grijpen landen terug op protectionistische maatregelen. Door offshoring wordt de productieketen — de route van grondstof tot consument — opgedeeld en over de wereld verspreid, waardoor handel en vervoer veel sneller groeien dan de productie zelf.",
+      "subdoelen": [
+        {
+          "subdoel_id": "11.1",
+          "subdoel_titel": "Vrijemarkteconomie, WTO en vestigingsplaatsfactoren",
+          "uitleg_tekst": "Sinds 1991 is de vrijemarkteconomie het leidende systeem. Mno's kiezen hun locatie met behulp van vestigingsplaatsfactoren.",
+          "vragen": [
+            {
+              "id": 129,
+              "type": "multiple_choice",
+              "vraag": "Welke twee gebeurtenissen maakten de vrijemarkteconomie tot het leidende economische systeem?",
+              "opties": [
+                "De oprichting van de Europese Unie en de invoering van de euro als gemeenschappelijke munt",
+                "Het instorten van het communisme in de Sovjet-Unie en de toetreding van China tot de WTO",
+                "De coronapandemie en de Buy American-wetgeving",
+                "De containerisatie en de bouw van de Maasvlakte"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Na 1991 werd de wereldhandel steeds vrijer. In een vrijemarkteconomie komt de prijs tot stand door vraag en aanbod, met zo min mogelijk bemoeienis van de overheid."
+            },
+            {
+              "id": 130,
+              "type": "choose_all_that_apply",
+              "vraag": "Waaraan kun je de economische globalisering na 1990 aflezen?",
+              "opties": [
+                "De snelle toename van de wereldhandel",
+                "De sterke stijging van buitenlandse investeringen",
+                "De groei van het internationale transport- en communicatieverkeer",
+                "De daling van het aantal multinationale ondernemingen",
+                "Het sluiten van de grote handelsblokken"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Handel, investeringen en verkeer namen alle drie sterk toe. Na 2016 remde de wereldwijde economische crisis dit proces af, vooral in semiperifere landen die van grondstoffenexport afhankelijk zijn."
+            },
+            {
+              "id": 131,
+              "type": "multiple_choice",
+              "vraag": "Een bedrijf zoekt een locatie met lage lonen én voldoende geschoold personeel. Welke vestigingsplaatsfactor is dit?",
+              "opties": [
+                "De politieke stabiliteit",
+                "De bereikbaarheid",
+                "De arbeidsmarkt",
+                "De omvang van de afzetmarkt"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De arbeidsmarkt gaat over het loon- én kennisniveau. Het belang van elke factor hangt sterk af van het type bedrijf en vooral van het bedrijfsonderdeel."
+            },
+            {
+              "id": 132,
+              "type": "multiple_choice",
+              "vraag": "Apple besloot in 2020 om 15 procent van de productie van China naar India te verplaatsen. Wat was daarvoor volgens het boek de belangrijkste reden?",
+              "opties": [
+                "De grotere politieke stabiliteit van India",
+                "De betere bereikbaarheid van Indiase havens",
+                "Het hogere kennisniveau van de Indiase arbeidsmarkt",
+                "De handelsoorlog tussen de VS en China"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Naast de lagere arbeidskosten speelde vooral de handelsoorlog mee. Het besluit viel niet in China — waar zo'n 5 miljoen mensen bij Apple-productie betrokken zijn — maar op een hoofdkantoor in Californië."
+            },
+            {
+              "id": 133,
+              "type": "multiple_choice",
+              "vraag": "Waarom is een gunstige ligging een belangrijke voorwaarde voor gebieden die economisch verweven willen raken?",
+              "opties": [
+                "Alleen goed bereikbare gebieden zijn interessant voor internationale bedrijven",
+                "Alleen gebieden dicht bij de evenaar hebben lage productiekosten en veel grondstoffen",
+                "Alleen hoofdsteden mogen internationale handel drijven",
+                "Alleen gebieden met veel grondstoffen mogen exporteren"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Bereikbaarheid bepaalt of een gebied kan meedoen in productieketens. Containerhaven Rotterdam is daarvan een goed voorbeeld: een knooppunt in een geglobaliseerde wereld."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "11.2",
+          "subdoel_titel": "Vrijhandel, handelsbelemmeringen en protectionisme",
+          "uitleg_tekst": "Vrijhandel betekent zo min mogelijk handelsbelemmeringen, zoals tariefmuren en importquota. In crisistijd nemen landen juist protectionistische maatregelen.",
+          "vragen": [
+            {
+              "id": 134,
+              "type": "multiple_choice",
+              "vraag": "Wat is een tariefmuur?",
+              "opties": [
+                "Een maximum aan de hoeveelheid die geïmporteerd mag worden",
+                "Een hoge belasting op geïmporteerde producten",
+                "Een verbod op de export van grondstoffen",
+                "Een minimumprijs voor producten op de wereldmarkt"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Tariefmuren en importquota zijn allebei handelsbelemmeringen. Bij een importquotum mag je maar een beperkte hoeveelheid van een product invoeren; een tariefmuur maakt import juist duur."
+            },
+            {
+              "id": 135,
+              "type": "invullen",
+              "vraag": "Welke organisatie stimuleert wereldwijd de vrijhandel door landen handelsverdragen te laten sluiten? Geef de afkorting.",
+              "juiste_antwoord": "WTO",
+              "uitleg": "De Wereldhandelsorganisatie (WTO) is het overlegorgaan waarin landen handelsverdragen sluiten met als doel de liberalisering van de wereldhandel."
+            },
+            {
+              "id": 136,
+              "type": "multiple_choice",
+              "vraag": "President Biden versterkte in 2021, midden in de coronapandemie, de Buy American-wetgeving. Wat is dit voor maatregel?",
+              "opties": [
+                "Een maatregel om de WTO te versterken",
+                "Een maatregel om de vrijhandel te bevorderen",
+                "Een protectionistische maatregel",
+                "Een maatregel om offshoring te stimuleren"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Met protectionisme schermt een land de eigen economie af tegen buitenlandse concurrentie. Onzekere tijden — zoals een krimpende wereldeconomie — leiden vrijwel altijd tot meer protectionisme."
+            },
+            {
+              "id": 137,
+              "type": "multiple_choice",
+              "vraag": "Welk verband is er tussen een economische crisis en protectionisme?",
+              "opties": [
+                "Alleen arme landen nemen bij een crisis protectionistische maatregelen",
+                "Hoe dieper de crisis, hoe meer landen hun grenzen openstellen",
+                "Een crisis heeft geen invloed op het handelsbeleid van landen",
+                "Hoe dieper de crisis, hoe meer landen hun eigen economie afschermen"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Bij krimp willen regeringen banen en bedrijven in eigen land beschermen. Dat staat haaks op het vrijemarktprincipe, maar gebeurt vrijwel altijd."
+            },
+            {
+              "id": 138,
+              "type": "multiple_choice",
+              "vraag": "Waar werd een open, vrije markt het eerst gevormd?",
+              "opties": [
+                "Binnen grote handelsblokken zoals de USMCA, ASEAN en de EU",
+                "Binnen de voormalige Sovjet-Unie",
+                "Binnen de groep van arme landen in Afrika ten zuiden van de Sahara",
+                "Binnen de containerhavens van Europa"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "In een handelsblok schrappen landen onderling de handelsbelemmeringen. Die vrijhandel heeft de wereldhandel en de uitwisseling van goederen sterk bevorderd."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "11.3",
+          "subdoel_titel": "De productieketen en offshoring",
+          "uitleg_tekst": "Offshoring is het verplaatsen van werkzaamheden naar een ander land. Daardoor wordt de productieketen — van grondstof tot consument — opgedeeld en over de wereld verspreid.",
+          "vragen": [
+            {
+              "id": 139,
+              "type": "invullen",
+              "vraag": "Hoe noem je het verplaatsen van werkzaamheden van een bedrijf naar een ander land?",
+              "juiste_antwoord": "offshoring",
+              "uitleg": "Mno's kiezen voor elk onderdeel van hun onderneming de locatie waar de meeste winst te behalen valt. Arbeidsintensieve delen gaan daarbij naar lagelonenlanden."
+            },
+            {
+              "id": 140,
+              "type": "multiple_choice",
+              "vraag": "Wat is een productieketen?",
+              "opties": [
+                "De rij winkels waar een product verkocht wordt",
+                "De route die een product aflegt van grondstof tot consument",
+                "De keten van havens waar containerschepen aanleggen",
+                "De opeenvolging van industriële revoluties"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Vroeger werd een product in één bedrijf of regio gemaakt. Nu is de keten opgedeeld en verspreid over tal van gebieden: jouw laptop heeft al een wereldreis achter de rug."
+            },
+            {
+              "id": 141,
+              "type": "multiple_choice",
+              "vraag": "Waarom zijn de handel en het vervoer veel sneller gegroeid dan de productie zelf?",
+              "opties": [
+                "Grondstoffen worden steeds vaker twee keer gedolven",
+                "Producten worden tegenwoordig veel vaker door consumenten teruggestuurd naar de fabrikant in Azië",
+                "Een groot deel van de wereldhandel vindt plaats tussen vestigingen van dezelfde multinational",
+                "Consumenten kopen steeds meer producten in eigen land"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Doordat de productieketen is opgedeeld, reizen halffabricaten meerdere keren de wereld over tussen vestigingen van hetzelfde bedrijf. Elke stap levert extra transport en handel op."
+            },
+            {
+              "id": 142,
+              "type": "multiple_choice",
+              "vraag": "Het Zweedse havermelkbedrijf Oatly verwacht een groot deel van zijn toekomstige omzet in China te behalen. Welke reden om 'internationaal te gaan' is dit?",
+              "opties": [
+                "Het verkorten van de productieketen",
+                "Het verlagen van de loonkosten",
+                "Het ontwijken van importquota",
+                "Het veroveren van nieuwe afzetmarkten"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Naast het spreiden van productie en research gaan mno's ook internationaal om nieuwe afzetmarkten te bereiken. De omvang van de afzetmarkt is dan de belangrijkste vestigingsplaatsfactor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 12,
+      "paragraaf": "1.3",
+      "leerdoel_titel": "Economische globalisering: gevolgen",
+      "uitleg_tekst": "De internationale goederen- en kapitaalstromen verlopen vooral tussen drie mondiale centrumgebieden: Noord-Amerika, (West-)Europa en Azië en Oceanië. Dat mondiale netwerk staat onder druk doordat de invloed van semiperifere landen sinds 2000 toeneemt; het verschuiven van het economisch zwaartepunt naar de Pacifische zone heet global shift. De economische globalisering heeft zes ruimtelijke gevolgen: een nieuwe internationale arbeidsverdeling, nieuwe afzetmarkten, uitschuiven en doorschuiven (met reshoring als reactie op kwetsbare ketens), concentratie op de core business, een groeiende verbondenheid en een groeiende ongelijkheid. Bij dat laatste hoort afwenteling in ruimte en tijd: negatieve gevolgen worden doorgeschoven naar andere gebieden en toekomstige generaties. Alleen landen en regio's die voor internationale bedrijven interessant zijn doen mee, waardoor regionale en sociale ongelijkheid toenemen.",
+      "subdoelen": [
+        {
+          "subdoel_id": "12.1",
+          "subdoel_titel": "De drie mondiale centrumgebieden en de global shift",
+          "uitleg_tekst": "Het merendeel van de handels-, geld- en informatiestromen verloopt tussen Noord-Amerika, Europa en Azië en Oceanië. Door de global shift verschuift het economisch zwaartepunt naar de Pacifische zone.",
+          "vragen": [
+            {
+              "id": 143,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke drie gebieden vormen de mondiale centrumgebieden?",
+              "opties": [
+                "Noord-Amerika",
+                "(West-)Europa",
+                "Azië en Oceanië",
+                "Midden- en Zuid-Amerika",
+                "Afrika ten zuiden van de Sahara"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Deze drie kerngebieden beheersen de wereldeconomie: het merendeel van de goederen-, geld- en informatiestromen loopt tussen hen. Afrika heeft maar een aandeel van 3 procent in de wereldexport."
+            },
+            {
+              "id": 144,
+              "type": "invullen",
+              "vraag": "Hoe noem je het verschuiven van het economisch zwaartepunt in de wereld richting de Pacifische zone?",
+              "juiste_antwoord": "global shift",
+              "uitleg": "Een steeds groter deel van de mondiale handel vindt niet langer in de Noord-Atlantische maar in de Pacifische zone plaats. China speelt daarin de hoofdrol."
+            },
+            {
+              "id": 145,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de kaart met de wereldhandel. Welk gebied heeft het grootste aandeel in de wereldexport?",
+              "afbeelding": "images/bron13_centrumgebieden_handel.jpg",
+              "opties": [
+                "Europa met 39 procent",
+                "Azië en Oceanië met 29 procent",
+                "Noord-Amerika met 16 procent",
+                "Midden- en Zuid-Amerika met 5 procent"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Europa heeft met 39 procent het grootste aandeel, gevolgd door Azië en Oceanië (29 procent) en Noord-Amerika (16 procent). Een groot deel van die handel vindt plaats bínnen de eigen regio."
+            },
+            {
+              "id": 146,
+              "type": "multiple_choice",
+              "vraag": "Bekijk het diagram over de verschuiving van de industriële productie. Wat gebeurde er tussen 1990 en 2020?",
+              "afbeelding": "images/bron15_verschuiving_productie.jpg",
+              "opties": [
+                "Het aandeel van Europa nam sterk toe ten koste van dat van China en de rest van Azië in de goederenproductie",
+                "Het aandeel van China in de goederenproductie nam sterk toe, dat van Europa en Noord-Amerika af",
+                "Alle regio's behielden precies hetzelfde aandeel",
+                "Noord-Amerika werd de grootste producent van goederen"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "China is inmiddels de werkplaats van de wereld en speelt een cruciale rol in veel productieketens. Door die economische positie wordt ook de politieke rol van China op het wereldtoneel groter."
+            },
+            {
+              "id": 147,
+              "type": "multiple_choice",
+              "vraag": "Waarom staat het mondiale netwerk van de drie centrumgebieden onder druk?",
+              "opties": [
+                "De wereldhandel is sinds 2000 volledig stilgevallen",
+                "De drie centrumgebieden drijven geen handel meer met elkaar",
+                "De invloed van een aantal landen in de semiperiferie neemt sinds 2000 toe",
+                "Alle productie is verplaatst naar Afrika ten zuiden van de Sahara"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Hoewel Japan in Azië nog een grote rol speelt, wordt het overschaduwd door het snel ontwikkelende China. Ook kantoorbanen verdwijnen uit de centrumlanden naar goedkopere Aziatische landen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "12.2",
+          "subdoel_titel": "Ruimtelijke gevolgen van economische globalisering",
+          "uitleg_tekst": "De zes gevolgen zijn: een nieuwe internationale arbeidsverdeling, nieuwe afzetmarkten, uitschuiven en doorschuiven, concentratie op core business, groeiende verbondenheid en groeiende ongelijkheid.",
+          "vragen": [
+            {
+              "id": 148,
+              "type": "multiple_choice",
+              "vraag": "Wat laat de nieuwe internationale arbeidsverdeling zien?",
+              "opties": [
+                "Welke landen lid zijn van de Wereldhandelsorganisatie",
+                "Hoeveel uur werknemers per week werken in de verschillende landen van het mondiale wereldsysteem",
+                "Hoeveel migranten er per land worden toegelaten",
+                "Welke taken (grondstoffen, industrie, diensten) elk deel van het wereldsysteem op zich neemt"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Door de verplaatsing van een deel van de maakindustrie van centrum naar (semi)periferie verschuift die verdeling. Het verschil in loon is daarvan de belangrijkste oorzaak."
+            },
+            {
+              "id": 149,
+              "type": "multiple_choice",
+              "vraag": "De export van semiperifere landen wordt hoogwaardiger, waardoor de ruilvoet verbetert. Wat is de ruilvoet?",
+              "opties": [
+                "De verhouding tussen de prijzen van export- en importgoederen",
+                "Het verschil tussen de waarde van import en export",
+                "De hoeveelheid goederen die een land per jaar ruilt",
+                "De koers van de eigen munt ten opzichte van de dollar"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Let op het verschil met de handelsbalans: die kijkt naar wáárden van import en export, de ruilvoet naar de prijsverhouding. Exporteer je duurdere producten en importeer je goedkope grondstoffen, dan verbetert je ruilvoet."
+            },
+            {
+              "id": 150,
+              "type": "multiple_choice",
+              "vraag": "Door de coronacrisis liep de autoproductie in Europa vast toen chipfabrieken in Azië stillagen. Welke reactie van bedrijven kwam daaruit voort?",
+              "opties": [
+                "Offshoring: nog meer productie naar Azië verplaatsen",
+                "Reshoring: vitale delen van de keten terughalen naar eigen land",
+                "Uitschuiving: productie naar landen met nog lagere lonen",
+                "Protectionisme: importquota instellen voor chips"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Reshoring is het terughalen van bedrijfsactiviteiten uit het buitenland, bijvoorbeeld medische mondmaskers. Het gaat vaak samen met robotisering, dus keren de banen maar mondjesmaat terug."
+            },
+            {
+              "id": 151,
+              "type": "multiple_choice",
+              "vraag": "De VS verschepen jaarlijks miljoenen tonnen plastic afval naar Kenia, waar ruim 90 procent op een vuilnisbelt eindigt. Hoe noem je dit?",
+              "opties": [
+                "Reshoring van afvalverwerking",
+                "Doorschuiven van productie",
+                "Afwenteling in ruimte en tijd",
+                "Verbetering van de ruilvoet"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Bij afwenteling worden de negatieve gevolgen van vooruitgang afgeschoven op een ander gebied (ruimte) én op toekomstige generaties (tijd). Vergeet bij een examenvraag die tweede dimensie niet."
+            },
+            {
+              "id": 152,
+              "type": "multiple_choice",
+              "vraag": "Westerse kledingmerken werken in Bangladesh met een netwerk van onderaannemers. Welk gevolg van globalisering is dit?",
+              "opties": [
+                "Mno's verbeteren hun ruilvoet",
+                "Mno's veroveren nieuwe afzetmarkten",
+                "Mno's halen hun productie terug naar eigen land",
+                "Mno's beperken zich steeds meer tot hun core business"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Bedrijven concentreren zich op één kernactiviteit en stoten alle andere activiteiten af of huren ze in. Het naaien van kleding wordt zo uitbesteed aan onderaannemers."
+            },
+            {
+              "id": 235,
+              "type": "volgorde",
+              "vraag": "Zet deze stappen in het verplaatsen van productie in de juiste volgorde.",
+              "opties": {
+                "A": "Een mno produceert nog volledig in een centrumland",
+                "B": "Door offshoring verhuist de arbeidsintensieve productie naar een lagelonenland",
+                "C": "Stijgen daar de lonen, dan schuift het bedrijf door naar een nog goedkoper land",
+                "D": "Na de kwetsbaarheid van de keten in de coronacrisis wordt een deel teruggehaald"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Let op de begrippen: offshoring is verplaatsen naar het buitenland, doorschuiven is van het ene lagelonenland naar een nog goedkoper land, en reshoring is terughalen — vaak samen met robotisering."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "12.3",
+          "subdoel_titel": "Wie doet er mee? Regionale en sociale ongelijkheid",
+          "uitleg_tekst": "Alleen gebieden die voor internationale bedrijven interessant zijn, doen mee aan globalisering. Daardoor groeien de verschillen tussen gebieden én tussen bevolkingsgroepen.",
+          "vragen": [
+            {
+              "id": 153,
+              "type": "multiple_choice",
+              "vraag": "Welke grote gebieden staan volgens het boek grotendeels aan de kant bij het proces van globalisering?",
+              "opties": [
+                "Centraal-Azië en Afrika ten zuiden van de Sahara",
+                "Noord-Amerika en Australië",
+                "West-Europa en Japan",
+                "Zuidoost-Azië en de Golfstaten rond de Perzische Golf"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Alleen landen en regio's die voor internationale bedrijven interessant zijn doen mee. De rest wordt nauwelijks aangeraakt door het proces en valt in de 'nieuwe periferie'."
+            },
+            {
+              "id": 154,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de kaart over verbrokkeling in de geglobaliseerde wereld. Welke drie typen gebieden onderscheidt de kaart?",
+              "afbeelding": "images/bron14_verbrokkeling.jpg",
+              "opties": [
+                "Rijke, gemiddelde en arme landen",
+                "Gebieden die sturen, gebieden die volgen en gebieden die achterblijven",
+                "Landbouw-, industrie- en dienstengebieden",
+                "Vertrekgebieden, doorgangsgebieden en vestigingsgebieden voor migranten"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "De kaart laat zien dat globalisering de wereld verbrokkelt: mondiale centrumgebieden en wereldsteden sturen, groeigebieden volgen en de nieuwe periferie blijft achter."
+            },
+            {
+              "id": 155,
+              "type": "multiple_choice",
+              "vraag": "Ho Chi Minhstad in Vietnam is booming, terwijl de randgebieden eromheen achterblijven. Om welke vorm van ongelijkheid gaat het hier vooral?",
+              "opties": [
+                "Ongelijkheid in de ruilvoet",
+                "Sociale ongelijkheid",
+                "Regionale ongelijkheid",
+                "Ongelijkheid in de handelsbalans"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Verschillen tússen gebieden zijn regionale ongelijkheid. Die gaat vaak hand in hand met sociale ongelijkheid: verschillen tussen bevolkingsgroepen binnen zo'n gebied."
+            },
+            {
+              "id": 156,
+              "type": "multiple_choice",
+              "vraag": "Waarom voelen lagere inkomensgroepen in rijke landen zich vaak slachtoffer van globalisering?",
+              "opties": [
+                "Zij kunnen geen goedkope producten uit het buitenland kopen",
+                "Zij mogen niet meer in de dienstensector werken",
+                "Zij zijn de enige groep die importheffingen betaalt op alle producten die uit lagelonenlanden worden ingevoerd",
+                "Hun banen verdwijnen naar lagelonenlanden en door robotisering, terwijl ze met immigranten concurreren"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Banen in fabrieken en kantoren verdwijnen, terwijl er concurrentie ontstaat om banen, woningen en uitkeringen. Die boosheid blijkt vaak in verkiezingstijd."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 13,
+      "paragraaf": "1.4",
+      "leerdoel_titel": "Globalisering: one culture?",
+      "uitleg_tekst": "Culturele globalisering verloopt vooral via materiële cultuurelementen: luchthavens, hotels en stadscentra lijken wereldwijd steeds meer op elkaar. Immateriële kenmerken zoals overtuiging, taal, normen en waarden veranderen veel minder snel. Toerisme, handel en migratie spelen een rol, maar vooral de snelle groei van de informatietechnologie. Informatiestromen laten hetzelfde patroon zien als de handels- en kapitaalstromen: twee derde van alle internationale informatie-uitwisseling vindt plaats binnen de drie mondiale centrumgebieden. Culturele globalisering heeft twee effecten tegelijk. Bij homogenisering gaan culturen en gebieden op elkaar lijken door verwestersing, met het Engels als lingua franca en het verdwijnen van kleine talen. Bij heterogenisering ontstaat juist een transnationale mengcultuur, vooral in grote steden waar westerse en niet-westerse cultuurelementen samenkomen.",
+      "subdoelen": [
+        {
+          "subdoel_id": "13.1",
+          "subdoel_titel": "Materiële en immateriële cultuurelementen",
+          "uitleg_tekst": "Materiële cultuurelementen verspreiden zich snel en makkelijk; immateriële kenmerken als overtuiging, taal, normen en waarden veranderen veel langzamer.",
+          "vragen": [
+            {
+              "id": 157,
+              "type": "multiple_choice",
+              "vraag": "Waarom lijken luchthavens, hotels en stadscentra in wereldsteden zo op elkaar?",
+              "opties": [
+                "Materiële cultuurelementen verspreiden zich snel en makkelijk over de wereld",
+                "Alle wereldsteden worden door dezelfde architect ontworpen",
+                "Immateriële cultuurelementen veranderen het snelst",
+                "Wereldsteden hebben allemaal precies dezelfde bevolkingssamenstelling en cultuur"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Globalisering draagt sterk bij aan de homogenisering van materiële cultuurkenmerken. De wereldburger voelt zich daardoor, omringd door dezelfde winkels en ketens, overal een beetje thuis."
+            },
+            {
+              "id": 158,
+              "type": "multiple_choice",
+              "vraag": "Welke cultuurelementen veranderen het minst snel door globalisering?",
+              "opties": [
+                "Materiële kenmerken zoals kleding en eten",
+                "Immateriële kenmerken zoals overtuiging, normen en waarden",
+                "De inrichting van stadscentra",
+                "De winkel- en restaurantketens in de stadscentra van een land"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Immateriële kenmerken hebben grote invloed op de manier van leven en zitten diep. Ze worden veel minder snel overgenomen dan materiële zaken zoals kleding, eten en muziek."
+            },
+            {
+              "id": 159,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke ontwikkelingen spelen een grote rol in de globalisering van culturen?",
+              "opties": [
+                "Internationaal toerisme",
+                "Handel",
+                "Migratie",
+                "De groei van de informatietechnologie",
+                "De daling van de wereldbevolking"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Toerisme, handel en migratie zorgden al langer voor culturele uitwisseling. De stormachtige groei van de informatietechnologie heeft daar in deze eeuw een enorme versnelling aan gegeven."
+            },
+            {
+              "id": 160,
+              "type": "multiple_choice",
+              "vraag": "In 2021 pleegde het leger in Myanmar een staatsgreep. Actiegroepen lanceerden de hashtag #SaveMyanmar en het leger blokkeerde Facebook. Wat laat dit voorbeeld zien?",
+              "opties": [
+                "Sociale media zorgen alleen voor homogenisering van cultuur",
+                "Sociale media hebben geen invloed op politieke gebeurtenissen",
+                "Sociale media zijn een machtig wapen bij het organiseren van protest",
+                "Sociale media worden vooral gebruikt door regeringen"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Beelden van de protesten gingen de hele wereld over, waardoor de staatsgreep dagenlang wereldnieuws bleef. Dat het leger Facebook blokkeerde laat zien hoeveel invloed die media hebben."
+            },
+            {
+              "id": 161,
+              "type": "invullen",
+              "vraag": "Hoe noem je de voertaal in een gebied waar meerdere talen gesproken worden, op wereldschaal het Engels?",
+              "juiste_antwoord": "lingua franca",
+              "uitleg": "Het Engels is de lingua franca van de globaliserende wereld. Mede daardoor dreigen steeds meer kleine talen te verdwijnen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "13.2",
+          "subdoel_titel": "Informatiestromen in de wereld",
+          "uitleg_tekst": "Informatiestromen volgen hetzelfde patroon als handels- en kapitaalstromen: twee derde loopt binnen de drie mondiale centrumgebieden.",
+          "vragen": [
+            {
+              "id": 162,
+              "type": "multiple_choice",
+              "vraag": "Welk deel van alle internationale informatie-uitwisseling vindt plaats binnen de drie mondiale centrumgebieden?",
+              "opties": [
+                "Ongeveer een tiende",
+                "Ongeveer een derde",
+                "Ongeveer de helft",
+                "Ongeveer twee derde"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Informatiestromen laten hetzelfde patroon zien als de handels- en kapitaalstromen. Logisch: dit zijn de rijkste landen, met de beste informatietechnologie en infrastructuur."
+            },
+            {
+              "id": 163,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de bron over het internetverkeer. Welke regio wisselt met Europa de meeste data uit?",
+              "afbeelding": "images/bron18_internetverkeer.jpg",
+              "opties": [
+                "Azië, met 148 Tb/s",
+                "Noord-Amerika, met 131 Tb/s",
+                "Afrika, met 18 Tb/s",
+                "Oceanië, met 8 Tb/s"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Azië (148 Tb/s) en Noord-Amerika (131 Tb/s) zijn veruit de grootste partners van Europa. Afrika (18 Tb/s) en Oceanië (8 Tb/s) blijven ver achter."
+            },
+            {
+              "id": 164,
+              "type": "multiple_choice",
+              "vraag": "In Nederland heeft vrijwel elk gezin een snelle internetverbinding, in Burundi minder dan 10 procent van de bevolking. Wat laat dit verschil zien?",
+              "opties": [
+                "Burundezen hebben geen belangstelling voor internet",
+                "Ook in de toegang tot informatie bestaat grote mondiale ongelijkheid",
+                "Informatiestromen lopen vooral van arm naar rijk",
+                "Snelle verbindingen zijn in warme landen technisch onmogelijk"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "De beste informatietechnologie en infrastructuur zit in de rijkste landen. Daardoor profiteren juist zij het meest van de globalisering van informatie."
+            },
+            {
+              "id": 165,
+              "type": "multiple_choice",
+              "vraag": "Amsterdam staat op de derde plaats van de wereldranglijst van stedelijke hubs voor dataverkeer, na Frankfurt en Londen. Wat zegt dat over Amsterdam?",
+              "opties": [
+                "De stad produceert de meeste digitale informatie ter wereld",
+                "De stad heeft de meeste inwoners met internet in de wereld",
+                "De stad is een belangrijk knooppunt in mondiale informatiestromen",
+                "De stad is de grootste containerhaven van Europa"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Een hub is een knooppunt waar datastromen samenkomen. Dat Amsterdam zo hoog staat, past bij de rol van West-Europa als mondiaal centrumgebied."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "13.3",
+          "subdoel_titel": "Homogenisering en heterogenisering",
+          "uitleg_tekst": "Culturele globalisering heeft twee effecten tegelijk: culturen gaan op elkaar lijken (homogenisering) én er ontstaan nieuwe mengvormen (heterogenisering).",
+          "vragen": [
+            {
+              "id": 166,
+              "type": "multiple_choice",
+              "vraag": "Wat bedoelt het boek met homogenisering?",
+              "opties": [
+                "Kleine talen worden juist beter beschermd",
+                "Er ontstaan overal nieuwe mengculturen",
+                "Landen sluiten hun grenzen voor buitenlandse cultuur",
+                "Culturen en gebieden gaan door verwestersing op elkaar lijken"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Bij homogenisering gaan mensen wereldwijd op elkaar lijken in consumptiegedrag en levensstijl: overal dezelfde ketens, dezelfde films en dezelfde hamburger."
+            },
+            {
+              "id": 167,
+              "type": "multiple_choice",
+              "vraag": "Wat gebeurt er wereldwijd met het aantal gesproken talen?",
+              "opties": [
+                "Dat is in drie eeuwen gehalveerd en elke twee weken verdwijnt er een taal",
+                "Dat neemt toe doordat er steeds nieuwe mengtalen ontstaan",
+                "Dat blijft gelijk, omdat kleine talen tegenwoordig wettelijk beschermd worden",
+                "Dat daalt alleen in Europa, niet in andere werelddelen"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Een derde van alle talen wordt nog door minder dan duizend mensen gesproken. Ouders geven de lokale taal niet meer door, omdat een 'grote' taal hun kinderen meer kansen biedt."
+            },
+            {
+              "id": 168,
+              "type": "multiple_choice",
+              "vraag": "In wijken van Londen, Parijs en Amsterdam ontstaat een mix van westerse en niet-westerse cultuurelementen in kleding, taal, muziek en eten. Hoe heet dit effect?",
+              "opties": [
+                "Homogenisering",
+                "Heterogenisering",
+                "Amerikanisering",
+                "Diffusie van de lingua franca"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Door internationale migratie en (sociale) media ontstaat een transnationale mengcultuur waarin onderdelen van verschillende culturen samenkomen — bijvoorbeeld hoorbaar in de mix van talen die jongeren spreken."
+            },
+            {
+              "id": 169,
+              "type": "multiple_choice",
+              "vraag": "Kunnen homogenisering en heterogenisering tegelijk optreden?",
+              "opties": [
+                "Nee, heterogenisering volgt altijd pas nadat de homogenisering volledig is voltooid",
+                "Nee, een land kent altijd maar één van de twee processen",
+                "Ja, het zijn allebei effecten van culturele globalisering die naast elkaar bestaan",
+                "Ja, maar alleen in landen zonder migranten"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Dit is een klassieke valkuil. Beide zijn effecten van dezelfde culturele globalisering: winkelcentra lijken wereldwijd op elkaar, terwijl in dezelfde stad nieuwe mengvormen ontstaan."
+            },
+            {
+              "id": 170,
+              "type": "multiple_choice",
+              "vraag": "Wat ontstaat er volgens het boek in grote steden doordat onderdelen uit verschillende culturen samenkomen?",
+              "opties": [
+                "Een cultuur zonder materiële kenmerken",
+                "Een volledig westerse cultuur",
+                "Een nieuw cultuurgebied met vaste grenzen",
+                "Een transnationale mengcultuur"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Je ziet die mengcultuur aan de inrichting van multiculturele wijken, je hoort het in de taal en de muziek en je proeft het in eetgelegenheden met een internationale keuken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 14,
+      "paragraaf": "1.5",
+      "leerdoel_titel": "Sociale globalisering: migratie",
+      "uitleg_tekst": "In 2020 woonde ruim 3 procent van de wereldbevolking niet in het land van geboorte: meer dan 270 miljoen migranten. Ongeveer de helft van de migratie vindt plaats tussen landen in het zuiden, maar de economische migrantenstroom loopt vooral van zuid naar noord. Of iemand migreert hangt af van aspiraties (de wens de eigen situatie te verbeteren) en mogelijkheden (geld en contacten). Globalisering versterkt de migratie op vier manieren: de welvaartsverschillen zijn toegenomen, er is een groot demografisch verschil tussen vergrijzende rijke landen en jonge arme landen, transporttechnologie en ICT verbinden gebieden die vroeger gescheiden waren, en door deregulering nam het vrije verkeer van personen toe. De meeste migranten komen terecht in grote steden en blijven verbonden met hun geboorteland via transnationale netwerken en het geld dat zij naar huis sturen (remittances).",
+      "subdoelen": [
+        {
+          "subdoel_id": "14.1",
+          "subdoel_titel": "Migratiepatronen in de wereld",
+          "uitleg_tekst": "De helft van de migratie speelt zich af tussen landen in het zuiden; arbeidsmigratie verloopt vooral van zuid naar noord. Ook migratie naar semiperifere landen neemt toe.",
+          "vragen": [
+            {
+              "id": 171,
+              "type": "multiple_choice",
+              "vraag": "Hoeveel procent van de wereldbevolking woonde in 2020 niet in het land van geboorte?",
+              "opties": [
+                "Ruim 3 procent",
+                "Ruim 10 procent",
+                "Ruim 15 procent",
+                "Ongeveer 1 procent"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het gaat om meer dan 270 miljoen migranten. In de 21e eeuw is migratie omvangrijker dan ooit; praktisch alle landen zijn vertrek-, doorgangs- of vestigingsgebied."
+            },
+            {
+              "id": 172,
+              "type": "multiple_choice",
+              "vraag": "Naar welke opkomende economieën trekken steeds meer arbeidsmigranten?",
+              "opties": [
+                "Japan, Zuid-Korea en Australië",
+                "Qatar, de Verenigde Arabische Emiraten en Zuid-Afrika",
+                "Rusland, Oekraïne en de andere landen van de voormalige Sovjet-Unie",
+                "Canada, Noorwegen en IJsland"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Naast de migratie naar centrumlanden groeit de migratie naar semiperifere landen. In zuidelijk Afrika zijn Botswana en Zuid-Afrika belangrijke vestigingslanden voor migranten uit armere buurlanden."
+            },
+            {
+              "id": 173,
+              "type": "multiple_choice",
+              "vraag": "Wat bedoelt het boek met aspiraties bij migratie?",
+              "opties": [
+                "De hindernissen die een migrant onderweg tegenkomt",
+                "Het geld en de juiste contacten die je nodig hebt om te kunnen vertrekken",
+                "De overtuiging dat je je eigen situatie kunt verbeteren door te migreren",
+                "Het beleid waarmee landen migratie proberen te beperken"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Aspiraties gaan over de wíl om te migreren, mogelijkheden over het kúnnen: voldoende geld en de juiste contacten. Beide zijn nodig voor een echte migratiestap."
+            },
+            {
+              "id": 174,
+              "type": "invullen",
+              "vraag": "Hoe noem je migratie van een heel specifieke groep, bijvoorbeeld vooral jonge mannen?",
+              "juiste_antwoord": "selectieve migratie",
+              "uitleg": "Binnen de groep arbeidsmigranten valt op dat die vooral uit jonge mannen bestaat. Ook bij de Oekraïense vluchtelingen was de samenstelling van de groep sterk selectief."
+            },
+            {
+              "id": 175,
+              "type": "multiple_choice",
+              "vraag": "Er zijn ook mensen die op drift raken binnen hun eigen land, bijvoorbeeld door overstromingen of burgeroorlog. Hoe heten zij?",
+              "opties": [
+                "Volgmigranten",
+                "Arbeidsmigranten",
+                "Kennismigranten",
+                "Ontheemden"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Ontheemden zijn gevlucht voor oorlogsgeweld of natuurrampen, maar blijven binnen de landsgrenzen. Zij willen, wanneer het even kan, terug naar huis."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "14.2",
+          "subdoel_titel": "Vier oorzaken van toenemende internationale migratie",
+          "uitleg_tekst": "Globalisering versterkt migratie via welvaartsverschillen, demografische verschillen, transport en ICT, en deregulering.",
+          "vragen": [
+            {
+              "id": 176,
+              "type": "choose_all_that_apply",
+              "vraag": "Op welke manieren versterkt globalisering de internationale migratie?",
+              "opties": [
+                "De welvaartsverschillen in de wereld zijn toegenomen",
+                "Er is een groot demografisch verschil tussen arme en rijke landen",
+                "Transporttechnologie en ICT verbinden gescheiden gebieden",
+                "Door deregulering nam het vrije verkeer van personen toe",
+                "Landen voerden strengere grenscontroles in"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Deze vier oorzaken versterken elkaar. Strengere grenscontroles remmen migratie juist af, of verleggen die naar gevaarlijker routes via mensensmokkelaars."
+            },
+            {
+              "id": 177,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de kaart met de geschatte groei van de beroepsbevolking tussen 2010 en 2030. Wat betekent dit patroon voor de migratiedruk op Europa?",
+              "afbeelding": "images/bron24_groei_beroepsbevolking.jpg",
+              "opties": [
+                "Die neemt toe: Europa krimpt, terwijl Afrika een sterk groeiende beroepsbevolking heeft",
+                "Die neemt af: ook in Afrika krimpt de beroepsbevolking",
+                "Die blijft gelijk, want de beroepsbevolking van beide werelddelen groeit de komende jaren even hard",
+                "Die neemt af, omdat Europa juist de snelste groei kent"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "In Europa is de beroepsbevolking in 2030 gemiddeld 10 procent kleiner, in Afrika 40 procent groter. Het 'oude' Europa wordt in het zuiden en oosten begrensd door landen met een jonge bevolking."
+            },
+            {
+              "id": 178,
+              "type": "multiple_choice",
+              "vraag": "Rijke landen kunnen jonge migranten demografisch goed gebruiken. Toch komen minder geschoolde migranten moeilijk aan werk. Waarom?",
+              "opties": [
+                "Nieuwkomers mogen de eerste tien jaar niet werken",
+                "Werkgevers hebben weinig vertrouwen in nieuwkomers en de kenniseconomie vraagt andere vaardigheden",
+                "Er is in rijke landen door de robotisering helemaal geen vraag meer naar arbeidskrachten uit het buitenland",
+                "Minder geschoolde migranten willen liever niet werken"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Vooral de minder geschoolden worden geweerd. Eenmaal op de arbeidsmarkt sluit hun kennis vaak niet aan bij wat de kenniseconomie vraagt."
+            },
+            {
+              "id": 179,
+              "type": "multiple_choice",
+              "vraag": "Hoe beïnvloeden sociale media en internet de migratiebeslissing van mensen in arme landen?",
+              "opties": [
+                "Ze zorgen ervoor dat migranten hun familie niet meer kunnen bereiken",
+                "Ze maken migratie onmogelijk door strengere controle",
+                "Ze geven een — soms te rooskleurig — beeld van de kansen in westerse landen",
+                "Ze hebben alleen invloed op binnenlandse migratie"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Vanuit het kleinste dorp stuur je appjes naar je gemigreerde neef. Die contacten voeden de aspiraties, ook al blijkt het beeld van de kansen in het westen vaak te mooi."
+            },
+            {
+              "id": 180,
+              "type": "multiple_choice",
+              "vraag": "Wat is een gevolg van deregulering binnen de EU voor migratie?",
+              "opties": [
+                "Alleen seizoenarbeiders mogen nog de grens over",
+                "Lidstaten mogen sinds de deregulering geen kennismigranten van buiten de EU meer aannemen",
+                "Migratie tussen lidstaten werd volledig verboden",
+                "Het vrije verkeer van personen en de internationalisering van werk namen sterk toe"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Door de verdere integratie van de EU vond een soort 'ontschotting' plaats. Voor bedrijven werd het bovendien makkelijker om kennismigranten uit het buitenland te halen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "14.3",
+          "subdoel_titel": "Transnationale netwerken en remittances",
+          "uitleg_tekst": "Migranten blijven financieel en sociaal-cultureel verbonden met hun geboorteland. Die contacten heten transnationale netwerken; het geld dat ze sturen heet remittances.",
+          "vragen": [
+            {
+              "id": 181,
+              "type": "multiple_choice",
+              "vraag": "Voor Somalië vormen de remittances 35 procent van het bbp. Wat zijn remittances?",
+              "opties": [
+                "Het geld dat migranten naar hun familie in het thuisland overmaken",
+                "De ontwikkelingshulp die rijke landen aan arme landen geven",
+                "De belasting die migranten in hun nieuwe land betalen",
+                "De winst die multinationals uit een land halen"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Deze geldstromen zijn voor sommige landen een enorme inkomstenbron en gaan rechtstreeks naar families. Ze houden vertrek- en vestigingsgebied met elkaar verbonden."
+            },
+            {
+              "id": 182,
+              "type": "invullen",
+              "vraag": "Hoe noem je het netwerk van contacten tussen migranten en de achterblijvers in het herkomstland, op economisch, politiek en sociaal-cultureel gebied?",
+              "juiste_antwoord": "transnationaal netwerk",
+              "uitleg": "Binnen zo'n netwerk pendelen migranten op en neer en vindt uitwisseling van goederen en geld plaats. Trouwen met een partner uit het herkomstland versterkt de band nog verder."
+            },
+            {
+              "id": 183,
+              "type": "multiple_choice",
+              "vraag": "Wat is het nut van een migratienetwerk voor een nieuwe migrant?",
+              "opties": [
+                "Het netwerk regelt de verblijfsvergunning bij de overheid",
+                "Familie en kennissen zorgen voor opvang, informatie en vaak werk",
+                "Het netwerk betaalt de reis volledig terug",
+                "Het netwerk zorgt dat de migrant weer terug moet keren"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Contacten in het bestemmingsland zijn een van de 'mogelijkheden' die migratie haalbaar maken. Zij kunnen zorgen voor de eerste opvang."
+            },
+            {
+              "id": 184,
+              "type": "multiple_choice",
+              "vraag": "In Amsterdam wonen naar schatting 172 nationaliteiten en heeft ruim de helft van de bevolking een migratieachtergrond. Wat laat dit zien?",
+              "opties": [
+                "Alle migranten in Nederland wonen in Amsterdam",
+                "Migranten mijden juist de grote steden",
+                "De meeste internationale migranten komen terecht in grote steden",
+                "Migratie heeft geen invloed op de bevolkingssamenstelling"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Grote steden bieden werk, een migratienetwerk en voorzieningen. Daardoor zijn het knooppunten in de mondiale migratienetwerken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 15,
+      "paragraaf": "1.6",
+      "leerdoel_titel": "Gevolgen van sociaal-culturele globalisering",
+      "uitleg_tekst": "Migratie levert gebieden ook voordelen op: uitwisseling van kennis en geld, een demografisch voordeel doordat de beroepsbevolking jonger blijft, en inkomsten voor doorgangslanden met een gunstige geografische ligging zoals Turkije, Mexico en Niger. Wereldsteden zijn grote steden die voor een deel van de wereld belangrijk zijn als economisch, politiek en cultureel centrum; zij vormen de knooppunten in het mondiale netwerk. Buiten die steden groeit de weerstand tegen globalisering onder arbeiders, boeren, de lagere middenklasse en werklozen. Ondanks de verwestersing of amerikanisering zijn we niet op weg naar één wereldcultuur: westerse cultuurelementen worden vooral materieel overgenomen, zelden een-op-een (er ontstaan mengvormen) en ook de westerse wereld staat onder invloed van niet-westerse culturen.",
+      "subdoelen": [
+        {
+          "subdoel_id": "15.1",
+          "subdoel_titel": "Positieve effecten van migratie voor gebieden",
+          "uitleg_tekst": "Migratie levert uitwisseling van kennis en geld op, een jongere beroepsbevolking en voordelen voor doorgangslanden.",
+          "vragen": [
+            {
+              "id": 185,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke positieve effecten heeft migratie volgens het boek voor gebieden?",
+              "opties": [
+                "Uitwisseling van kennis en geld met het thuisland",
+                "Een jongere beroepsbevolking in het vestigingsland",
+                "Inkomsten voor landen die op een migratieroute liggen",
+                "Een hogere grijze druk in het vestigingsland",
+                "Minder concurrentie op de woningmarkt"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Migranten maken miljarden over naar hun thuisland en brengen bij terugkeer kennis en ervaring mee. Een instroom van jonge migranten remt de vergrijzing juist af, dus de grijze druk stijgt niet."
+            },
+            {
+              "id": 186,
+              "type": "multiple_choice",
+              "vraag": "Waarom is de Amerikaanse beroepsbevolking jonger dan de Europese?",
+              "opties": [
+                "Doordat Europa meer kennismigranten toelaat",
+                "Doordat Amerikanen later met pensioen gaan",
+                "Doordat de levensverwachting in de VS hoger is",
+                "Door de grote instroom van migranten"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Migranten zijn meestal jong. Slaagt een land erin hen goed te integreren, dan levert dat op termijn grote economische voordelen op."
+            },
+            {
+              "id": 187,
+              "type": "multiple_choice",
+              "vraag": "Niger is een belangrijk knooppunt in de migratieroutes van West-Afrika naar Europa. Wat levert dat het land op?",
+              "opties": [
+                "Veel ontwikkelingshulp vanuit de EU om migratie te beperken",
+                "Automatisch lidmaatschap van de EU",
+                "Het recht om migranten zonder papieren naar Europa door te sturen",
+                "Vrijstelling van importheffingen in de EU"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Doorgangslanden profiteren van hun gunstige geografische ligging. Het risico voor de EU is wel dat Niger kan dreigen de grenzen open te zetten als het te weinig steun krijgt."
+            },
+            {
+              "id": 188,
+              "type": "multiple_choice",
+              "vraag": "Wat doen veel Chinese migranten in Afrika ten zuiden van de Sahara?",
+              "opties": [
+                "Ze werken vooral in de Afrikaanse gezondheidszorg en in het hoger onderwijs",
+                "Ze leggen moderne infrastructuur aan, winnen grondstoffen en drijven handel",
+                "Ze studeren aan Afrikaanse universiteiten",
+                "Ze vestigen zich als boeren op kleine akkers"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "In 2019 woonden er meer Chinezen buiten China dan er Polen in Polen wonen. Deze migranten maken miljarden over naar hun thuisland en versterken zo de band tussen de gebieden."
+            },
+            {
+              "id": 189,
+              "type": "invullen",
+              "vraag": "Hoe noem je de positie van een gebied ten opzichte van andere gebieden, waardoor Turkije, Mexico en Niger doorgangsland zijn?",
+              "juiste_antwoord": "geografische ligging",
+              "uitleg": "Deze landen liggen op belangrijke migratieroutes. Hun geografische ligging levert hun invloed en inkomsten op."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "15.2",
+          "subdoel_titel": "Wereldsteden en de groeiende weerstand",
+          "uitleg_tekst": "Wereldsteden zijn knooppunten in het mondiale netwerk. Buiten die steden groeit de weerstand tegen globalisering.",
+          "vragen": [
+            {
+              "id": 190,
+              "type": "multiple_choice",
+              "vraag": "Wat is een wereldstad volgens het boek?",
+              "opties": [
+                "De hoofdstad van een mondiaal centrumgebied",
+                "Een stad met meer dan tien miljoen inwoners",
+                "Een grote stad die voor een deel van de wereld economisch, politiek en cultureel centrum is",
+                "Een stad waar meer migranten wonen dan mensen zonder migratieachtergrond en die daardoor snel groeit"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Wereldsteden liggen zowel in het Noorden als in het Zuiden: New York, Londen en Tokyo, maar ook Shanghai en Rio de Janeiro. Zij vormen de knooppunten in het mondiale netwerk."
+            },
+            {
+              "id": 191,
+              "type": "choose_all_that_apply",
+              "vraag": "Waarvoor pleiten groepen die zich verliezers van de globalisering voelen?",
+              "opties": [
+                "Behoud van een sterke, zelfstandige staat",
+                "Het afschermen van de economie tegen buitenlandse concurrentie",
+                "Het beperken van het aantal migranten uit andere cultuurgebieden",
+                "Meer vrijhandelsverdragen met lagelonenlanden",
+                "Het uitbreiden van internationale organisaties"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Arbeiders, boeren, de lagere middenklasse en werklozen in westerse landen voelen zich eerder verliezer dan winnaar. Meer vrijhandel is juist wat zij níet willen."
+            },
+            {
+              "id": 192,
+              "type": "multiple_choice",
+              "vraag": "Waar loopt in westerse landen de scheidslijn tussen 'globalisten' en 'nationalisten' steeds vaker langs?",
+              "opties": [
+                "Tussen rijke en arme wereldsteden",
+                "Tussen mannen en vrouwen",
+                "Tussen migranten en mensen zonder migratieachtergrond in de grote steden van Europa",
+                "Tussen stedelingen en jongeren enerzijds en plattelanders en ouderen anderzijds"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De weerstand tegen globalisering groeit vooral buiten de wereldsteden. Daar zijn de voordelen van het mondiale netwerk minder zichtbaar en de nadelen — verdwenen banen — juist wel."
+            },
+            {
+              "id": 193,
+              "type": "multiple_choice",
+              "vraag": "In Sihanoukville (Cambodja) is 95 procent van de hotels en restaurants in Chinese handen. Welke dimensie van globalisering zie je hier het duidelijkst doorwerken in het straatbeeld?",
+              "opties": [
+                "De sociaal-culturele dimensie, zichtbaar in de billboards met Chinese teksten",
+                "De politieke dimensie, zichtbaar in de grenscontroles",
+                "De demografische dimensie, zichtbaar in de leeftijdsopbouw",
+                "De geografische dimensie, zichtbaar in de gevolgen van de stijgende zeespiegel"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Door de massale toestroom vanuit China verandert het culturele straatbeeld van de belangrijkste zeehaven van Cambodja. De vraag is of de Cambodjaanse cultuur onder de voet wordt gelopen of dat er vermenging optreedt."
+            },
+            {
+              "id": 194,
+              "type": "multiple_choice",
+              "vraag": "Waarom zijn wereldsteden zo belangrijk in mondiale netwerken?",
+              "opties": [
+                "Ze hebben de laagste lonen van hun land",
+                "Ze vormen de knooppunten waar economische, politieke en culturele stromen samenkomen",
+                "Ze liggen altijd aan een containerhaven",
+                "Ze hebben de grootste industriële productie en verreweg de meeste inwoners van hun land"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het hart van de moderne wereld wordt gevormd door wereldsteden of global cities. Door de globalisering is de samenhang tussen die knooppunten sterk toegenomen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "15.3",
+          "subdoel_titel": "Tegenreacties en culturele identiteit",
+          "uitleg_tekst": "We zijn niet op weg naar één wereldcultuur: de overname blijft vooral materieel, er ontstaan mengvormen en ook de westerse wereld staat onder invloed van niet-westerse culturen.",
+          "vragen": [
+            {
+              "id": 195,
+              "type": "invullen",
+              "vraag": "Hoe noem je de wereldwijde verbreiding van de Amerikaanse (westerse) cultuur?",
+              "juiste_antwoord": "amerikanisering",
+              "uitleg": "Er zijn aanwijzingen voor verwestersing, door sommigen amerikanisering genoemd. Toch betekent dat niet dat er één wereldcultuur ontstaat."
+            },
+            {
+              "id": 196,
+              "type": "multiple_choice",
+              "vraag": "Waarom roept de verspreiding van westerse normen en waarden soms sterke weerstand op?",
+              "opties": [
+                "Alleen regeringen mogen normen en waarden veranderen",
+                "Westerse normen en waarden zijn nergens bekend",
+                "Het opgeven van de eigen culturele identiteit gaat de meeste mensen te ver",
+                "Westerse cultuurelementen zijn te duur voor niet-westerse landen"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Denk aan vrijheid van meningsuiting, scheiding van staat en religie en gelijkheid van man en vrouw. Groepen die aan tradities hechten of belang hebben bij de bestaande verhoudingen verzetten zich daartegen."
+            },
+            {
+              "id": 197,
+              "type": "multiple_choice",
+              "vraag": "Braziliaanse series bevatten elementen van Amerikaanse soaps, maar zijn onmiskenbaar Braziliaans. Wat laat dit zien?",
+              "opties": [
+                "Materiële cultuurelementen verspreiden zich juist veel langzamer over de wereld dan immateriële",
+                "Braziliaanse series zijn kopieën van Amerikaanse series",
+                "Culturele globalisering leidt alleen tot homogenisering",
+                "Westerse cultuurelementen worden zelden een-op-een overgenomen; er ontstaat een mengvorm"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Hetzelfde zie je bij Ghanese mode die met westerse kleding wordt gecombineerd, en zelfs bij onderwijs: het systeem is westers, maar de manier van lesgeven heel anders."
+            },
+            {
+              "id": 198,
+              "type": "multiple_choice",
+              "vraag": "Welk voorbeeld laat zien dat ook de westerse wereld onder invloed staat van niet-westerse culturen?",
+              "opties": [
+                "Het gebruik van Arabische woorden en Papiaments in de Nederlandse jongerentaal",
+                "De komst van Amerikaanse musicals naar Europese theaters",
+                "Het feit dat Engels de lingua franca is geworden",
+                "De aanwezigheid van dezelfde winkelketens in vrijwel elk stadscentrum ter wereld"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Denk ook aan muzikale invloeden uit Zuid-Amerika, de populariteit van yoga en de verrijking van de westerse eetcultuur. Culturen mengen dus in twee richtingen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 16,
+      "paragraaf": "1.7",
+      "leerdoel_titel": "Globalisering van de landbouw en de EU",
+      "uitleg_tekst": "Na 1980 nam de internationale handel in agrarische producten sterk toe, waardoor boeren wereldwijd met elkaar concurreren. De productiekosten — de kosten voor grond, arbeid en kapitaal — zijn in de EU hoog door dure grond, hoge lonen en strenge eisen aan hygiëne, kwaliteit, milieu en dierenwelzijn. Om boeren te beschermen kent de EU protectiemaatregelen zoals importheffingen en exportsubsidies, maar die verstoren de handel en zijn oneerlijk tegenover ontwikkelingslanden. In WTO-verband is afgesproken ze geleidelijk af te schaffen. Het Gemeenschappelijk Landbouwbeleid (GLB) uit 1957 moest zorgen voor voldoende en goed voedsel tegen redelijke prijzen. Met productiesubsidies steeg de productie enorm, met overschotten en schaalvergroting als gevolg. Sinds 2000 is het beleid gericht op duurzaamheid en krijgen boeren inkomenssubsidie per hectare.",
+      "subdoelen": [
+        {
+          "subdoel_id": "16.1",
+          "subdoel_titel": "Wereldwijde concurrentie en productiekosten",
+          "uitleg_tekst": "Boeren concurreren sinds de globalisering met bedrijven aan de andere kant van de wereld. In de EU zijn de productiekosten hoog door dure grond, hoge lonen en strenge eisen.",
+          "vragen": [
+            {
+              "id": 199,
+              "type": "invullen",
+              "vraag": "Uit welke drie soorten kosten bestaan de productiekosten van een boerenbedrijf? Noem de eerste: de kosten voor ...",
+              "juiste_antwoord": "grond",
+              "uitleg": "De productiekosten zijn de kosten voor grond, arbeid en kapitaal. In de EU zijn vooral de grondprijzen en de lonen hoog — de hoogste ter wereld."
+            },
+            {
+              "id": 200,
+              "type": "multiple_choice",
+              "vraag": "Waarom is produceren in de EU duurder dan in landen als Brazilië en Thailand?",
+              "opties": [
+                "Europese boeren gebruiken geen moderne technologie",
+                "De grondprijzen en lonen zijn er hoog en de eisen aan milieu en dierenwelzijn streng",
+                "In de EU mag er maar een beperkte hoeveelheid voedsel per bedrijf geproduceerd worden",
+                "Europese boeren krijgen geen enkele vorm van steun"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "In Brazilië en Thailand ontstaan met buitenlands kapitaal grootschalige, moderne bedrijven. Door hun schaal, lagere lonen en geringere milieueisen liggen hun productiekosten lager."
+            },
+            {
+              "id": 201,
+              "type": "multiple_choice",
+              "vraag": "Wat is er sinds 1980 veranderd aan de concurrentie voor Europese boeren?",
+              "opties": [
+                "Er is nauwelijks nog concurrentie doordat de EU haar boeren tegen import volledig beschermt",
+                "Ze concurreren alleen nog met boeren uit hetzelfde land",
+                "Ze concurreren niet meer binnen hun regio, maar met boeren aan de andere kant van de wereld",
+                "Ze concurreren alleen nog op de binnenlandse markt"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De internationale import en export van agrarische producten nam sterk toe. Dat vergroot de afzetmogelijkheden, maar zet de prijzen onder druk."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "16.2",
+          "subdoel_titel": "Protectie, vrijhandel en de WTO",
+          "uitleg_tekst": "Met importheffingen en exportsubsidies beschermt de EU haar boeren. De WTO wil die maatregelen afschaffen om tot volledige vrijhandel te komen.",
+          "vragen": [
+            {
+              "id": 202,
+              "type": "multiple_choice",
+              "vraag": "Wat is het doel van een importheffing op bijvoorbeeld Thais kippenvlees?",
+              "opties": [
+                "De export van Europese kip naar Thailand stimuleren",
+                "Europese producten op de wereldmarkt goedkoper maken dan die van de concurrent",
+                "De consument een lagere prijs in de winkel geven",
+                "Buitenlandse producten duurder maken zodat de eigen markt beschermd wordt"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Importheffingen zijn protectiemaatregelen. Exportsubsidies werken andersom: die maken Europese producten zoals melk, wijn en suiker juist goedkoper op de wereldmarkt."
+            },
+            {
+              "id": 203,
+              "type": "choose_all_that_apply",
+              "vraag": "Waarom zijn protectiemaatregelen zoals importheffingen en exportsubsidies volgens het boek problematisch?",
+              "opties": [
+                "Ze verstoren de handel",
+                "Ze zijn oneerlijk tegenover bedrijven in ontwikkelingslanden zonder bescherming",
+                "Ze maken producten in de winkel duurder voor de consument",
+                "Ze zorgen voor te lage productie in de EU",
+                "Ze zijn verboden door de Europese Commissie"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Daarom is in WTO-verband afgesproken deze subsidies en heffingen geleidelijk af te schaffen. Het ideaal is volledige vrijhandel, omdat die in theorie voor economische groei zorgt."
+            },
+            {
+              "id": 204,
+              "type": "multiple_choice",
+              "vraag": "Welke kritische vraag stelt het boek bij volledige vrijhandel?",
+              "opties": [
+                "Hoe moeten kleine boeren in ontwikkelingslanden concurreren met grootschalige, moderne bedrijven?",
+                "Waarom kopen consumenten in rijke landen nauwelijks nog buitenlandse landbouwproducten in de winkel?",
+                "Waarom exporteert de EU nog landbouwproducten?",
+                "Hoe kan de EU haar zelfvoorzieningsgraad verlagen?"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Vrijhandel klinkt eerlijk, maar de uitgangsposities verschillen enorm. Andersom geldt hetzelfde voor Europese boeren die moeten opboksen tegen bedrijven met spotgoedkope grond en lonen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "16.3",
+          "subdoel_titel": "Het Gemeenschappelijk Landbouwbeleid",
+          "uitleg_tekst": "Het GLB uit 1957 zorgde met productiesubsidies voor voldoende voedsel, maar leidde tot overschotten en schaalvergroting. Sinds 2000 ligt de nadruk op duurzaamheid met inkomenssubsidies.",
+          "vragen": [
+            {
+              "id": 205,
+              "type": "multiple_choice",
+              "vraag": "Met welk doel besloten de EU-lidstaten in 1957 tot een Gemeenschappelijk Landbouwbeleid?",
+              "opties": [
+                "De landbouwexport naar landen buiten Europa zo snel mogelijk vergroten en verdubbelen",
+                "Voldoende en goed voedsel tegen redelijke prijzen voor boer en consument produceren",
+                "Het aantal boerenbedrijven in Europa halveren",
+                "De biologische landbouw in Europa stimuleren"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "In die tijd steeg de vraag naar voedsel sterk, terwijl de sector uit veel kleine familiebedrijven met een lage productiviteit bestond."
+            },
+            {
+              "id": 206,
+              "type": "multiple_choice",
+              "vraag": "Wat was het gevolg van de productiesubsidies van het GLB?",
+              "opties": [
+                "Een gelijkmatige verdeling van de steun over de grote en de kleine landbouwbedrijven",
+                "Een sterke daling van de voedselproductie in Europa",
+                "Een enorme productiestijging met overschotten zoals de melkplas en de boterberg",
+                "Een snelle omschakeling naar biologische landbouw"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De zelfvoorzieningsgraad voor melk steeg tot boven de 200 procent. Grote bedrijven investeerden om zoveel mogelijk subsidie binnen te halen, terwijl kleinere bedrijven failliet gingen: schaalvergroting."
+            },
+            {
+              "id": 207,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen een productiesubsidie en een inkomenssubsidie?",
+              "opties": [
+                "Een productiesubsidie geldt voor vlees, een inkomenssubsidie voor groente",
+                "Een productiesubsidie is bedoeld voor kleine bedrijven, terwijl een inkomenssubsidie alleen naar grote bedrijven gaat",
+                "Een productiesubsidie komt van de lidstaat, een inkomenssubsidie van de WTO",
+                "Een productiesubsidie is een toeslag op de marktprijs, een inkomenssubsidie een bedrag per hectare voor duurzaam werken"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Bij productiesubsidies leverde méér produceren méér geld op. Sinds 2000 krijgen boeren inkomenssubsidie per hectare, mits ze duurzaam en verantwoord werken."
+            },
+            {
+              "id": 208,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de bron over het GLB. Wat zijn de drie doelstellingen van het beleid na 2021?",
+              "afbeelding": "images/bron42_glb_doelstellingen.jpg",
+              "opties": [
+                "Voedsel, milieu en platteland",
+                "Export, werkgelegenheid en innovatie",
+                "Productie, prijs en concurrentie",
+                "Dierenwelzijn, hygiëne en kwaliteit"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Voedsel: voldoende goed voedsel tegen een redelijke prijs voor 450 miljoen Europeanen. Milieu: aanpassen aan klimaatverandering en natuurlijke hulpbronnen beschermen. Platteland: diversiteit en vitaliteit behouden."
+            },
+            {
+              "id": 236,
+              "type": "volgorde",
+              "vraag": "Zet de ontwikkeling van het Gemeenschappelijk Landbouwbeleid in de juiste volgorde.",
+              "opties": {
+                "A": "De EU-lidstaten spreken in 1957 een gemeenschappelijk landbouwbeleid af",
+                "B": "Productiesubsidies zorgen voor een enorme productiestijging",
+                "C": "Er ontstaan overschotten zoals de melkplas en de boterberg, en schaalvergroting",
+                "D": "Vanaf 2000 komt de nadruk op duurzaamheid te liggen, met inkomenssubsidie per hectare"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Het beleid werd een slachtoffer van zijn eigen succes: de subsidies werden zo kostbaar en de milieuschade zo zichtbaar dat hervorming nodig was."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 17,
+      "paragraaf": "1.8",
+      "leerdoel_titel": "De invloed van de EU op de landbouw in Nederland en Polen",
+      "uitleg_tekst": "De Nederlandse landbouwexport is de tweede ter wereld, maar 80 procent van de waarde gaat naar andere EU-landen en in kilo's importeert Nederland meer dan het exporteert. De productiviteit — de opbrengst per dier of hectare — is hoog door het gunstige klimaat, kunstmest, bestrijdingsmiddelen, kennis en technologie. Door het GLB en de globalisering veranderde de structuur van de landbouw: de gemiddelde bedrijfsgrootte ging van 6 naar 34 hectare en grondgebonden landbouw maakte plaats voor intensieve, gespecialiseerde bedrijven. Polen exporteert eveneens 80 procent naar de EU, maar heeft een heel andere structuur: door het communistische verleden bleven veel kleine bedrijven bestaan. In de agrarische keten gaat in Nederland maar 20 procent van de consumentenprijs naar de boer; de agri-business — supermarktmultinationals — beheerst de hele keten en heeft daarmee veel macht.",
+      "subdoelen": [
+        {
+          "subdoel_id": "17.1",
+          "subdoel_titel": "De Nederlandse landbouw en de EU",
+          "uitleg_tekst": "Nederland exporteert veel, maar vooral binnen de EU en met veel import en doorvoer. De productiviteit is hoog en de structuur sterk veranderd.",
+          "vragen": [
+            {
+              "id": 209,
+              "type": "multiple_choice",
+              "vraag": "Waarom klopt de uitspraak 'Nederland voedt de wereld' volgens het boek niet?",
+              "opties": [
+                "Nederland exporteert helemaal geen landbouwproducten",
+                "80 procent van de exportwaarde gaat naar andere EU-landen en Nederland importeert in kilo's meer dan het exporteert",
+                "De Nederlandse landbouw produceert vrijwel alleen voor de eigen bevolking en voor de consumenten in de directe buurlanden",
+                "Nederland exporteert alleen naar ontwikkelingslanden"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Bovendien is er veel doorvoer: 30 procent van de import wordt na bewerking in de industrie voor hogere prijzen weer uitgevoerd."
+            },
+            {
+              "id": 210,
+              "type": "invullen",
+              "vraag": "Hoe noem je de opbrengst per dier of per hectare?",
+              "juiste_antwoord": "productiviteit",
+              "uitleg": "De Nederlandse productiviteit is enorm hoog door het gunstige klimaat, maar ook door kunstmest, bestrijdingsmiddelen, kennis en technologie zoals robotisering."
+            },
+            {
+              "id": 211,
+              "type": "multiple_choice",
+              "vraag": "Hoe veranderde de structuur van de Nederlandse landbouw sinds de steun uit het GLB?",
+              "opties": [
+                "Het aantal bedrijven bleef precies gelijk",
+                "De gemiddelde bedrijfsgrootte daalde van 34 naar 6 hectare",
+                "De gemiddelde bedrijfsgrootte groeide van 6 naar 34 hectare",
+                "Alle bedrijven schakelden over op grondgebonden landbouw"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Met structuur bedoel je de gemiddelde grootte van een boerenbedrijf. Nederland hoort bij de oprichters van de EU en ontvangt al sinds 1963 steun voor de agrarische sector."
+            },
+            {
+              "id": 212,
+              "type": "multiple_choice",
+              "vraag": "Wat is grondgebonden landbouw?",
+              "opties": [
+                "Landbouw waarbij de grond in eigendom is van de boer",
+                "Landbouw waarbij dieren het hele jaar op stal staan",
+                "Landbouw in kassen waarbij de planten in de volle grond staan",
+                "Landbouw waarbij het veevoer op het bedrijf zelf geproduceerd wordt"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Bij grondgebonden landbouw grazen de koeien in de wei en komt het voer van eigen land. Die vorm maakte in Nederland plaats voor gespecialiseerde, intensieve bedrijven zoals in de glastuinbouw en veehouderij."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "17.2",
+          "subdoel_titel": "De Poolse landbouw en de EU",
+          "uitleg_tekst": "Polen heeft vergelijkbare natuurlijke omstandigheden als Nederland, maar een heel andere structuur en productiviteit door het communistische verleden.",
+          "vragen": [
+            {
+              "id": 213,
+              "type": "multiple_choice",
+              "vraag": "Waarom verschilt de structuur van de Poolse landbouw zo sterk van de Nederlandse?",
+              "opties": [
+                "Polen maakte in de opbouwjaren van de EU deel uit van het communistische Oostblok",
+                "In Polen zijn de natuurlijke omstandigheden voor de landbouw veel ongunstiger dan hier",
+                "Polen heeft nooit landbouwsubsidies van de EU ontvangen",
+                "Polen exporteert vrijwel geen landbouwproducten"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De natuurlijke omstandigheden verschillen nauwelijks met Nederland. Het verschil zit in de geschiedenis: de sector bestond grotendeels uit kleine bedrijven van gemiddeld 6 hectare, alleen in het noordwesten stonden grootschalige staatsbedrijven."
+            },
+            {
+              "id": 214,
+              "type": "multiple_choice",
+              "vraag": "Toen Polen in 2004 tot de EU toetrad, werkte 25 procent van de beroepsbevolking in de landbouw, goed voor 6 procent van het bbp. Wat zegt dat over de sector?",
+              "opties": [
+                "De productiviteit was zeer hoog",
+                "De productiviteit was zeer laag",
+                "De bedrijven waren toen al sterk geschaald",
+                "De export was toen al grotendeels op de EU gericht"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Veel mensen die samen weinig waarde produceren betekent een lage productiviteit. Na de toetreding stijgt die snel, maar vooral bij de intensieve en grootschalige bedrijven."
+            },
+            {
+              "id": 215,
+              "type": "multiple_choice",
+              "vraag": "Wie profiteren in Polen het meest van de EU-subsidies?",
+              "opties": [
+                "De nieuwe stedelingen die op hun eigen kleine perceel grond aardappels voor zichzelf poten",
+                "De kleine bedrijven van minder dan 5 hectare",
+                "De intensieve en grootschalige bedrijven, vaak van buitenlandse boeren en investeerders",
+                "De boeren in de meest afgelegen berggebieden"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Meer dan de helft van de Poolse bedrijven is nog kleiner dan 5 hectare. Die kleinere bedrijven delven het onderspit, terwijl de grote bedrijven snel in productiviteit stijgen."
+            },
+            {
+              "id": 237,
+              "type": "volgorde",
+              "vraag": "Zet de ontwikkeling van de Poolse landbouw in de juiste volgorde.",
+              "opties": {
+                "A": "Polen hoort bij het Oostblok en kent vooral kleine bedrijven van zo'n 6 hectare",
+                "B": "Na 1989 hervormt het land naar een markteconomie",
+                "C": "In 2004 treedt Polen toe tot de EU, met 25 procent van de beroepsbevolking in de landbouw",
+                "D": "Schaalvergroting zet door en de productiviteit van grote bedrijven stijgt snel"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Alleen het noordwesten van Polen kende in de communistische tijd grootschalige staatsbedrijven. Nu is meer dan de helft van de bedrijven nog steeds kleiner dan 5 hectare."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "17.3",
+          "subdoel_titel": "Actoren in de agrarische keten",
+          "uitleg_tekst": "Tussen boer en consument zit een keten van bedrijven. De agri-business beheerst die keten en heeft daardoor veel macht; overheden stellen eisen en worden door lobby's beïnvloed.",
+          "vragen": [
+            {
+              "id": 216,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de agro-keten in Nederland. Welk deel van de consumentenprijs van voeding gaat naar de boer?",
+              "afbeelding": "images/bron45_agroketen.jpg",
+              "opties": [
+                "Ongeveer 5 procent",
+                "Ongeveer 50 procent",
+                "Ongeveer 80 procent",
+                "Ongeveer 20 procent"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "De overige 80 procent gaat naar bedrijven in de keten. In die keten staan 65.000 boeren en tuinders tegenover slechts 5 inkoopkantoren: dat geeft de supermarkten veel macht."
+            },
+            {
+              "id": 217,
+              "type": "invullen",
+              "vraag": "Hoe noem je de grootwinkelbedrijven die de gehele agrarische productieketen beheersen, inclusief transport, handel en verkoop?",
+              "juiste_antwoord": "agri-business",
+              "uitleg": "De agri-business koopt wereldwijd zo goedkoop mogelijk in en sluit contracten met boeren: de afzet is gegarandeerd zolang de boer de zaden, kunstmest en pesticiden van de multinational gebruikt."
+            },
+            {
+              "id": 218,
+              "type": "multiple_choice",
+              "vraag": "Waarom vertrekken sommige Nederlandse boeren naar landen als Polen?",
+              "opties": [
+                "De grondprijs in Nederland is zeer hoog, waardoor hoge leningen en risico's nodig zijn",
+                "In Nederland gelden geen milieueisen meer",
+                "In Polen krijgen boeren helemaal geen EU-subsidie, waardoor produceren daar goedkoper is",
+                "In Nederland mag niet meer geëxporteerd worden"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Door internationale concurrentie voelen boeren zich gedwongen meer en goedkoper te produceren. Voor grondaankoop en investeringen zijn dan hoge leningen nodig, terwijl de prijzen laag blijven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leerdoel_id": 18,
+      "paragraaf": "1.9",
+      "leerdoel_titel": "De toekomst van de landbouw in Nederland en Polen",
+      "uitleg_tekst": "Globalisering zet de wereldmarktprijs van veel landbouwproducten onder druk. Een boer kan daar op vier manieren op reageren: bedrijfsbeëindiging, intensivering, specialisatie of diversificatie met nevenactiviteiten zoals natuurbeheer, toerisme of zorg. De keuze hangt sterk samen met de lokale mogelijkheden. De intensieve, grootschalige landbouw heeft grote nadelen: veeziekten verspreiden zich snel, het dierenwelzijn is laag, de biodiversiteit daalt, natuurgebieden verdrogen en dorpen op het platteland krimpen. Biologische landbouw werkt zonder chemische bestrijdingsmiddelen en kunstmest, maar is arbeidsintensiever en duurder. De landschappelijke kwaliteit — de aantrekkelijkheid van het landschap — ging in Nederland én Polen sterk achteruit. Veel boeren krijgen daarom GLB-subsidie voor natuurbeheer, wat kansen biedt op het platteland waar weinig andere inkomensmogelijkheden zijn.",
+      "subdoelen": [
+        {
+          "subdoel_id": "18.1",
+          "subdoel_titel": "Vier reacties van boeren op de wereldmarkt",
+          "uitleg_tekst": "Boeren reageren met bedrijfsbeëindiging, intensivering, specialisatie of diversificatie op de druk van de geglobaliseerde markt.",
+          "vragen": [
+            {
+              "id": 219,
+              "type": "multiple_choice",
+              "vraag": "Een boer gaat naast zijn bedrijf ook geld verdienen met een camping en zorg voor cliënten. Hoe heet deze reactie op de geglobaliseerde markt?",
+              "opties": [
+                "Intensivering",
+                "Diversificatie",
+                "Specialisatie",
+                "Bedrijfsbeëindiging"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Bij diversificatie verdient de boer ook met nevenactiviteiten: natuurbeheer, directe verkoop, windmolens, toerisme of zorg. De keuze hangt af van de lokale mogelijkheden — voor een camping moet de omgeving wel aantrekkelijk zijn."
+            },
+            {
+              "id": 220,
+              "type": "multiple_choice",
+              "vraag": "Wat bedoelt het boek met intensivering?",
+              "opties": [
+                "Stoppen met het bedrijf en de grond verkopen",
+                "Zich beperken tot één enkel product en daar superkwaliteit in leveren",
+                "Een grotere opbrengst per hectare, per dier en per arbeider behalen",
+                "Overschakelen op biologische landbouw"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Denk aan de bio-industrie en de glastuinbouw, met melkrobots en gps-gestuurde machines voor zaaien en bemesten. Specialisatie is iets anders: dan richt de boer zich op enkele producten."
+            },
+            {
+              "id": 221,
+              "type": "multiple_choice",
+              "vraag": "Wat gebeurt er meestal met het land van een boer die zijn bedrijf beëindigt?",
+              "opties": [
+                "Het wordt door de EU opgekocht en vervolgens onder jonge boeren verdeeld",
+                "Het wordt altijd omgezet in natuurgebied",
+                "Het wordt verplicht biologisch voortgezet",
+                "Het wordt overgenomen door een buurboer, wat leidt tot schaalvergroting"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Boeren stoppen doordat er geen opvolger is of door een faillissement. In Polen wordt het land vaak simpelweg verlaten, waarna het verruigt en dichtgroeit."
+            },
+            {
+              "id": 222,
+              "type": "invullen",
+              "vraag": "Hoe noem je het verschijnsel dat een boer zich beperkt tot één of enkele producten om daar superkwaliteit in te leveren?",
+              "juiste_antwoord": "specialisatie",
+              "uitleg": "Het gemengde bedrijf, waar de akkerbouw in dienst stond van de veeteelt, bestaat bijna niet meer. Specialiseren is rendabeler."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "18.2",
+          "subdoel_titel": "Nadelen van de intensieve landbouw",
+          "uitleg_tekst": "De intensieve grootschalige productie levert problemen op voor mensen, dieren, bedrijven en het landschap: veeziekten, laag dierenwelzijn, dalende biodiversiteit, verdroging en bevolkingskrimp.",
+          "vragen": [
+            {
+              "id": 223,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke nadelen heeft de intensieve, grootschalige landbouw volgens het boek?",
+              "opties": [
+                "Veeziekten ontstaan en verspreiden zich snel",
+                "Het dierenwelzijn is laag",
+                "De biodiversiteit daalt en het landschap wordt minder aantrekkelijk",
+                "Natuurgebieden in de omgeving verdrogen",
+                "De voedselproductie wordt onvoldoende"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Daar komt bevolkingskrimp bij: dorpen bieden weinig werk meer, mensen trekken weg en de leefbaarheid daalt. De voedselvoorziening is juist wél veiliggesteld door de reguliere landbouw."
+            },
+            {
+              "id": 224,
+              "type": "multiple_choice",
+              "vraag": "Waarom verspreiden veeziekten als vogelgriep en varkenspest zich in de intensieve veehouderij zo snel?",
+              "opties": [
+                "Er leven grote aantallen dieren bij elkaar die over grote afstanden worden vervoerd",
+                "De dieren krijgen te weinig voer",
+                "De stallen staan te ver uit elkaar",
+                "Er wordt te weinig kunstmest gebruikt op de percelen rond de stallen en de weilanden"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Denk ook aan Q-koorts, BSE en mond-en-klauwzeer. De combinatie van dichtheid en transport maakt een uitbraak snel tot een ramp."
+            },
+            {
+              "id": 225,
+              "type": "multiple_choice",
+              "vraag": "Waarom treffen de maatregelen voor verduurzaming uit het GLB volgens het boek hun doel niet?",
+              "opties": [
+                "Boeren hebben nog geen enkele maatregel genomen",
+                "Elk land bepaalt zelf waar de subsidies terechtkomen",
+                "De EU heeft geen budget meer voor landbouw",
+                "De maatregelen gelden alleen voor biologische bedrijven"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Een deel van de subsidies gaat naar grote bedrijven in gebieden waar het milieu al zwaar belast wordt. De broeikasgasemissies namen toe en de biodiversiteit daalde overal."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "18.3",
+          "subdoel_titel": "Biologische landbouw en landschappelijke kwaliteit",
+          "uitleg_tekst": "Biologische landbouw werkt zonder chemische bestrijdingsmiddelen en kunstmest, maar levert minder op. De landschappelijke kwaliteit ging achteruit; GLB-subsidie voor natuurbeheer biedt kansen.",
+          "vragen": [
+            {
+              "id": 226,
+              "type": "multiple_choice",
+              "vraag": "Waarom zijn biologische producten duurder dan gangbare?",
+              "opties": [
+                "Biologische bedrijven zijn altijd veel kleiner",
+                "Biologische boeren krijgen geen enkele vorm van subsidie uit het GLB",
+                "De opbrengst is lager en de teelt kost meer tijd en dus geld",
+                "De vraag naar biologische producten is te groot"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Biologische landbouw is diervriendelijker en arbeidsintensiever. Wie wil omschakelen moet bovendien eerst twee jaar biologisch werken voordat het keurmerk en dus de hogere prijs komt."
+            },
+            {
+              "id": 227,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de tabel waarin biologische en reguliere landbouw vergeleken worden. Wat valt op aan de gemiddelde bedrijfsgrootte van biologische bedrijven?",
+              "afbeelding": "images/bron47_biologisch_regulier.jpg",
+              "opties": [
+                "Die is in beide landen precies gelijk aan het gemiddelde",
+                "Die is in beide landen kleiner dan het landelijk gemiddelde",
+                "Die is in Nederland groter, maar in Polen juist veel kleiner dan het gemiddelde",
+                "Die is zowel in Nederland als in Polen groter dan het landelijk gemiddelde"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In Nederland 41,1 hectare tegenover 31,9 gemiddeld, in Polen 21,3 tegenover 9,8. De productiviteit per hectare ligt bij biologisch juist lager: 7800 euro tegen 11.500 euro in Nederland."
+            },
+            {
+              "id": 228,
+              "type": "multiple_choice",
+              "vraag": "Waarom is achteruitgang van de landschappelijke kwaliteit ook economisch een probleem?",
+              "opties": [
+                "Door de toegenomen welvaart willen stedelingen juist recreëren op een aantrekkelijk platteland",
+                "Een saai landschap levert lagere oogsten op",
+                "De EU verlaagt de subsidie voor boeren die in een minder aantrekkelijk landschap werken of wonen",
+                "Boeren kunnen hun grond dan niet meer verkopen"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Veel boeren krijgen daarom GLB-subsidie voor natuurbeheer: later maaien, om nesten van weidevogels heen werken, slootkanten laten staan en akkerranden inzaaien met bloemen."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

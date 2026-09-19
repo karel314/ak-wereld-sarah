@@ -1,0 +1,242 @@
+{
+  "appId": "ak-wereld-sarah",
+  "title": "Aardrijkskunde Wereld",
+  "shortName": "AK Wereld",
+  "subtitle": "4 havo H2 Wereldbeeld & 5 havo H1 Globalisering",
+  "description": "Quiz app voor Aardrijkskunde: 4 havo H2 (Wereldbeeld) en 5 havo H1 (Globalisering), buiteNLand",
+  "studentName": "Sarah",
+  "greeting": "Hoi Sarah! Klaar om te stampen?",
+  "lang": "nl",
+  "storageKey": "ak-wereld-progress",
+  "theme": {
+    "primary": "#16a34a",
+    "light": "#4ade80",
+    "dark": "#15803d",
+    "bg": "#f0fdf4",
+    "bgAccent": "#dcfce7"
+  },
+  "manifest": {
+    "name": "Aardrijkskunde Wereld - Quiz",
+    "short_name": "AK Wereld",
+    "description": "Quiz app voor Aardrijkskunde 4 havo H2 en 5 havo H1",
+    "theme_color": "#16a34a",
+    "background_color": "#f0fdf4"
+  },
+  "themeColorMeta": "#16a34a",
+  "appleMobileWebAppTitle": "AK Wereld",
+  "gridColumns": "1fr 1fr 1fr",
+  "dataFiles": [
+    "data/vragen_4h_h2.json",
+    "data/vragen_5h_h1.json"
+  ],
+  "badges": {
+    "1": {
+      "name": "Welvaartsmeter",
+      "emoji": "💶"
+    },
+    "2": {
+      "name": "Spreidingsexpert",
+      "emoji": "🗺️"
+    },
+    "3": {
+      "name": "Cultuurkenner",
+      "emoji": "🎭"
+    },
+    "4": {
+      "name": "Centrum-periferiepro",
+      "emoji": "⚙️"
+    },
+    "5": {
+      "name": "Demografiedokter",
+      "emoji": "👶"
+    },
+    "6": {
+      "name": "Stadsbouwer",
+      "emoji": "🏙️"
+    },
+    "7": {
+      "name": "Grenslandkenner",
+      "emoji": "🌵"
+    },
+    "8": {
+      "name": "Maquiladora-meester",
+      "emoji": "🏭"
+    },
+    "9": {
+      "name": "Migratiespecialist",
+      "emoji": "🚶"
+    },
+    "10": {
+      "name": "Wereldverbinder",
+      "emoji": "🌍"
+    },
+    "11": {
+      "name": "Containerkoning",
+      "emoji": "📦"
+    },
+    "12": {
+      "name": "Global-shift-scout",
+      "emoji": "🔀"
+    },
+    "13": {
+      "name": "Cultuurmixer",
+      "emoji": "🎶"
+    },
+    "14": {
+      "name": "Netwerkbouwer",
+      "emoji": "✈️"
+    },
+    "15": {
+      "name": "Wereldstadgids",
+      "emoji": "🌆"
+    },
+    "16": {
+      "name": "GLB-goeroe",
+      "emoji": "🇪🇺"
+    },
+    "17": {
+      "name": "Ketenkenner",
+      "emoji": "🚜"
+    },
+    "18": {
+      "name": "Duurzaamheidsdenker",
+      "emoji": "🌱"
+    }
+  },
+  "correctMsgs": [
+    "Goed! Jij leest een wereldkaart als je eigen tijdlijn.",
+    "Die zat! Het centrum-periferiemodel heeft geen geheimen voor jou.",
+    "Knap! Zelfs de WTO zou hier blij van worden.",
+    "Correct! Jij kent het verschil tussen bbp en bnp feilloos.",
+    "Top! De koopkracht van jouw kennis is enorm.",
+    "Je scoort hoger dan de verstedelijkingsgraad van Nederland!",
+    "Precies! Jij weet in welke fase van het transitiemodel je zit.",
+    "Sterker dan de tortilla curtain!",
+    "Je kennis verspreidt zich sneller dan een cultuurelement via TikTok.",
+    "Bingo! Jouw ruilvoet verbetert met elke goede vraag.",
+    "Die kennis verspreidt zich als een cultuurelement in het steile deel van de S-curve!",
+    "Goed zo! Jij ziet het verschil tussen graad en tempo direct.",
+    "Je bent een echte global citizen!",
+    "Klopt! Jij weet precies waar het economisch zwaartepunt ligt.",
+    "Perfect! De Big Mac-index is jouw tweede natuur.",
+    "Je hebt meer overzicht dan een satelliet van Starlink.",
+    "Correct! Jouw kennis is grondgebonden en duurzaam.",
+    "Je kent de vier nadelen van het bbp/hoofd uit je hoofd!",
+    "Goed! Jij verwart maquiladoras nooit met migranten.",
+    "Die vraag is geassembleerd én goedgekeurd!",
+    "Je bent sneller dan een container in de haven van Rotterdam.",
+    "Prima! Je weet dat homogenisering en heterogenisering samen gaan.",
+    "Yes! Jouw antwoord is hoogwaardige export.",
+    "Zo! Die pushfactoren duwden je meteen naar het goede antwoord.",
+    "Je kent de grijze druk beter dan het CBS.",
+    "Wow, jouw leercurve is een echte S-curve!",
+    "Goed! Jij weet waarom die dollar niet overal evenveel waard is.",
+    "Klopt als een bevolkingspiramide in fase 2!",
+    "Je scoort als een wereldstad in een mondiaal netwerk.",
+    "Je hebt de lingua franca van de aardrijkskunde onder de knie.",
+    "Goed! Jouw kennis is offshoring-proof.",
+    "Dat had je aardrijkskundeleraar niet beter kunnen formuleren!",
+    "Precies! Het GLB heeft geen geheim meer voor jou.",
+    "Je bent productiever dan een Nederlandse hectare landbouwgrond.",
+    "Correct! Jij herkent afwenteling in ruimte én tijd.",
+    "Sterk! Je kent de vijf typen migranten op je duimpje.",
+    "Goed! Jouw antwoord reist sneller dan een glasvezelkabel.",
+    "Yes! Jij weet precies wie er aan de kant staat bij globalisering.",
+    "Je kent de Poolse landbouwstructuur beter dan menig boer.",
+    "Bingo! Je hebt de vicieuze cirkel doorbroken.",
+    "Top! Jouw kennis heeft een HDI van 0,99.",
+    "Je bent klaar voor het SE, wereldreiziger!"
+  ],
+  "wrongMsgs": [
+    "Helaas! Dit antwoord ging de verkeerde kant van de grens over.",
+    "Net niet — jouw ruilvoet verslechtert even.",
+    "Foutje! Maar je aspiraties zijn duidelijk aanwezig.",
+    "Mis! Deze vraag zat in de overgangszone.",
+    "Oeps, dat was meer bnp dan bbp.",
+    "Niet goed, maar je kennis zit nog in fase C van de S-curve.",
+    "Die pushfactor was te sterk. Volgende keer beter!",
+    "Hmm, dat antwoord is ergens in de periferie blijven steken.",
+    "Fout, maar elke fout verhoogt je productiviteit.",
+    "Bijna! Nog een klein beetje diffusie nodig.",
+    "Dat antwoord kwam niet door de douane.",
+    "Helaas, dit was een importheffing op je score.",
+    "Mis! Maar je bent nog steeds op de goede route.",
+    "Die zat in de verkeerde container.",
+    "Foutje — even terug naar de brontekst.",
+    "Niet goed, maar de tijd-ruimtecompressie is aan jouw kant.",
+    "Hmm, je verwarde graad met tempo. Kan de beste overkomen.",
+    "Dat antwoord was echt een geval van afwenteling.",
+    "Mis! Lees de uitleg, dan zit het er de volgende keer wél in.",
+    "Helaas, dit antwoord zat in fase 1 van het transitiemodel.",
+    "Nee, maar je bent sneller dan de zeespiegelstijging.",
+    "Die ging net als de melkplas een beetje over.",
+    "Foutje. Zelfs geografen slaan de atlas weleens verkeerd open.",
+    "Jammer! Dit antwoord had een inkomenssubsidie nodig.",
+    "Niet goed — dit was offshoring van je kennis.",
+    "Hmm, dat was semiperifeer gegokt.",
+    "Mis, maar je bent goed op weg naar het centrum.",
+    "Deze vraag heeft je even in een tentenkamp gezet.",
+    "Fout! Maar de volgende vraag is jouw doorbraak.",
+    "Die gleed weg als een gletsjer.",
+    "Helaas. Nog even nuttige neerslag van kennis nodig.",
+    "Dat was meer heterogenisering dan het goede antwoord.",
+    "Mis! Check de bron nog even goed.",
+    "Niet goed, maar je grijze druk is gelukkig nog laag.",
+    "Deze had een betere vestigingsplaatsfactor verdiend.",
+    "Foutje — jouw handelsbalans staat even in de min.",
+    "Helaas! Die maquiladora stond in het verkeerde land.",
+    "Bijna goed: je zat in de juiste paragraaf, verkeerde begrip.",
+    "Mis, maar met een beetje diversificatie kom je er wel.",
+    "Dat antwoord was net zo droog als de Sonorawoestijn.",
+    "Niet goed. Gelukkig is je kennis reshoring-baar!",
+    "Foutje bedankt — lees de uitleg en pak 'm de volgende ronde."
+  ],
+  "resultsMsgs": {
+    "perfect": [
+      "Foutloos! Jij bent klaar voor het proefwerk, wereldburger.",
+      "Perfecte score! De hele wereldkaart zit in je hoofd."
+    ],
+    "great": [
+      "Uitstekend! Nog een paar puntjes op de i en je bent er.",
+      "Sterk resultaat! Je beheerst de modellen echt."
+    ],
+    "good": [
+      "Goed bezig! Focus op de rode leerdoelen en je gaat vlammen.",
+      "Prima score. Nog een ronde en je zit in het centrum."
+    ],
+    "okay": [
+      "Een goede start! Herhaal de zwakke leerdoelen met de flashcards.",
+      "Je bent op weg. Pak de lastige begrippen er nog eens bij."
+    ],
+    "low": [
+      "Niet getreurd — de wereld is ook niet in één dag in kaart gebracht.",
+      "Dit is je startpunt. Gebruik de flashcards en probeer opnieuw!"
+    ]
+  },
+  "confettiColors": [
+    "#16a34a",
+    "#22c55e",
+    "#f59e0b",
+    "#3b82f6",
+    "#ef4444",
+    "#8b5cf6"
+  ],
+  "uiStrings": {
+    "correct": "Goed!",
+    "wrong": "Helaas, fout!",
+    "next": "Volgende",
+    "seeResults": "Bekijk resultaten",
+    "stop": "Stoppen",
+    "confirmStop": "Wil je de quiz stoppen? Je voortgang wordt opgeslagen.",
+    "confirmReset": "Weet je zeker dat je alle voortgang wilt wissen? Dit kan niet ongedaan worden.",
+    "noProgress": "Begin met een quiz om je voortgang te zien!",
+    "typeLabels": {
+      "multiple_choice": "Meerkeuze",
+      "choose_all_that_apply": "Meerdere antwoorden",
+      "invullen": "Invullen",
+      "volgorde": "Volgorde"
+    },
+    "checkOrder": "Controleer volgorde",
+    "correctOrder": "Juiste volgorde"
+  }
+}
